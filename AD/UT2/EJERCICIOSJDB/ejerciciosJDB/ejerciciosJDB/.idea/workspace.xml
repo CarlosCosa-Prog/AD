@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="caf72121-eb1e-4a68-8810-b78d192ce6fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB2/src/main/java/com/dam2/Escritura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB2/src/main/java/com/dam2/Lectura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB2/src/main/java/com/dam2/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB2/src/main/java/com/dam2/Productos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejJAXB2/src/test/java/com/dam2/EscrituraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ejercicios/ejercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/propiedades/propiedades.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/untitled/ejercicio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../UT1/ut1Ejemplos/.idea/ut1Ejemplos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dam2/ej1_ConexionBaseDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dam2/ej2_EmpleadosCrud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dam2/ej3_Consultas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dam2/ej4_ConsultasUpdatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dam2/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practica1ccs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practica1ccs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practica1ccs/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practica1ccs/src/main/java/com/dam2/AppConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practica1ccs/src/main/java/com/dam2/AppDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practica1ccs/src/main/java/com/dam2/AppResultSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../practica1ccs/src/test/java/com/dam2/AppConnectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex10SelectBackwards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex11ResultSetUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex12ResultDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex13ResultSetInsertRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex13bResultSetInsertRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex14PreparedStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex1b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex2Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex2InsertAmbParametres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex2Update.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex2bUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex3ResultSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex4Select.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex5ForwardOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex5ForwardOnlyPostgres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex6Sensitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex7TransaccioDiscos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex7TransaccioEmpresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex8SuportaBatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex9Batch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/ex9BatchDiscos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/exercici.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2empresamusica/exerciciSWING.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej10ProcedureSinParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej11ProcedureConParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej12Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej12bFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej13Pool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej1Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej2ConexionGrafica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej3Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej4ResultSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej5ResultSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej6CRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej7UpdatePreparedStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej8Transaccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ut2-ejemplos/src/main/java/com/dam2/ut2pedidos/ej9Batch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../PSP/pruebas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../PSP/pruebas/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../PSP/pruebas/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../PSP/pruebas/src/main/java/com/dam2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../PSP/pruebas/src/main/java/com/dam2/CreadorProcesosProcessBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../PSP/pruebas/src/main/java/com/dam2/ProcesoPrincipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../PSP/pruebas/src/test/java/com/dam2/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/dam2/ConexionBaseDatos.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="34VThlzHlDxY3zENxTX8rjgkxSQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConexionBaseDatos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ej1_ConexionBaseDatos.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ej1_ConexionBaseDatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dam2.ej1_ConexionBaseDatos" />
+      <module name="ejerciciosJDB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dam2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ej1_ConexionBaseDatos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caf72121-eb1e-4a68-8810-b78d192ce6fe" name="Changes" comment="" />
+      <created>1761297860476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761297860476</updated>
+    </task>
+    <servers />
+  </component>
+</project>
