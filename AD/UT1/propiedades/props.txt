@@ -1,0 +1,6 @@
+#Ejemplo de propiedades
+#Mon Sep 15 12:44:43 CEST 2025
+direccion=Petrer
+edad=21
+nombre=Carlos
+telefono=123456789
