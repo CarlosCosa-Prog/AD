@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+    <Productos>
+        <Producto>1Cola Cao12.0</Producto>
+        <Id/>
+        <Nombre/>
+        <Precio/>
+        <Producto>2Galletas María8.0</Producto>
+        <Id/>
+        <Nombre/>
+        <Precio/>
+        <Producto>3Nueces 1 kg6.0</Producto>
+        <Id/>
+        <Nombre/>
+        <Precio/>
+    </Productos>
+</xml>

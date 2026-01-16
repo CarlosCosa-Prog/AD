@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea66c0c4-53cc-45f6-8fa8-a27ad0a173ab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../jdPractica/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdPractica/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdPractica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdPractica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdPractica/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdPractica/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdPractica/src/main/java/com/dam2/ejercicio1Conectar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdPractica/src/main/java/com/dam2/practica1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdPractica/src/main/java/com/dam2/prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdPractica/src/test/java/com/dam2/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/src/main/java/com/dam2/consulta1Forward.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/src/main/java/com/dam2/consulta2Scrolleable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/src/main/java/com/dam2/consulta3Actualizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/src/main/java/com/dam2/ejercicio1conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/src/main/java/com/dam2/principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruabasjcbc/src/test/java/com/dam2/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejJAXB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ejJAXB/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UT2/ejerciciosJDB/ejerciciosJDB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UT2/ejerciciosJDB/ejerciciosJDB/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UT2/ejerciciosJDB/ejerciciosJDB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UT2/ejerciciosJDB/ejerciciosJDB/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/ConexionBaseDatos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/ConexionBaseDatos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="32akTclyCEXK6sOwE3pIR8BjcVA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ciclosm/Escritorio/AD/UT1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="UT1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="UT1" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea66c0c4-53cc-45f6-8fa8-a27ad0a173ab" name="Changes" comment="" />
+      <created>1757666079626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757666079626</updated>
+      <workItem from="1757666081186" duration="27000" />
+      <workItem from="1757666128926" duration="18000" />
+      <workItem from="1757668051423" duration="80000" />
+      <workItem from="1758540933601" duration="226000" />
+      <workItem from="1758711385832" duration="53000" />
+      <workItem from="1763108253845" duration="336000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

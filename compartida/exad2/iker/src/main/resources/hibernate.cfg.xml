@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+      <!--PONEMOS LA URL DE CONEXION CON SUS PARAMETROS NECESARIOS PARA ACCEDER-->
+    <property name="connection.url">jdbc:postgresql://localhost:5432/examen</property>
+    <property name="connection.driver_class">org.postgresql.Driver</property>
+    <property name="connection.username">root</property>
+      <property name="connection.password">root</property>
+
+    <!-- DB schema will be updated if needed -->
+      <!--DEJAMOS EL PROYECTO EN FASE DE DESARROLLO YA QUE EL ENUNCIADO NO NOS PIDE CAMBIARLO-->
+    <property name="hibernate.hbm2ddl.auto">update</property>
+    <property name="show_sql">True</property>
+
+      <!--HACEMOS LOS MAPPING PARA QUE HIBERNATE RECONOZCA LAS CLASES-->
+      <mapping class ="org.example.relaciones.Biografia"/>
+      <mapping class ="org.example.relaciones.Autor"/>
+      <mapping class ="org.example.relaciones.ContenidoDigital"/>
+      <mapping class ="org.example.relaciones.Libro"/>
+
+  </session-factory>
+</hibernate-configuration>

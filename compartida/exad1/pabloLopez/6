@@ -1,0 +1,9 @@
+El patron MVC(Modelo Vista Control) es un modelo que consiste en tres componentes como su nombre explica:
+
+Modelo:Que se encarga de las opciones de el acceso a datos(actualizarla,modificarla etc)
+Vista:Que consiste en la interfaz grafica y la parte visual del programa
+Control:Que seria lo que une o hace que se enlacen el modelo y la vista.
+
+Este modelo las ventajes principales son:
+
+

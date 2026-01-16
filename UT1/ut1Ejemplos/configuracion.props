@@ -1,0 +1,6 @@
+#Fichero de configuracion para mi aplicacion en dam2
+#Fri Sep 12 11:53:45 CEST 2025
+password=pass1
+port=3306
+server=miservidor
+user=user1

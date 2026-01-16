@@ -1,0 +1,1 @@
+La diferencia principal es que los no direcos directos consumen menos recursos y son los que hemos estado utilizando mientrasd que los directos se suelen utiizar para programas mas desarollados y extensos y esto implica mas uso de memoria.

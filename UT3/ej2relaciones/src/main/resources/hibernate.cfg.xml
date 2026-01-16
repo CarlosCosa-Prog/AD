@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+      <!-- 1. URL -->
+      <property name="connection.url">jdbc:postgresql://localhost:5432/relaciones</property>
+      <!-- 2. Driver Class -->
+      <property name="connection.driver_class">org.postgresql.Driver</property>
+      <!-- 3. Usuario y contraseña (está comentado por defecto) -->
+      <property name="connection.username">root</property>
+      <property name="connection.password">root</property>
+
+      <!-- 4. AutoUpdate (está comentado por defecto) -->
+      <property name="hibernate.hbm2ddl.auto">update</property>
+      <!-- 5. muestra las secuencias sql que se van ejecutando (opcional) -->
+      <property name="show_sql">true</property>
+      <!-- 6. Mapping de cada una de las clases-->
+      <mapping class="com.dam2.ej2relaciones.Empleado"/>
+      <mapping class="com.dam2.ej2relaciones.Empresa"/>
+      <mapping class="com.dam2.ej2relaciones.Deporte"/>
+      <mapping class="com.dam2.ej2relaciones.Usuario"/>
+      <mapping class="com.dam2.ej2relaciones.Inversor"/>
+      <mapping class="com.dam2.ej2relaciones.Jefe"/>
+      <mapping class="com.dam2.ej2relaciones.Tecnico"/>
+  </session-factory>
+</hibernate-configuration>

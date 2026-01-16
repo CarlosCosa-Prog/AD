@@ -1,0 +1,43 @@
+from Disco
+
+from Disco as d
+
+from Disco d
+
+from disco
+
+select titulo from Disco d
+
+select d.titulo from Disco d
+
+select d.titulo from Disco d where d.precio < 10
+
+select d.titulo from Disco d where d.precio < 20
+
+select d.titulo from Disco d where d.precio < 20 order by d.titulo
+
+select d.titulo from Disco d where d.precio < 20 order by d.titulo desc
+
+select d.titulo from Disco d where d.titulo like 'S%'
+
+select d.titulo from Disco d where d.titulo like 'S%' and d.precio < 20
+
+select d.titulo from Disco d where d.titulo like 'S%' or d.precio < 20
+
+select sum(d.precio) from Disco d where d.titulo like 'S%'
+
+select sum(d.precio) from Disco d
+
+select sum(d.precio) from Disco d group by d.musico
+ 
+select sum(d.precio), d.musico.cod from Disco d group by d.musico
+
+select sum(d.precio) from Disco d, Musico m group by d.musico.nom
+
+select sum(d.precio), d.musico.nom from Disco d, Musico m group by d.musico.nom
+
+select sum(d.precio), d.musico.nom from Disco d, Musico m where d.musico.cod = m.cod group by d.musico.nom
+
+from Disco d where d.musico.cod = :msc
+ 
+update Disco d set precio = precio*1.2 where d.musico.cod=1

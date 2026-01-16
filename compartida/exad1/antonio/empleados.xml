@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+    <Empleados>
+        <Empleado>1Pepe PÃ©rez2000.0</Empleado>
+        <Id/>
+        <Nombre/>
+        <Salario/>
+        <Empleado>2JuÃ¡n MartÃ­nez1000.0</Empleado>
+        <Id/>
+        <Nombre/>
+        <Salario/>
+        <Empleado>3Manolo LÃ³pez1500.0</Empleado>
+        <Id/>
+        <Nombre/>
+        <Salario/>
+    </Empleados>
+</xml>

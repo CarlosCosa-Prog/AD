@@ -1,0 +1,1 @@
+Statement tiene un problema deseguridad con el codigo ya que lo ejecuta el sql como String, PreparedStatement lo que haces es que lo precompila y utiliza la ? para luego nosotros pasarle los parametros. Esto lo que hace es que no se permita insertar codigo a los atacantes.

@@ -1,0 +1,6 @@
+#Fichero de configuracion para mi aplicación en DAM2
+#Mon Sep 15 12:18:50 CEST 2025
+password=pass1
+port=9999
+server=miservidorDAM2
+user=rca

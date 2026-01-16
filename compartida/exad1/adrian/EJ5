@@ -1,0 +1,1 @@
+La diferencia entre Statement y PreparedStatementes su seguridad ya que en PreparedStatement son funciones de Java ya compiladas que se ejecutan mediante un todo o nada, si alguna linea del codigo falla no se realizan los cambios en la base de datos, de esta manera se mantienen la integridad de los datos

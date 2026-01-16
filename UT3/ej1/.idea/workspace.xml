@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28fc6890-caa1-4fe1-be21-010b45a0c3cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ej1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdPractica/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdPractica/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdPractica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdPractica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdPractica/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdPractica/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdPractica/src/main/java/com/dam2/ejercicio1Conectar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdPractica/src/main/java/com/dam2/practica1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdPractica/src/main/java/com/dam2/prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jdPractica/src/test/java/com/dam2/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/main/java/com/dam2/consulta1Forward.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/main/java/com/dam2/consulta2Scrolleable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/main/java/com/dam2/consulta3Actualizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/main/java/com/dam2/ejercicio1conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/main/java/com/dam2/principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/test/java/com/dam2/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UT1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UT1/ejJAXB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT1/ejJAXB/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UT2/ejerciciosJDB/ejerciciosJDB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT2/ejerciciosJDB/ejerciciosJDB/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UT2/ejerciciosJDB/ejerciciosJDB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT2/ejerciciosJDB/ejerciciosJDB/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/ConexionBaseDatos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/ConexionBaseDatos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35bX3rgYbgNz5MuJ5FNqHeYevRr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ciclosm/Escritorio/AD/UT3/ej1/src/main/java/com/dam2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/dam2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dam2.App" />
+      <module name="ej1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dam2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28fc6890-caa1-4fe1-be21-010b45a0c3cb" name="Changes" comment="" />
+      <created>1763379550621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763379550621</updated>
+      <workItem from="1763379551958" duration="3597000" />
+      <workItem from="1763383362994" duration="184000" />
+      <workItem from="1763715080973" duration="5632000" />
+      <workItem from="1763982325371" duration="1402000" />
+      <workItem from="1763986029717" duration="1336000" />
+      <workItem from="1764158096929" duration="676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
