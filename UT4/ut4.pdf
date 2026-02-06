@@ -3,7 +3,7 @@
 1 0 obj
 <<
 /F1 2 0 R /F2 3 0 R /F3 22 0 R /F4 23 0 R /F5 25 0 R /F6 29 0 R 
-  /F7 51 0 R
+  /F7 40 0 R
 >>
 endobj
 2 0 obj
@@ -58,42 +58,42 @@ endobj
 endobj
 12 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 43 0 R /XYZ 57.02362 393.3763 0 ] /Rect [ 97.02362 519.0236 214.8636 531.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 57.02362 393.3763 0 ] /Rect [ 97.02362 519.0236 214.8636 531.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 43 0 R /XYZ 57.02362 244.6763 0 ] /Rect [ 77.02362 501.0236 224.8136 513.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 41 0 R /XYZ 57.02362 244.6763 0 ] /Rect [ 77.02362 501.0236 224.8136 513.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 46 0 R /XYZ 57.02362 165.8888 0 ] /Rect [ 77.02362 483.0236 252.0836 495.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 47 0 R /XYZ 57.02362 731.3236 0 ] /Rect [ 77.02362 483.0236 252.0836 495.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 47 0 R /XYZ 57.02362 404.8236 0 ] /Rect [ 97.02362 465.0236 227.6436 477.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 47 0 R /XYZ 57.02362 319.8236 0 ] /Rect [ 97.02362 465.0236 227.6436 477.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 16 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 48 0 R /XYZ 57.02362 542.8236 0 ] /Rect [ 97.02362 447.0236 274.3436 459.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 48 0 R /XYZ 57.02362 548.653 0 ] /Rect [ 97.02362 447.0236 274.3436 459.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 17 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 53 0 R /XYZ 57.02362 578.8236 0 ] /Rect [ 97.02362 429.0236 245.4236 441.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 57.02362 638.8236 0 ] /Rect [ 97.02362 429.0236 245.4236 441.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 18 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 55 0 R /XYZ 57.02362 768.0236 0 ] /Rect [ 97.02362 411.0236 224.3136 423.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 52 0 R /XYZ 57.02362 262.2394 0 ] /Rect [ 97.02362 411.0236 224.3136 423.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 19 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 55 0 R /XYZ 57.02362 439.8276 0 ] /Rect [ 77.02362 393.0236 197.0636 405.0236 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 55 0 R /XYZ 57.02362 731.3236 0 ] /Rect [ 77.02362 393.0236 197.0636 405.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 20 0 obj
@@ -107,7 +107,7 @@ endobj
 21 0 obj
 <<
 /Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
-  14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R ] /Contents 84 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+  14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R ] /Contents 83 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.60c30064859437276f072fde9a712caf 20 0 R
 >>
@@ -141,7 +141,7 @@ endobj
 endobj
 26 0 obj
 <<
-/Annots [ 24 0 R ] /Contents 85 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Annots [ 24 0 R ] /Contents 84 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -172,7 +172,7 @@ endobj
 endobj
 30 0 obj
 <<
-/Contents 86 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Contents 85 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.d7e3a1fadd6f668e2d1c76c8677bf50e 27 0 R
 >>
@@ -191,7 +191,7 @@ endobj
 endobj
 32 0 obj
 <<
-/Annots [ 31 0 R ] /Contents 87 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Annots [ 31 0 R ] /Contents 86 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -215,7 +215,7 @@ endobj
 endobj
 35 0 obj
 <<
-/Annots [ 33 0 R 34 0 R ] /Contents 88 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Annots [ 33 0 R 34 0 R ] /Contents 87 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -225,7 +225,7 @@ endobj
 endobj
 36 0 obj
 <<
-/Contents 89 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Contents 88 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -235,7 +235,7 @@ endobj
 endobj
 37 0 obj
 <<
-/Contents 90 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Contents 89 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -245,7 +245,7 @@ endobj
 endobj
 38 0 obj
 <<
-/Contents 91 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Contents 90 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -255,7 +255,7 @@ endobj
 endobj
 39 0 obj
 <<
-/Contents 92 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Contents 91 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -265,52 +265,50 @@ endobj
 endobj
 40 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://docs.mongodb.com/drivers/java/sync/current/)
->> /Border [ 0 0 0 ] /Rect [ 184.3036 154.1763 379.0478 166.1763 ] /Subtype /Link /Type /Annot
+/BaseFont /Courier-Oblique /Encoding /WinAnsiEncoding /Name /F7 /Subtype /Type1 /Type /Font
 >>
 endobj
 41 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://mongodb.github.io/mongo-java-driver/4.3/apidocs/mongodb-driver-legacy/index.html)
->> /Border [ 0 0 0 ] /Rect [ 431.0436 154.1763 534.5979 166.1763 ] /Subtype /Link /Type /Annot
+/Contents 92 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 42 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://mongodb.github.io/mongo-java-driver/4.3/apidocs/mongodb-driver-legacy/index.html)
->> /Border [ 0 0 0 ] /Rect [ 57.02362 142.1763 124.2736 154.1763 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://docs.mongodb.com/drivers/java/sync/current/)
+>> /Border [ 0 0 0 ] /Rect [ 267.1136 753.0236 458.7494 765.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 43 0 obj
 <<
-/Annots [ 40 0 R 41 0 R 42 0 R ] /Contents 93 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (https://mongodb.github.io/mongo-java-driver/4.3/apidocs/mongodb-driver-legacy/index.html)
+>> /Border [ 0 0 0 ] /Rect [ 57.02362 741.0236 190.4136 753.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 44 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://mongodb.github.io/mongo-java-driver/3.7/driver/getting-started/quick-start/)
->> /Border [ 0 0 0 ] /Rect [ 77.02362 604.6236 435.5036 616.6236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 77.02362 498.7629 435.5036 510.7629 ] /Subtype /Link /Type /Annot
 >>
 endobj
 45 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://mongodb.github.io/mongo-java-driver/3.7/javadoc/com/mongodb/client/MongoClients.html)
->> /Border [ 0 0 0 ] /Rect [ 77.02362 533.4236 499.4236 545.4236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 77.02362 427.5629 499.4236 439.5629 ] /Subtype /Link /Type /Annot
 >>
 endobj
 46 0 obj
 <<
-/Annots [ 44 0 R 45 0 R ] /Contents 94 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Annots [ 42 0 R 43 0 R 44 0 R 45 0 R ] /Contents 93 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -320,7 +318,7 @@ endobj
 endobj
 47 0 obj
 <<
-/Contents 95 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Contents 94 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -330,7 +328,7 @@ endobj
 endobj
 48 0 obj
 <<
-/Contents 96 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Contents 95 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -342,24 +340,19 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://docs.mongodb.com/manual/tutorial/query-documents/)
->> /Border [ 0 0 0 ] /Rect [ 407.1936 411.4681 537.3327 423.4681 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 407.1936 458.5458 537.3327 470.5458 ] /Subtype /Link /Type /Annot
 >>
 endobj
 50 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://docs.mongodb.com/manual/tutorial/query-documents/)
->> /Border [ 0 0 0 ] /Rect [ 57.02362 399.4681 78.14362 411.4681 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 57.02362 446.5458 78.14362 458.5458 ] /Subtype /Link /Type /Annot
 >>
 endobj
 51 0 obj
 <<
-/BaseFont /Courier-Oblique /Encoding /WinAnsiEncoding /Name /F7 /Subtype /Type1 /Type /Font
->>
-endobj
-52 0 obj
-<<
-/Annots [ 49 0 R 50 0 R ] /Contents 97 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Annots [ 49 0 R 50 0 R ] /Contents 96 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -367,9 +360,9 @@ endobj
 >> /Type /Page
 >>
 endobj
-53 0 obj
+52 0 obj
 <<
-/Contents 98 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Contents 97 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 /Trans <<
 
@@ -377,16 +370,23 @@ endobj
   /Type /Page
 >>
 endobj
-54 0 obj
+53 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://mongodb.github.io/mongo-java-driver/4.3/apidocs/bson/org/bson/codecs/configuration/package-summary.html)
->> /Border [ 0 0 0 ] /Rect [ 57.02362 325.3276 192.0736 337.3276 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 57.02362 616.8236 192.0736 628.8236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+54 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.spring.io/spring-data/mongodb/docs/1.2.0.RELEASE/reference/html/mapping-chapter.html)
+>> /Border [ 0 0 0 ] /Rect [ 57.02362 134.4236 510.0036 146.4236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 55 0 obj
 <<
-/Annots [ 54 0 R ] /Contents 99 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Annots [ 53 0 R 54 0 R ] /Contents 98 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -397,26 +397,19 @@ endobj
 56 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://docs.spring.io/spring-data/mongodb/docs/1.2.0.RELEASE/reference/html/mapping-chapter.html)
->> /Border [ 0 0 0 ] /Rect [ 57.02362 521.8236 510.0036 533.8236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://mongodb.github.io/mongo-java-driver/3.5/driver/getting-started/quick-start-pojo/)
+>> /Border [ 0 0 0 ] /Rect [ 57.02362 284.1308 437.7336 296.1308 ] /Subtype /Link /Type /Annot
 >>
 endobj
 57 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://mongodb.github.io/mongo-java-driver/3.5/driver/getting-started/quick-start-pojo/)
->> /Border [ 0 0 0 ] /Rect [ 57.02362 212.2236 437.7336 224.2236 ] /Subtype /Link /Type /Annot
->>
-endobj
-58 0 obj
-<<
-/BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /FlateDecode ] /Height 31 /Length 1854 /SMask 59 0 R 
+/BitsPerComponent 8 /ColorSpace /DeviceRGB /Filter [ /ASCII85Decode /FlateDecode ] /Height 31 /Length 1854 /SMask 58 0 R 
   /Subtype /Image /Type /XObject /Width 88
 >>
 stream
 Gb"/h9hu^0'ScPkK%RCX;NV$GW(<trl6\ehIfTEJBrS\'g8M,'7A:,XUfGpEa<I?m-(n+Y2.43:n-?D<(k7LhfFY>7&rUjendF5cI,`'%0?2!H<9_e9bhTc#HHnV8]]\'iYul+]nQ%3)i")ulKi\A=p$cQA&s$iU@e!EF-^.)4PNc?+fZdr$,Fd"____cXPKBZ3`.IAUSAim#KGt#U!$FQ&esD`S()Qr+KpDIZh]--Dg#H63lZ*JH6V%JP!ukJ'fQK*CgqpmL/qq'PKj9)a/3M,E*UN/X[g!(kB*BWmA=*SE=NiA%7$QF,YuBWS0*i<^E;?Im+X%HXr?dLL!J$ZL5Q5'gf#P8&FBl(@&Z8<_s#A;Uh7[+X+uZmYgB>O9eqR)-]Y:b_lF!S[c.<>[HR&:]qYKR:S2/d!,Nm"->=\uF!KXO3K@fL^FE_kM2,5Y;\0&7a9YM&TM:Y^[,sbQ5^?%51MOG\Cq093SY?,ZI#7'^`N!#L,&dt5>ck[U(9PTb$AJ2;]je5J)eCi-mcJda@dF$?TaZ/4C8R9-km:8=\Yc&Zo8<B!8XKRBV-eWK#,\E[oFEDV,pC7WQ*Zc)6`[R*V@_nHbZjTAD5o<14dXarnPCTuaI=-EIXC\`EZcWKZ6NnIH,Z)Qo-l-(F=L5<nF@aLAar?"072$Y&\A1"OrX,0jUSCdDal&g@*;O`/)6H7>Li=YK?soXZiG*uhQ>'<;4'DYa3BPA,Z+B.)=jYY@D<23j5<,U^""%rm6&o%)4FQe]mC0ZL"9S[[36FVDb(pbKLaFMVotm@&'kdcVBk9da*o47k_GZ5`V%Sq0_Li-JR3]+(jK@@WgMr#MI)#L97pgZ;q01_D.oa#+-Cj!B%otBO))=O3O_?[Jdg6=QKd6r5"%"`-O9fc.+eaTW;aU]4N^.!qPLqYp'=hoJn:L8seZ7B&5B-PPT73(FB;VRe^"34d'--+bUs9]qPXmf'':b7/->A959Sk8sM+FV#C22CH5go&/]52)OB3A^c":#uoH?sPC\$oFV6m!["rdO\69H</FNmZW@BaH%%1aAq/,hHGGPT9S]6n.WD,U<@U-0R6_V+/75<K4:P[%.HGn+ZSNp[`294M3Y$iLC,eP'E:)8L"mBf4i-BYLcu5WTtk=!MS6nb7^WQ)N'6I)G#N\c[RAs0N8XT9W(d/3p6#=%o.).#IY%f#6d-=="NXgh;+(9^^15K^J%6KJJ4HQ8.?L+m"n,`[!F2420H2c(n/lE&Hp,K%qCQBY$U5bn^MJPE)(Z!)f-MT=@9-d<\t@!N?=g,,^(q)om"i0f9cg+F]6lO^:eE5H05[Ki<8><Gjm]VUElV(mA#W!5t3Q81NA62,VP6Ras[M)YBaQKPkE>n_K/lWlC'b:;\C&5UbH0(aZP(_FAcDkr=Qu""+mslcM(IY_3)]72l3:Hr7OHN\o'jR@+jlQ6>X0SFYd=+S&&ct\lk0UQY52-I?ZY?p9)3)<VK?pV*9bG\F`YK>HLOUjP^d:b.d_rk21($p=0uIFZgdfT/H6'ZmJs,qlE@J+RHE7Pc_EDNNqrY0&5c=4CBE.7qCM*qpX:l`L4=i_PVA2]pfmd0]r3bgYK'JU>G"&I>;6o9DT[kq?PWo#l5,-]JpGUB&DJfT`p#TN=)#YmrFMOb@d`%T5*ZSPZ9lS?TKQ6ZNq:X;.3YcC!d8Xhe=J"40?m]#qh^R'aH=Pcks2K,=1t64`8jJDXW&8[_CK4E\))[*@bCTGoj[\(sX39fR*'oo.GA=VXtVcli1r3jo9<-SEg,6Ma$ThRl=OJQ*t3k2.4&U5n+&@rph`_$^^nF.h0tcPY!L8b^_li>N2?JcErLb2p2+IbuGtH+'[GoC]~>endstream
 endobj
-59 0 obj
+58 0 obj
 <<
 /BitsPerComponent 8 /ColorSpace /DeviceGray /Decode [ 0 1 ] /Filter [ /ASCII85Decode /FlateDecode ] /Height 31 /Length 49 
   /Subtype /Image /Type /XObject /Width 88
@@ -424,11 +417,11 @@ endobj
 stream
 Gb!gk:D:N/)e2CS-l<,_?keQO;(r>H_-d@MZn[jI!+!O3$N~>endstream
 endobj
-60 0 obj
+59 0 obj
 <<
-/Annots [ 56 0 R 57 0 R ] /Contents 100 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 83 0 R /Resources <<
+/Annots [ 56 0 R ] /Contents 99 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 82 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.f969d44abedce71236e0b5bf751c23a3 58 0 R
+/FormXob.f969d44abedce71236e0b5bf751c23a3 57 0 R
 >>
 >> /Rotate 0 
   /Trans <<
@@ -436,128 +429,128 @@ endobj
 >> /Type /Page
 >>
 endobj
+60 0 obj
+<<
+/Outlines 62 0 R /PageLabels 100 0 R /PageMode /UseNone /Pages 82 0 R /Type /Catalog
+>>
+endobj
 61 0 obj
 <<
-/Outlines 63 0 R /PageLabels 101 0 R /PageMode /UseNone /Pages 83 0 R /Type /Catalog
+/Author () /CreationDate (D:20260204114003+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260204114003+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (U.T. 4: ACCESO A BASES DE DATOS NOSQL. MONGODB) /Trapped /False
 >>
 endobj
 62 0 obj
 <<
-/Author () /CreationDate (D:20260115112759+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260115112759+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (U.T. 4: ACCESO A BASES DE DATOS NOSQL. MONGODB) /Trapped /False
+/Count 23 /First 63 0 R /Last 80 0 R /Type /Outlines
 >>
 endobj
 63 0 obj
 <<
-/Count 23 /First 64 0 R /Last 81 0 R /Type /Outlines
+/Dest [ 21 0 R /XYZ 57.02362 183.0236 0 ] /Next 64 0 R /Parent 62 0 R /Title (1. \277QU\311 ES MONGODB?)
 >>
 endobj
 64 0 obj
 <<
-/Dest [ 21 0 R /XYZ 57.02362 183.0236 0 ] /Next 65 0 R /Parent 63 0 R /Title (1. \277QU\311 ES MONGODB?)
+/Dest [ 26 0 R /XYZ 57.02362 359.8236 0 ] /Next 65 0 R /Parent 62 0 R /Prev 63 0 R /Title (2. ESTRUCTURA DE UNA BASE DE DATOS)
 >>
 endobj
 65 0 obj
 <<
-/Dest [ 26 0 R /XYZ 57.02362 359.8236 0 ] /Next 66 0 R /Parent 63 0 R /Prev 64 0 R /Title (2. ESTRUCTURA DE UNA BASE DE DATOS)
+/Dest [ 32 0 R /XYZ 57.02362 765.0236 0 ] /Next 66 0 R /Parent 62 0 R /Prev 64 0 R /Title (3. PUESTA EN MARCHA DE MONGODB)
 >>
 endobj
 66 0 obj
 <<
-/Dest [ 32 0 R /XYZ 57.02362 765.0236 0 ] /Next 67 0 R /Parent 63 0 R /Prev 65 0 R /Title (3. PUESTA EN MARCHA DE MONGODB)
+/Dest [ 35 0 R /XYZ 57.02362 765.0236 0 ] /Next 67 0 R /Parent 62 0 R /Prev 65 0 R /Title (4. OTRAS HERRAMIENTAS MONGODB)
 >>
 endobj
 67 0 obj
 <<
-/Dest [ 35 0 R /XYZ 57.02362 765.0236 0 ] /Next 68 0 R /Parent 63 0 R /Prev 66 0 R /Title (4. OTRAS HERRAMIENTAS MONGODB)
+/Count 4 /Dest [ 35 0 R /XYZ 57.02362 320.4236 0 ] /First 68 0 R /Last 71 0 R /Next 72 0 R /Parent 62 0 R 
+  /Prev 66 0 R /Title (5. CONSULTAS)
 >>
 endobj
 68 0 obj
 <<
-/Count 4 /Dest [ 35 0 R /XYZ 57.02362 320.4236 0 ] /First 69 0 R /Last 72 0 R /Next 73 0 R /Parent 63 0 R 
-  /Prev 67 0 R /Title (5. CONSULTAS)
+/Dest [ 36 0 R /XYZ 57.02362 599.8236 0 ] /Next 69 0 R /Parent 67 0 R /Title (5.1. Recuperando datos)
 >>
 endobj
 69 0 obj
 <<
-/Dest [ 36 0 R /XYZ 57.02362 599.8236 0 ] /Next 70 0 R /Parent 68 0 R /Title (5.1. Recuperando datos)
+/Dest [ 38 0 R /XYZ 57.02362 296.4801 0 ] /Next 70 0 R /Parent 67 0 R /Prev 68 0 R /Title (5.2. Proyecci\363n de campos)
 >>
 endobj
 70 0 obj
 <<
-/Dest [ 38 0 R /XYZ 57.02362 296.4801 0 ] /Next 71 0 R /Parent 68 0 R /Prev 69 0 R /Title (5.2. Proyecci\363n de campos)
+/Dest [ 39 0 R /XYZ 57.02362 638.6236 0 ] /Next 71 0 R /Parent 67 0 R /Prev 69 0 R /Title (5.3. Modificando documentos)
 >>
 endobj
 71 0 obj
 <<
-/Dest [ 39 0 R /XYZ 57.02362 638.6236 0 ] /Next 72 0 R /Parent 68 0 R /Prev 70 0 R /Title (5.3. Modificando documentos)
+/Dest [ 41 0 R /XYZ 57.02362 390.3763 0 ] /Parent 67 0 R /Prev 70 0 R /Title (5.4. Borrando documentos)
 >>
 endobj
 72 0 obj
 <<
-/Dest [ 43 0 R /XYZ 57.02362 390.3763 0 ] /Parent 68 0 R /Prev 71 0 R /Title (5.4. Borrando documentos)
+/Dest [ 41 0 R /XYZ 57.02362 241.1763 0 ] /Next 73 0 R /Parent 62 0 R /Prev 67 0 R /Title (6. CONECTAR CON MONGODB)
 >>
 endobj
 73 0 obj
 <<
-/Dest [ 43 0 R /XYZ 57.02362 241.1763 0 ] /Next 74 0 R /Parent 63 0 R /Prev 68 0 R /Title (6. CONECTAR CON MONGODB)
+/Count 6 /Dest [ 47 0 R /XYZ 57.02362 727.8236 0 ] /First 74 0 R /Last 79 0 R /Next 80 0 R /Parent 62 0 R 
+  /Prev 72 0 R /Title (7. OPERACIONES B\301SICAS EN JAVA)
 >>
 endobj
 74 0 obj
 <<
-/Count 6 /Dest [ 46 0 R /XYZ 57.02362 162.3888 0 ] /First 75 0 R /Last 80 0 R /Next 81 0 R /Parent 63 0 R 
-  /Prev 73 0 R /Title (7. OPERACIONES B\301SICAS EN JAVA)
+/Dest [ 47 0 R /XYZ 57.02362 316.8236 0 ] /Next 75 0 R /Parent 73 0 R /Title (7.1. Operaciones de creaci\363n)
 >>
 endobj
 75 0 obj
 <<
-/Dest [ 47 0 R /XYZ 57.02362 401.8236 0 ] /Next 76 0 R /Parent 74 0 R /Title (7.1. Operaciones de creaci\363n)
+/Count 2 /Dest [ 48 0 R /XYZ 57.02362 545.653 0 ] /First 76 0 R /Last 77 0 R /Next 78 0 R /Parent 73 0 R 
+  /Prev 74 0 R /Title (7.2. Operaciones de lectura: b\372squedas)
 >>
 endobj
 76 0 obj
 <<
-/Count 2 /Dest [ 48 0 R /XYZ 57.02362 539.8236 0 ] /First 77 0 R /Last 78 0 R /Next 79 0 R /Parent 74 0 R 
-  /Prev 75 0 R /Title (7.2. Operaciones de lectura: b\372squedas)
+/Dest [ 48 0 R /XYZ 57.02362 293.653 0 ] /Next 77 0 R /Parent 75 0 R /Title (Ejemplos)
 >>
 endobj
 77 0 obj
 <<
-/Dest [ 48 0 R /XYZ 57.02362 257.8236 0 ] /Next 78 0 R /Parent 76 0 R /Title (Ejemplos)
+/Dest [ 51 0 R /XYZ 57.02362 545.5458 0 ] /Parent 75 0 R /Prev 76 0 R /Title (Operadores)
 >>
 endobj
 78 0 obj
 <<
-/Dest [ 52 0 R /XYZ 57.02362 498.4681 0 ] /Parent 76 0 R /Prev 77 0 R /Title (Operadores)
+/Dest [ 52 0 R /XYZ 57.02362 635.8236 0 ] /Next 79 0 R /Parent 73 0 R /Prev 75 0 R /Title (7.3. Operaciones de modificacion)
 >>
 endobj
 79 0 obj
 <<
-/Dest [ 53 0 R /XYZ 57.02362 575.8236 0 ] /Next 80 0 R /Parent 74 0 R /Prev 76 0 R /Title (7.3. Operaciones de modificacion)
+/Dest [ 52 0 R /XYZ 57.02362 259.2394 0 ] /Parent 73 0 R /Prev 78 0 R /Title (7.4. Operaciones de borrado)
 >>
 endobj
 80 0 obj
 <<
-/Dest [ 55 0 R /XYZ 57.02362 765.0236 0 ] /Parent 74 0 R /Prev 79 0 R /Title (7.4. Operaciones de borrado)
+/Count 1 /Dest [ 55 0 R /XYZ 57.02362 727.8236 0 ] /First 81 0 R /Last 81 0 R /Parent 62 0 R /Prev 73 0 R 
+  /Title (8. MAPEADO DE CLASES)
 >>
 endobj
 81 0 obj
 <<
-/Count 1 /Dest [ 55 0 R /XYZ 57.02362 436.3276 0 ] /First 82 0 R /Last 82 0 R /Parent 63 0 R /Prev 74 0 R 
-  /Title (8. MAPEADO DE CLASES)
+/Dest [ 55 0 R /XYZ 57.02362 694.8236 0 ] /Parent 80 0 R /Title (Utilizar CodecRegistry para mapear POJOs a Documentos)
 >>
 endobj
 82 0 obj
 <<
-/Dest [ 55 0 R /XYZ 57.02362 403.3276 0 ] /Parent 81 0 R /Title (Utilizar CodecRegistry para mapear POJOs a Documentos)
+/Count 17 /Kids [ 21 0 R 26 0 R 30 0 R 32 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 41 0 R 
+  46 0 R 47 0 R 48 0 R 51 0 R 52 0 R 55 0 R 59 0 R ] /Type /Pages
 >>
 endobj
 83 0 obj
-<<
-/Count 17 /Kids [ 21 0 R 26 0 R 30 0 R 32 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 43 0 R 
-  46 0 R 47 0 R 48 0 R 52 0 R 53 0 R 55 0 R 60 0 R ] /Type /Pages
->>
-endobj
-84 0 obj
 <<
 /Length 3777
 >>
@@ -744,7 +737,7 @@ Q
  
 endstream
 endobj
-85 0 obj
+84 0 obj
 <<
 /Length 7821
 >>
@@ -991,7 +984,7 @@ Q
  
 endstream
 endobj
-86 0 obj
+85 0 obj
 <<
 /Length 12656
 >>
@@ -1323,7 +1316,7 @@ Q
  
 endstream
 endobj
-87 0 obj
+86 0 obj
 <<
 /Length 13177
 >>
@@ -1852,7 +1845,7 @@ Q
  
 endstream
 endobj
-88 0 obj
+87 0 obj
 <<
 /Length 6498
 >>
@@ -2063,7 +2056,7 @@ Q
  
 endstream
 endobj
-89 0 obj
+88 0 obj
 <<
 /Length 7868
 >>
@@ -2392,7 +2385,7 @@ Q
  
 endstream
 endobj
-90 0 obj
+89 0 obj
 <<
 /Length 6302
 >>
@@ -2580,7 +2573,7 @@ Q
  
 endstream
 endobj
-91 0 obj
+90 0 obj
 <<
 /Length 7492
 >>
@@ -2906,7 +2899,7 @@ Q
  
 endstream
 endobj
-92 0 obj
+91 0 obj
 <<
 /Length 6668
 >>
@@ -3150,9 +3143,9 @@ Q
  
 endstream
 endobj
-93 0 obj
+92 0 obj
 <<
-/Length 7633
+/Length 7968
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -3269,19 +3262,13 @@ BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (6. CONECTAR CO
 Q
 Q
 q
-1 0 0 1 57.02362 142.1763 cm
+1 0 0 1 57.02362 154.1763 cm
 q
-BT 1 0 0 1 0 62 Tm 2.262362 Tw 12 TL /F1 10 Tf 0 0 0 rg (Para poder trabajar con MongoDB desde cualquier aplicaci\363n necesitamos un driver. MongoDB ofrece) Tj T* 0 Tw 2.177739 Tw (drivers oficiales para casi todos los lenguajes de programaci\363n actuales. Para empezar a trabajar con) Tj T* 0 Tw 1.382025 Tw (MongoDB desde Java, primero tendremos que hacernos con el Driver, descarg\341ndolo de Internet, de su) Tj T* 0 Tw 2.558334 Tw (p\341gina web o de los repositorios del sistema operativo \(paquete libmongodb-java\). Tambi\351n nos ser\341) Tj T* 0 Tw 3.654029 Tw (necesaria la documentaci\363n ) Tj 0 .4 .6 rg (MongoDB JDBC Driver Documentation) Tj 0 0 0 rg ( y de sus clases ) Tj 0 .4 .6 rg (MongoDB API) Tj T* 0 Tw (Documentation) Tj 0 0 0 rg (.) Tj T* ET
+BT 1 0 0 1 0 50 Tm 2.262362 Tw 12 TL /F1 10 Tf 0 0 0 rg (Para poder trabajar con MongoDB desde cualquier aplicaci\363n necesitamos un driver. MongoDB ofrece) Tj T* 0 Tw 2.177739 Tw (drivers oficiales para casi todos los lenguajes de programaci\363n actuales. Para empezar a trabajar con) Tj T* 0 Tw 1.382025 Tw (MongoDB desde Java, primero tendremos que hacernos con el Driver, descarg\341ndolo de Internet, de su) Tj T* 0 Tw .033453 Tw (p\341gina web o de los repositorios del sistema operativo \(paquete libmongodb-java\). Si trabajamos con Maven) Tj T* 0 Tw (simplemente a\361adiremos la dependencia en nuestro ) Tj /F4 10 Tf (pom.xml) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 112.1763 cm
-q
-BT 1 0 0 1 0 14 Tm 7.987565 Tw 12 TL /F1 10 Tf 0 0 0 rg (Para conectar con MongoDB desde Java en versiones anteriores a la 3.7 \(con ) Tj /F4 10 Tf (import) Tj T* 0 Tw (com.mongodb.MongoClient) Tj /F1 10 Tf (\) lo har\355amos de la siguiente forma:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 66.9763 cm
+1 0 0 1 57.02362 72.9763 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3291,7 +3278,120 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .941176 .972549 1 rg
-n -6 -6 480.0283 36 re B*
+n -6 -6 480.0283 72 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 48 6 12 re f*
+.941176 .972549 1 rg
+n 6 48 60 12 re f*
+.941176 .972549 1 rg
+n 66 48 6 12 re f*
+.941176 .972549 1 rg
+n 72 48 0 12 re f*
+.941176 .972549 1 rg
+n 0 36 24 12 re f*
+.941176 .972549 1 rg
+n 24 36 6 12 re f*
+.941176 .972549 1 rg
+n 30 36 42 12 re f*
+.941176 .972549 1 rg
+n 72 36 6 12 re f*
+.941176 .972549 1 rg
+n 144 36 6 12 re f*
+.941176 .972549 1 rg
+n 150 36 48 12 re f*
+.941176 .972549 1 rg
+n 198 36 6 12 re f*
+.941176 .972549 1 rg
+n 204 36 0 12 re f*
+.941176 .972549 1 rg
+n 0 24 24 12 re f*
+.941176 .972549 1 rg
+n 24 24 6 12 re f*
+.941176 .972549 1 rg
+n 30 24 60 12 re f*
+.941176 .972549 1 rg
+n 90 24 6 12 re f*
+.941176 .972549 1 rg
+n 210 24 6 12 re f*
+.941176 .972549 1 rg
+n 216 24 66 12 re f*
+.941176 .972549 1 rg
+n 282 24 6 12 re f*
+.941176 .972549 1 rg
+n 288 24 0 12 re f*
+.941176 .972549 1 rg
+n 0 12 24 12 re f*
+.941176 .972549 1 rg
+n 24 12 6 12 re f*
+.941176 .972549 1 rg
+n 30 12 42 12 re f*
+.941176 .972549 1 rg
+n 72 12 6 12 re f*
+.941176 .972549 1 rg
+n 108 12 6 12 re f*
+.941176 .972549 1 rg
+n 114 12 48 12 re f*
+.941176 .972549 1 rg
+n 162 12 6 12 re f*
+.941176 .972549 1 rg
+n 168 12 6 12 re f*
+.941176 .972549 1 rg
+n 174 12 6 12 re f*
+.941176 .972549 1 rg
+n 180 12 252 12 re f*
+.941176 .972549 1 rg
+n 432 12 6 12 re f*
+.941176 .972549 1 rg
+n 438 12 0 12 re f*
+.941176 .972549 1 rg
+n 0 0 6 12 re f*
+.941176 .972549 1 rg
+n 6 0 66 12 re f*
+.941176 .972549 1 rg
+n 72 0 6 12 re f*
+.941176 .972549 1 rg
+n 78 0 0 12 re f*
+BT 1 0 0 1 0 50 Tm 12 TL /F6 10 Tf 0 .501961 0 rg (<) Tj (dependency) Tj (>) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* (    ) Tj /F6 10 Tf 0 .501961 0 rg (<) Tj (groupId) Tj (>) Tj /F5 10 Tf 0 0 0 rg (org.mongodb) Tj /F6 10 Tf 0 .501961 0 rg (<) Tj (/groupId) Tj (>) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* (    ) Tj /F6 10 Tf 0 .501961 0 rg (<) Tj (artifactId) Tj (>) Tj /F5 10 Tf 0 0 0 rg (mongodb-driver-sync) Tj /F6 10 Tf 0 .501961 0 rg (<) Tj (/artifactId) Tj (>) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* (    ) Tj /F6 10 Tf 0 .501961 0 rg (<) Tj (version) Tj (>) Tj /F5 10 Tf 0 0 0 rg (5.3.1) Tj /F6 10 Tf 0 .501961 0 rg (<) Tj (/version) Tj (>) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj /F7 10 Tf .25098 .501961 .501961 rg (<) Tj (!-- Puedes usar la versi\363n m\341s reciente --) Tj (>) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (<) Tj (/dependency) Tj (>) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+93 0 obj
+<<
+/Length 14708
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 741.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 2.090642 Tw 12 TL /F1 10 Tf 0 0 0 rg (Tambi\351n nos ser\341 necesaria la documentaci\363n ) Tj 0 .4 .6 rg (MongoDB JDBC Driver Documentation) Tj 0 0 0 rg ( y de sus clases) Tj T* 0 Tw 0 .4 .6 rg (MongoDB API Documentation) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 7.987565 Tw 12 TL /F1 10 Tf 0 0 0 rg (Para conectar con MongoDB desde Java en versiones anteriores a la 3.7 \(con ) Tj /F4 10 Tf (import) Tj T* 0 Tw (com.mongodb.MongoClient) Tj /F1 10 Tf (\) lo har\355amos de la siguiente forma:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 667.1629 cm
+q
+q
+.963999 0 0 .963999 0 0 cm
+q
+1 0 0 1 6.6 6.846479 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 498 36 re B*
 Q
 q
 .941176 .972549 1 rg
@@ -3315,7 +3415,11 @@ n 156 12 66 12 re f*
 .941176 .972549 1 rg
 n 222 12 18 12 re f*
 .941176 .972549 1 rg
-n 240 12 0 12 re f*
+n 240 12 30 12 re f*
+.941176 .972549 1 rg
+n 270 12 216 12 re f*
+.941176 .972549 1 rg
+n 486 12 0 12 re f*
 .941176 .972549 1 rg
 n 0 0 78 12 re f*
 .941176 .972549 1 rg
@@ -3342,30 +3446,21 @@ n 234 0 78 12 re f*
 n 312 0 12 12 re f*
 .941176 .972549 1 rg
 n 324 0 0 12 re f*
-BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf 0 0 0 rg (MongoClient) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (cliente) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (MongoClient) Tj (\(\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (MongoDatabase) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (db) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (cliente) Tj (.) Tj .490196 .564706 .160784 rg (getDatabase) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("basededatos") Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* ET
+BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf 0 0 0 rg (MongoClient) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (cliente) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (MongoClient) Tj (\(\);) Tj .733333 .733333 .733333 rg (     ) Tj /F7 10 Tf .25098 .501961 .501961 rg (// conecta a localhost, puerto 27017) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* 0 0 0 rg (MongoDatabase) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (db) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (cliente) Tj (.) Tj .490196 .564706 .160784 rg (getDatabase) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("basededatos") Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* ET
 Q
 Q
 Q
 Q
 Q
- 
-endstream
-endobj
-94 0 obj
-<<
-/Length 12844
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 753.0236 cm
+1 0 0 1 57.02362 647.1629 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Podemos especificar expl\355citamente el nombre del servidor al cual conectamos a su puerto 27017.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 719.8236 cm
+1 0 0 1 57.02362 613.9629 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3411,14 +3506,14 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 687.8236 cm
+1 0 0 1 57.02362 581.9629 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.203432 Tw (O el nombre y el puerto, imprescindible cuando el servidor funcione en un n\372mero de puerto diferente al) Tj T* 0 Tw (27017.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 654.6236 cm
+1 0 0 1 57.02362 548.7629 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3468,16 +3563,16 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 622.6236 cm
+1 0 0 1 57.02362 516.7629 cm
 q
 BT 1 0 0 1 0 14 Tm .669882 Tw 12 TL /F1 10 Tf 0 0 0 rg (A partir de dicha versi\363n 3.7, la conexi\363n se realizar\341 \(con ) Tj /F4 10 Tf (import com.mongodb.client.MongoClient) Tj /F1 10 Tf (\) con el) Tj T* 0 Tw (m\351todo est\341tico ) Tj /F4 10 Tf (MongoClients.create\(\)) Tj /F1 10 Tf (, tal y como se explica en) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 616.6236 cm
+1 0 0 1 57.02362 510.7629 cm
 Q
 q
-1 0 0 1 57.02362 604.6236 cm
+1 0 0 1 57.02362 498.7629 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3493,10 +3588,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 604.6236 cm
+1 0 0 1 57.02362 498.7629 cm
 Q
 q
-1 0 0 1 57.02362 571.4236 cm
+1 0 0 1 57.02362 465.5629 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3542,17 +3637,17 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 551.4236 cm
+1 0 0 1 57.02362 445.5629 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Puedes ver la documentaci\363n de la API en) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 545.4236 cm
+1 0 0 1 57.02362 439.5629 cm
 Q
 q
-1 0 0 1 57.02362 533.4236 cm
+1 0 0 1 57.02362 427.5629 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3568,16 +3663,16 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 533.4236 cm
+1 0 0 1 57.02362 427.5629 cm
 Q
 q
-1 0 0 1 57.02362 515.4236 cm
+1 0 0 1 57.02362 409.5629 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Tambi\351n podemos conectar haciendo uso de ) Tj /F4 10 Tf (MongoClientURI) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 471.9888 cm
+1 0 0 1 57.02362 366.128 cm
 q
 q
 .95255 0 0 .95255 0 0 cm
@@ -3649,14 +3744,14 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 451.9888 cm
+1 0 0 1 57.02362 346.128 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Una vez conectados hemos de crear los objetos asociados a la base de datos y colecci\363n correspondientes:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 406.7888 cm
+1 0 0 1 57.02362 300.928 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3734,14 +3829,20 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 374.7888 cm
+1 0 0 1 57.02362 280.928 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Observa que no es simplemente ) Tj /F4 10 Tf (MongoCollection) Tj /F1 10 Tf (, sino ) Tj /F4 10 Tf (MongoCollection) Tj (<) Tj (Document) Tj (>) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 250.928 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.40218 Tw (Posteriormente trabajaremos con documentos de alguna colecci\363n de esa base de datos, y acabaremos) Tj T* 0 Tw (desconectando de la Base de Datos.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 341.5888 cm
+1 0 0 1 57.02362 217.728 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3771,19 +3872,28 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 297.5888 cm
+1 0 0 1 57.02362 185.728 cm
 q
-BT 1 0 0 1 0 26 Tm .32389 Tw 12 TL /F1 10 Tf 0 0 0 rg (Internamente la implementaci\363n de ) Tj /F4 10 Tf (MongoClient) Tj /F1 10 Tf ( gestiona un ) Tj /F4 10 Tf (pool) Tj /F1 10 Tf ( de conexiones. Se ha de tener en cuenta) Tj T* 0 Tw -0.116777 Tw (tambi\351n que, para poder conectarnos con ) Tj /F4 10 Tf (MongoDB) Tj /F1 10 Tf (, primero tendremos que arrancar el servidor de la forma) Tj T* 0 Tw (indicada anteriormente en este documento.) Tj T* ET
+BT 1 0 0 1 0 14 Tm .730696 Tw 12 TL /F1 10 Tf 0 0 0 rg (Internamente la implementaci\363n de ) Tj /F4 10 Tf (MongoClient) Tj /F1 10 Tf ( gestiona un ) Tj /F4 10 Tf (pool) Tj /F1 10 Tf ( de conexiones. L\363gicamente para poder) Tj T* 0 Tw (conectarnos con ) Tj /F4 10 Tf (MongoDB) Tj /F1 10 Tf ( el servidor habr\341 de estar en ejecuci\363n.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 207.5888 cm
+1 0 0 1 57.02362 95.72799 cm
 q
 BT 1 0 0 1 0 74 Tm .158556 Tw 12 TL /F1 10 Tf 0 0 0 rg (Mediante el protocolo ) Tj /F4 10 Tf (mongodb+srv) Tj /F1 10 Tf ( se establece una conexi\363n segura. Es un protocolo m\341s reciente que el) Tj T* 0 Tw 1.892362 Tw (protocolo originario \() Tj /F4 10 Tf (mongodb) Tj /F1 10 Tf (\) y espec\355fico para conexiones a ) Tj /F4 10 Tf (clusters) Tj /F1 10 Tf ( MongoDB. Este protocolo utiliza) Tj T* 0 Tw .330556 Tw (registros DNS SRV \(registros SRV del protocolo DNS de resoluci\363n de nombres de m\341quina\). Los registros) Tj T* 0 Tw 1.171079 Tw (SRV permiten que un \372nico nombre de m\341quina se resuelva en varios nombres, lo que se puede utilizar) Tj T* 0 Tw .158138 Tw (para descubrir din\341micamente los nodos en un cl\372ster. Esto hace que sea mucho m\341s f\341cil para los clientes) Tj T* 0 Tw .747739 Tw (conectarse a cl\372steres de MongoDB, especialmente para cl\372steres grandes y distribuidos. En este caso la) Tj T* 0 Tw (URL de conexi\363n cambiar\355a al formato:) Tj T* ET
 Q
 Q
+ 
+endstream
+endobj
+94 0 obj
+<<
+/Length 7387
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 174.3888 cm
+1 0 0 1 57.02362 739.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3804,123 +3914,29 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 141.3888 cm
+1 0 0 1 57.02362 706.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (7. OPERACIONES B\301SICAS EN JAVA) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 99.38876 cm
+1 0 0 1 57.02362 664.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.627397 Tw (Para nuestras aplicaciones Java podremos operar directamente con el driver, es lo que vamos a ver, o) Tj T* 0 Tw 1.217223 Tw (utilizar una abstracci\363n de m\341s alto nivel como podr\355a ser, entre otras opciones JPA, Morphia, Hibernate) Tj T* 0 Tw (OGM o DataNucleus.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 81.38876 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Incluiremos en nuestro proyecto la correspondiente dependencia.) Tj T* ET
-Q
-Q
- 
-endstream
-endobj
-95 0 obj
-<<
-/Length 11988
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 691.8236 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 6.6 6.6 cm
-q
-.662745 .662745 .662745 RG
-.5 w
-.941176 .972549 1 rg
-n -6 -6 480.0283 72 re B*
-Q
-q
-.941176 .972549 1 rg
-n 0 48 6 12 re f*
-.941176 .972549 1 rg
-n 6 48 60 12 re f*
-.941176 .972549 1 rg
-n 66 48 6 12 re f*
-.941176 .972549 1 rg
-n 72 48 0 12 re f*
-.941176 .972549 1 rg
-n 0 36 6 12 re f*
-.941176 .972549 1 rg
-n 6 36 42 12 re f*
-.941176 .972549 1 rg
-n 48 36 6 12 re f*
-.941176 .972549 1 rg
-n 120 36 6 12 re f*
-.941176 .972549 1 rg
-n 126 36 48 12 re f*
-.941176 .972549 1 rg
-n 174 36 6 12 re f*
-.941176 .972549 1 rg
-n 180 36 0 12 re f*
-.941176 .972549 1 rg
-n 0 24 6 12 re f*
-.941176 .972549 1 rg
-n 6 24 60 12 re f*
-.941176 .972549 1 rg
-n 66 24 6 12 re f*
-.941176 .972549 1 rg
-n 174 24 6 12 re f*
-.941176 .972549 1 rg
-n 180 24 66 12 re f*
-.941176 .972549 1 rg
-n 246 24 6 12 re f*
-.941176 .972549 1 rg
-n 252 24 0 12 re f*
-.941176 .972549 1 rg
-n 0 12 6 12 re f*
-.941176 .972549 1 rg
-n 6 12 42 12 re f*
-.941176 .972549 1 rg
-n 48 12 6 12 re f*
-.941176 .972549 1 rg
-n 90 12 6 12 re f*
-.941176 .972549 1 rg
-n 96 12 48 12 re f*
-.941176 .972549 1 rg
-n 144 12 6 12 re f*
-.941176 .972549 1 rg
-n 150 12 0 12 re f*
-.941176 .972549 1 rg
-n 0 0 6 12 re f*
-.941176 .972549 1 rg
-n 6 0 66 12 re f*
-.941176 .972549 1 rg
-n 72 0 6 12 re f*
-.941176 .972549 1 rg
-n 78 0 0 12 re f*
-BT 1 0 0 1 0 50 Tm 12 TL /F6 10 Tf 0 .501961 0 rg (<) Tj (dependency) Tj (>) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (<) Tj (groupId) Tj (>) Tj /F5 10 Tf 0 0 0 rg (org.mongodb) Tj /F6 10 Tf 0 .501961 0 rg (<) Tj (/groupId) Tj (>) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (<) Tj (artifactId) Tj (>) Tj /F5 10 Tf 0 0 0 rg (mongo-java-driver) Tj /F6 10 Tf 0 .501961 0 rg (<) Tj (/artifactId) Tj (>) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (<) Tj (version) Tj (>) Tj /F5 10 Tf 0 0 0 rg (2.14.1) Tj /F6 10 Tf 0 .501961 0 rg (<) Tj (/version) Tj (>) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (<) Tj (/dependency) Tj (>) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* ET
-Q
-Q
-Q
-Q
-Q
-q
-1 0 0 1 57.02362 623.8236 cm
+1 0 0 1 57.02362 598.8236 cm
 q
 BT 1 0 0 1 0 50 Tm .376772 Tw 12 TL /F1 10 Tf 0 0 0 rg (Para trabajar con cada documento vamos a poder operar con las clases ) Tj /F4 10 Tf (DBObject) Tj /F1 10 Tf ( o ) Tj /F4 10 Tf (Document) Tj /F1 10 Tf (. La primera) Tj T* 0 Tw 2.327223 Tw (de ellas, aunque no est\341 obsoleta \(sus m\351todos ) Tj /F4 10 Tf (toString\(\)) Tj /F1 10 Tf ( y ) Tj /F4 10 Tf (getId\(\)) Tj /F1 10 Tf ( s\355\), tiene algunas limitaciones. La) Tj T* 0 Tw 2.215696 Tw (segunda, en cambio, simplifica generalmente el c\363digo. ) Tj /F4 10 Tf (DBObject) Tj /F1 10 Tf ( no se recomienda para aplicaciones) Tj T* 0 Tw 1.031223 Tw (nuevas. Es similar a ) Tj /F4 10 Tf (Document) Tj /F1 10 Tf ( en que representa los valores BSON, pero tiene algunas deficiencias que) Tj T* 0 Tw (fueron imposibles de superar, entre ellas:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 617.8236 cm
+1 0 0 1 57.02362 592.8236 cm
 Q
 q
-1 0 0 1 57.02362 557.8236 cm
+1 0 0 1 57.02362 532.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -3988,34 +4004,113 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 557.8236 cm
+1 0 0 1 57.02362 532.8236 cm
 Q
 q
-1 0 0 1 57.02362 503.8236 cm
+1 0 0 1 57.02362 478.8236 cm
 q
 BT 1 0 0 1 0 38 Tm .625596 Tw 12 TL /F1 10 Tf 0 0 0 rg (Para unir todo esto, el controlador contiene una interfaz, peque\361a pero poderosa, llamada ) Tj /F4 10 Tf (Bson) Tj /F1 10 Tf (. Cualquier) Tj T* 0 Tw .449903 Tw (clase que represente un documento BSON, ya sea incluida en el propio controlador o de un tercero, puede) Tj T* 0 Tw .30213 Tw (implementar esta interfaz y luego puede usarse en cualquier lugar de la API de alto nivel donde se requiera) Tj T* 0 Tw (un documento BSON.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 413.8236 cm
+1 0 0 1 57.02362 388.8236 cm
 q
 BT 1 0 0 1 0 74 Tm .640696 Tw 12 TL /F1 10 Tf 0 0 0 rg (Para documentos BSON que representan filtros de consulta, especificaciones de actualizaci\363n, criterios de) Tj T* 0 Tw 2.852025 Tw (clasificaci\363n, etc., el controlador impone el requisito de que las clases utilizadas para este prop\363sito) Tj T* 0 Tw .659835 Tw (implementen esta nueva interfaz ) Tj /F4 10 Tf (Bson) Tj /F1 10 Tf (. Tambi\351n ) Tj /F4 10 Tf (BasicDBObject) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (Document) Tj /F1 10 Tf ( y ) Tj /F4 10 Tf (BsonDocument) Tj /F1 10 Tf ( implementan) Tj T* 0 Tw .474556 Tw (esa interfaz, por lo que se puede usar cualquiera, o podr\355amos crear nuestros propios tipos personalizados) Tj T* 0 Tw .221667 Tw (que lo hagan. El propio controlador devuelve instancias de ) Tj /F4 10 Tf (Bson) Tj /F1 10 Tf ( de la mayor\355a de los m\351todos est\341ticos del) Tj T* 0 Tw 9.442739 Tw (driver, como los de la clase ) Tj /F4 10 Tf (Filters) Tj /F1 10 Tf (. Un ejemplo de alguno de estos m\351todos es) Tj T* 0 Tw /F4 10 Tf (com.mongodb.client.model.Filters.eq) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 383.8236 cm
+1 0 0 1 57.02362 370.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Regla general:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 364.8236 cm
+Q
+q
+1 0 0 1 57.02362 328.8236 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (usa ) Tj /F4 10 Tf (Document) Tj /F1 10 Tf ( para datos/documentos completos) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F5 10 Tf 12 TL 8 0 Td (\177) Tj T* -8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (usa ) Tj /F4 10 Tf (Bson) Tj /F1 10 Tf ( \(builders est\341ticos\) para filtros, actualizaciones, agregaciones y ordenaciones.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 328.8236 cm
+Q
+q
+1 0 0 1 57.02362 298.8236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (7.1. Operaciones de creaci\363n) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 371.8236 cm
+1 0 0 1 57.02362 286.8236 cm
 Q
 q
-1 0 0 1 57.02362 371.8236 cm
+1 0 0 1 57.02362 286.8236 cm
 Q
 q
-1 0 0 1 57.02362 359.8236 cm
+1 0 0 1 57.02362 274.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4038,10 +4133,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 353.8236 cm
+1 0 0 1 57.02362 268.8236 cm
 Q
 q
-1 0 0 1 57.02362 341.8236 cm
+1 0 0 1 57.02362 256.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4064,10 +4159,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 335.8236 cm
+1 0 0 1 57.02362 250.8236 cm
 Q
 q
-1 0 0 1 57.02362 323.8236 cm
+1 0 0 1 57.02362 238.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4090,17 +4185,17 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 323.8236 cm
+1 0 0 1 57.02362 238.8236 cm
 Q
 q
-1 0 0 1 57.02362 305.8236 cm
+1 0 0 1 57.02362 220.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ejemplo desde el cliente en el terminal:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 176.6236 cm
+1 0 0 1 57.02362 91.62362 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -4121,21 +4216,30 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 156.6236 cm
+1 0 0 1 57.02362 71.62362 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (En el caso de insertar m\341s de un documento, los incluir\355amos en un array \(entre signos de corchetes [ y ]\).) Tj T* ET
 Q
 Q
+ 
+endstream
+endobj
+95 0 obj
+<<
+/Length 21105
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 138.6236 cm
+1 0 0 1 57.02362 753.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (El mismo ejemplo anterior desde Java:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 87.26206 cm
+1 0 0 1 57.02362 667.653 cm
 q
 q
 .708522 0 0 .708522 0 0 cm
@@ -4145,154 +4249,125 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .941176 .972549 1 rg
-n -6 -6 678 60 re B*
+n -6 -6 678 108 re B*
 Q
 q
 .941176 .972549 1 rg
-n 0 36 30 12 re f*
+n 0 84 30 12 re f*
 .941176 .972549 1 rg
-n 30 36 30 12 re f*
+n 30 84 30 12 re f*
 .941176 .972549 1 rg
-n 60 36 6 12 re f*
+n 60 84 6 12 re f*
 .941176 .972549 1 rg
-n 66 36 30 12 re f*
+n 66 84 30 12 re f*
 .941176 .972549 1 rg
-n 96 36 6 12 re f*
+n 96 84 6 12 re f*
 .941176 .972549 1 rg
-n 102 36 6 12 re f*
+n 102 84 6 12 re f*
 .941176 .972549 1 rg
-n 108 36 6 12 re f*
+n 108 84 6 12 re f*
 .941176 .972549 1 rg
-n 114 36 18 12 re f*
+n 114 84 18 12 re f*
 .941176 .972549 1 rg
-n 132 36 6 12 re f*
+n 132 84 6 12 re f*
 .941176 .972549 1 rg
-n 138 36 30 12 re f*
+n 138 84 30 12 re f*
 .941176 .972549 1 rg
-n 168 36 6 12 re f*
+n 168 84 6 12 re f*
 .941176 .972549 1 rg
-n 174 36 78 12 re f*
+n 174 84 78 12 re f*
 .941176 .972549 1 rg
-n 252 36 6 12 re f*
+n 252 84 6 12 re f*
 .941176 .972549 1 rg
-n 258 36 168 12 re f*
+n 258 84 168 12 re f*
 .941176 .972549 1 rg
-n 426 36 6 12 re f*
+n 426 84 6 12 re f*
 .941176 .972549 1 rg
-n 432 36 126 12 re f*
+n 432 84 126 12 re f*
 .941176 .972549 1 rg
-n 558 36 6 12 re f*
+n 558 84 6 12 re f*
 .941176 .972549 1 rg
-n 564 36 60 12 re f*
+n 564 84 60 12 re f*
 .941176 .972549 1 rg
-n 624 36 6 12 re f*
+n 624 84 6 12 re f*
 .941176 .972549 1 rg
-n 630 36 24 12 re f*
+n 630 84 24 12 re f*
 .941176 .972549 1 rg
-n 654 36 12 12 re f*
+n 654 84 12 12 re f*
 .941176 .972549 1 rg
-n 666 36 0 12 re f*
+n 666 84 0 12 re f*
 .941176 .972549 1 rg
-n 0 24 30 12 re f*
+n 0 72 30 12 re f*
 .941176 .972549 1 rg
-n 30 24 48 12 re f*
+n 30 72 48 12 re f*
 .941176 .972549 1 rg
-n 78 24 6 12 re f*
+n 78 72 6 12 re f*
 .941176 .972549 1 rg
-n 84 24 54 12 re f*
+n 84 72 54 12 re f*
 .941176 .972549 1 rg
-n 138 24 6 12 re f*
+n 138 72 6 12 re f*
 .941176 .972549 1 rg
-n 144 24 6 12 re f*
+n 144 72 6 12 re f*
 .941176 .972549 1 rg
-n 150 24 6 12 re f*
+n 150 72 6 12 re f*
 .941176 .972549 1 rg
-n 156 24 18 12 re f*
+n 156 72 18 12 re f*
 .941176 .972549 1 rg
-n 174 24 6 12 re f*
+n 174 72 6 12 re f*
 .941176 .972549 1 rg
-n 180 24 48 12 re f*
+n 180 72 48 12 re f*
 .941176 .972549 1 rg
-n 228 24 12 12 re f*
+n 228 72 12 12 re f*
 .941176 .972549 1 rg
-n 240 24 0 12 re f*
+n 240 72 0 12 re f*
 .941176 .972549 1 rg
-n 0 12 54 12 re f*
+n 0 60 54 12 re f*
 .941176 .972549 1 rg
-n 54 12 6 12 re f*
+n 54 60 6 12 re f*
 .941176 .972549 1 rg
-n 60 12 36 12 re f*
+n 60 60 36 12 re f*
 .941176 .972549 1 rg
-n 96 12 6 12 re f*
+n 96 60 6 12 re f*
 .941176 .972549 1 rg
-n 102 12 48 12 re f*
+n 102 60 48 12 re f*
 .941176 .972549 1 rg
-n 150 12 6 12 re f*
+n 150 60 6 12 re f*
 .941176 .972549 1 rg
-n 156 12 6 12 re f*
+n 156 60 6 12 re f*
 .941176 .972549 1 rg
-n 162 12 30 12 re f*
+n 162 60 30 12 re f*
 .941176 .972549 1 rg
-n 192 12 6 12 re f*
+n 192 60 6 12 re f*
 .941176 .972549 1 rg
-n 198 12 54 12 re f*
+n 198 60 54 12 re f*
 .941176 .972549 1 rg
-n 252 12 18 12 re f*
+n 252 60 18 12 re f*
 .941176 .972549 1 rg
-n 270 12 0 12 re f*
+n 270 60 0 12 re f*
 .941176 .972549 1 rg
-n 0 0 54 12 re f*
+n 0 48 54 12 re f*
 .941176 .972549 1 rg
-n 54 0 6 12 re f*
+n 54 48 6 12 re f*
 .941176 .972549 1 rg
-n 60 0 36 12 re f*
+n 60 48 36 12 re f*
 .941176 .972549 1 rg
-n 96 0 6 12 re f*
+n 96 48 6 12 re f*
 .941176 .972549 1 rg
-n 102 0 78 12 re f*
+n 102 48 78 12 re f*
 .941176 .972549 1 rg
-n 180 0 6 12 re f*
+n 180 48 6 12 re f*
 .941176 .972549 1 rg
-n 186 0 6 12 re f*
+n 186 48 6 12 re f*
 .941176 .972549 1 rg
-n 192 0 30 12 re f*
+n 192 48 30 12 re f*
 .941176 .972549 1 rg
-n 222 0 6 12 re f*
+n 222 48 6 12 re f*
 .941176 .972549 1 rg
-n 228 0 84 12 re f*
+n 228 48 84 12 re f*
 .941176 .972549 1 rg
-n 312 0 18 12 re f*
+n 312 48 18 12 re f*
 .941176 .972549 1 rg
-n 330 0 0 12 re f*
-BT 1 0 0 1 0 38 Tm 12 TL /F5 10 Tf .733333 .733333 .733333 rg (     ) Tj 0 0 0 rg (Libro) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Libro) Tj (\() Tj .729412 .129412 .129412 rg ("Secuestrado") Tj 0 0 0 rg (,) Tj .729412 .129412 .129412 rg ("Aventuras de David Balfour") Tj 0 0 0 rg (,) Tj .729412 .129412 .129412 rg ("Robert L. Stevenson") Tj 0 0 0 rg (,) Tj .729412 .129412 .129412 rg ("2/5/2002") Tj 0 0 0 rg (,) Tj /F6 10 Tf 0 .501961 0 rg (true) Tj /F5 10 Tf 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* (     ) Tj 0 0 0 rg (Document) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (documento) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Document) Tj (\(\)) Tj .733333 .733333 .733333 rg  T* (         ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (append) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("titulo") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (getTitulo) Tj 0 0 0 rg (\(\)\)) Tj .733333 .733333 .733333 rg  T* (         ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (append) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("descripcion") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (getDescripcion) Tj 0 0 0 rg (\(\)\)) Tj .733333 .733333 .733333 rg  T* ET
-Q
-Q
-Q
-Q
-Q
- 
-endstream
-endobj
-96 0 obj
-<<
-/Length 14942
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 703.8236 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 6.6 6.6 cm
-q
-.662745 .662745 .662745 RG
-.5 w
-.941176 .972549 1 rg
-n -6 -6 480.0283 60 re B*
-Q
-q
+n 330 48 0 12 re f*
 .941176 .972549 1 rg
 n 0 36 54 12 re f*
 .941176 .972549 1 rg
@@ -4387,57 +4462,44 @@ n 228 0 54 12 re f*
 n 282 0 12 12 re f*
 .941176 .972549 1 rg
 n 294 0 0 12 re f*
-BT 1 0 0 1 0 38 Tm 12 TL /F5 10 Tf .733333 .733333 .733333 rg (         ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (append) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("autor") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (getAutor) Tj 0 0 0 rg (\(\)\)) Tj .733333 .733333 .733333 rg  T* (         ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (append) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("fecha") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (getFecha) Tj 0 0 0 rg (\(\)\)) Tj .733333 .733333 .733333 rg  T* (         ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (append) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("disponible") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (getDisponible) Tj 0 0 0 rg (\(\)\)\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (mdb) Tj (.) Tj .490196 .564706 .160784 rg (getCollection) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("libros") Tj 0 0 0 rg (\).) Tj .490196 .564706 .160784 rg (insertOne) Tj 0 0 0 rg (\() Tj (documento) Tj (\);) Tj .733333 .733333 .733333 rg  T* ET
+BT 1 0 0 1 0 86 Tm 12 TL /F5 10 Tf .733333 .733333 .733333 rg (     ) Tj 0 0 0 rg (Libro) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Libro) Tj (\() Tj .729412 .129412 .129412 rg ("Secuestrado") Tj 0 0 0 rg (,) Tj .729412 .129412 .129412 rg ("Aventuras de David Balfour") Tj 0 0 0 rg (,) Tj .729412 .129412 .129412 rg ("Robert L. Stevenson") Tj 0 0 0 rg (,) Tj .729412 .129412 .129412 rg ("2/5/2002") Tj 0 0 0 rg (,) Tj /F6 10 Tf 0 .501961 0 rg (true) Tj /F5 10 Tf 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* (     ) Tj 0 0 0 rg (Document) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (documento) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Document) Tj (\(\)) Tj .733333 .733333 .733333 rg  T* (         ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (append) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("titulo") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (getTitulo) Tj 0 0 0 rg (\(\)\)) Tj .733333 .733333 .733333 rg  T* (         ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (append) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("descripcion") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (getDescripcion) Tj 0 0 0 rg (\(\)\)) Tj .733333 .733333 .733333 rg  T* (         ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (append) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("autor") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (getAutor) Tj 0 0 0 rg (\(\)\)) Tj .733333 .733333 .733333 rg  T* (         ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (append) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("fecha") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (getFecha) Tj 0 0 0 rg (\(\)\)) Tj .733333 .733333 .733333 rg  T* (         ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (append) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("disponible") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (getDisponible) Tj 0 0 0 rg (\(\)\)\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (mdb) Tj (.) Tj .490196 .564706 .160784 rg (getCollection) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("libros") Tj 0 0 0 rg (\).) Tj .490196 .564706 .160784 rg (insertOne) Tj 0 0 0 rg (\() Tj (documento) Tj (\);) Tj .733333 .733333 .733333 rg  T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 57.02362 659.8236 cm
-q
-BT 1 0 0 1 0 26 Tm .24213 Tw 12 TL /F1 10 Tf 0 0 0 rg (En la interacci\363n con MongoDB usando el driver de Java se suele utilizar para casi todo la clase ) Tj /F4 10 Tf (Document) Tj /F1 10 Tf (.) Tj T* 0 Tw .956556 Tw (Podemos utilizar esta clase no s\363lo para los documentos que tengamos que introducir, sino tambi\351n para) Tj T* 0 Tw (definir los criterios de eliminaci\363n, actualizaci\363n, ordenaci\363n, y dem\341s.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 593.8236 cm
+1 0 0 1 57.02362 599.653 cm
 q
 BT 1 0 0 1 0 50 Tm 2.144556 Tw 12 TL /F1 10 Tf 0 0 0 rg (Los constructores de la clase ) Tj /F4 10 Tf (Document) Tj /F1 10 Tf ( m\341s utilizados son, primero, el que no admite par\341metros \(el) Tj T* 0 Tw .303241 Tw (utilizado en el ejemplo anterior\) o, segundo, el que admite dos par\341metros: una clave y un valor. Para crear) Tj T* 0 Tw 3.143196 Tw (documentos con m\341s parejas clave-valor aplicaremos el m\351todo ) Tj /F4 10 Tf (append\(\)) Tj /F1 10 Tf (, que retorna el ) Tj /F4 10 Tf (Document) Tj /F1 10 Tf  T* 0 Tw .201772 Tw (modificado, tantas veces como sea necesario encadenando las llamadas con un punto \(.\) tal y como hemos) Tj T* 0 Tw (visto en el anterior ejemplo. Esta ser\341 la t\351cnica b\341sica para construir las listas JSON.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 551.8236 cm
+1 0 0 1 57.02362 557.653 cm
 q
 BT 1 0 0 1 0 26 Tm 1.997223 Tw 12 TL /F1 10 Tf 0 0 0 rg (En el caso de querer insertar varios al mismo tiempo, utilizar\355amos ) Tj /F4 10 Tf (insertMany) Tj /F1 10 Tf (, en lugar de ) Tj /F4 10 Tf (insertOne) Tj /F1 10 Tf (,) Tj T* 0 Tw 6.915304 Tw (pas\341ndole como par\341metro una colecci\363n \() Tj /F4 10 Tf (ArrayList) Tj /F1 10 Tf (, por ejemplo\) de los objetos ) Tj /F4 10 Tf (Document) Tj /F1 10 Tf  T* 0 Tw (correspondientes.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 521.8236 cm
+1 0 0 1 57.02362 527.653 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (7.2. Operaciones de lectura: b\372squedas) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 491.8236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .860522 Tw (En este apartado vamos a ver diferentes formas de realizar b\372squedas de documento sobre una Base de) Tj T* 0 Tw (Datos MongoDB.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 437.8236 cm
+1 0 0 1 57.02362 473.653 cm
 q
 BT 1 0 0 1 0 38 Tm 1.313022 Tw 12 TL /F1 10 Tf 0 0 0 rg (Para realizar b\372squedas se utiliza el m\351todo ) Tj /F4 10 Tf (find\(\)) Tj /F1 10 Tf (. A este m\351todo le podemos pasar un documento que) Tj T* 0 Tw -0.130092 Tw (haga de patr\363n para buscar en la colecci\363n todos aquellos que coincidan con \351l, como en los ejemplos vistos) Tj T* 0 Tw 2.111147 Tw (para el cliente de Mongo. O tambi\351n se pueden pasar una serie de m\351todos que permiten establecer) Tj T* 0 Tw (condiciones muy al estilo de las que se pasaban en las cl\341usulas ) Tj /F4 10 Tf (WHERE) Tj /F1 10 Tf ( de las sentencias ) Tj /F4 10 Tf (SQL) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 431.8236 cm
+1 0 0 1 57.02362 467.653 cm
 Q
 q
-1 0 0 1 57.02362 431.8236 cm
+1 0 0 1 57.02362 467.653 cm
 Q
 q
-1 0 0 1 57.02362 395.8236 cm
+1 0 0 1 57.02362 431.653 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4459,10 +4521,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 389.8236 cm
+1 0 0 1 57.02362 425.653 cm
 Q
 q
-1 0 0 1 57.02362 377.8236 cm
+1 0 0 1 57.02362 413.653 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4484,10 +4546,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 371.8236 cm
+1 0 0 1 57.02362 407.653 cm
 Q
 q
-1 0 0 1 57.02362 359.8236 cm
+1 0 0 1 57.02362 395.653 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4509,10 +4571,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 353.8236 cm
+1 0 0 1 57.02362 389.653 cm
 Q
 q
-1 0 0 1 57.02362 329.8236 cm
+1 0 0 1 57.02362 365.653 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4534,10 +4596,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 323.8236 cm
+1 0 0 1 57.02362 359.653 cm
 Q
 q
-1 0 0 1 57.02362 299.8236 cm
+1 0 0 1 57.02362 335.653 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4559,28 +4621,28 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 299.8236 cm
+1 0 0 1 57.02362 335.653 cm
 Q
 q
-1 0 0 1 57.02362 269.8236 cm
+1 0 0 1 57.02362 305.653 cm
 q
 BT 1 0 0 1 0 14 Tm 1.80789 Tw 12 TL /F1 10 Tf 0 0 0 rg (Los distintos m\351todos ) Tj /F4 10 Tf (eq) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (lt) Tj /F1 10 Tf (, ) Tj /F4 10 Tf (gt) Tj /F1 10 Tf (, etc. se encuentran definidos dentro de ) Tj /F4 10 Tf (Filters) Tj /F1 10 Tf ( como m\351todos est\341ticos.) Tj T* 0 Tw (Generalmente ) Tj /F4 10 Tf (Filters) Tj /F1 10 Tf ( es omitido al hacer uso del ) Tj /F4 10 Tf (import static) Tj /F1 10 Tf ( correspondiente.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 242.8236 cm
+1 0 0 1 57.02362 278.653 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf .133333 .133333 .133333 rg (Ejemplos) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 230.8236 cm
+1 0 0 1 57.02362 266.653 cm
 Q
 q
-1 0 0 1 57.02362 230.8236 cm
+1 0 0 1 57.02362 266.653 cm
 Q
 q
-1 0 0 1 57.02362 218.8236 cm
+1 0 0 1 57.02362 254.653 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4603,10 +4665,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 218.8236 cm
+1 0 0 1 57.02362 254.653 cm
 Q
 q
-1 0 0 1 57.02362 176.6078 cm
+1 0 0 1 57.02362 212.4372 cm
 q
 q
 .919779 0 0 .919779 0 0 cm
@@ -4690,13 +4752,13 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 162.6078 cm
+1 0 0 1 57.02362 198.4372 cm
 Q
 q
-1 0 0 1 57.02362 162.6078 cm
+1 0 0 1 57.02362 198.4372 cm
 Q
 q
-1 0 0 1 57.02362 150.6078 cm
+1 0 0 1 57.02362 186.4372 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4719,10 +4781,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 150.6078 cm
+1 0 0 1 57.02362 186.4372 cm
 Q
 q
-1 0 0 1 57.02362 120.446 cm
+1 0 0 1 57.02362 156.2754 cm
 q
 q
 .879438 0 0 .879438 0 0 cm
@@ -4796,13 +4858,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 106.446 cm
+1 0 0 1 57.02362 136.2754 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Observa que en caso de consulta con m\372ltiples resultados se est\341n retornando del tipo ) Tj /F4 10 Tf (FindIterable) Tj /F1 10 Tf (.) Tj T* ET
+Q
 Q
 q
-1 0 0 1 57.02362 106.446 cm
+1 0 0 1 57.02362 130.2754 cm
 Q
 q
-1 0 0 1 57.02362 94.44601 cm
+1 0 0 1 57.02362 130.2754 cm
+Q
+q
+1 0 0 1 57.02362 118.2754 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4825,19 +4893,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 94.44601 cm
+1 0 0 1 57.02362 118.2754 cm
 Q
- 
-endstream
-endobj
-97 0 obj
-<<
-/Length 25297
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 731.9458 cm
+1 0 0 1 57.02362 77.1976 cm
 q
 q
 .889188 0 0 .889188 0 0 cm
@@ -4925,13 +4984,22 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 717.9458 cm
+1 0 0 1 57.02362 63.1976 cm
 Q
 q
-1 0 0 1 57.02362 717.9458 cm
+1 0 0 1 57.02362 63.1976 cm
 Q
+ 
+endstream
+endobj
+96 0 obj
+<<
+/Length 26659
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 705.9458 cm
+1 0 0 1 57.02362 753.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -4954,10 +5022,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 705.9458 cm
+1 0 0 1 57.02362 753.0236 cm
 Q
 q
-1 0 0 1 57.02362 664.8681 cm
+1 0 0 1 57.02362 711.9458 cm
 q
 q
 .889188 0 0 .889188 0 0 cm
@@ -5045,13 +5113,13 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 650.8681 cm
+1 0 0 1 57.02362 697.9458 cm
 Q
 q
-1 0 0 1 57.02362 650.8681 cm
+1 0 0 1 57.02362 697.9458 cm
 Q
 q
-1 0 0 1 57.02362 638.8681 cm
+1 0 0 1 57.02362 685.9458 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5074,10 +5142,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 638.8681 cm
+1 0 0 1 57.02362 685.9458 cm
 Q
 q
-1 0 0 1 57.02362 593.6681 cm
+1 0 0 1 57.02362 640.7458 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -5157,13 +5225,13 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 579.6681 cm
+1 0 0 1 57.02362 626.7458 cm
 Q
 q
-1 0 0 1 57.02362 579.6681 cm
+1 0 0 1 57.02362 626.7458 cm
 Q
 q
-1 0 0 1 57.02362 555.6681 cm
+1 0 0 1 57.02362 602.7458 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5185,10 +5253,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 555.6681 cm
+1 0 0 1 57.02362 602.7458 cm
 Q
 q
-1 0 0 1 57.02362 510.4681 cm
+1 0 0 1 57.02362 557.5458 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -5294,26 +5362,26 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 483.4681 cm
+1 0 0 1 57.02362 530.5458 cm
 q
 BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf .133333 .133333 .133333 rg (Operadores) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 465.4681 cm
+1 0 0 1 57.02362 512.5458 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A continuaci\363n, los operadores m\341s habituales:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 459.4681 cm
+1 0 0 1 57.02362 506.5458 cm
 Q
 q
-1 0 0 1 57.02362 459.4681 cm
+1 0 0 1 57.02362 506.5458 cm
 Q
 q
-1 0 0 1 57.02362 447.4681 cm
+1 0 0 1 57.02362 494.5458 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5335,10 +5403,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 441.4681 cm
+1 0 0 1 57.02362 488.5458 cm
 Q
 q
-1 0 0 1 57.02362 429.4681 cm
+1 0 0 1 57.02362 476.5458 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -5360,22 +5428,22 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 429.4681 cm
+1 0 0 1 57.02362 476.5458 cm
 Q
 q
-1 0 0 1 57.02362 399.4681 cm
+1 0 0 1 57.02362 446.5458 cm
 q
 BT 1 0 0 1 0 14 Tm .919223 Tw 12 TL /F1 10 Tf 0 0 0 rg (Se pueden encontrar m\341s ejemplos de m\351todos para realizar b\372squedas en el ) Tj 0 .4 .6 rg (Tutorial de MongoDB para) Tj T* 0 Tw (Java) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 297.4681 cm
+1 0 0 1 57.02362 356.5458 cm
 q
-BT 1 0 0 1 0 86 Tm 4.488031 Tw 12 TL /F1 10 Tf 0 0 0 rg (Las b\372squedas o consultas en ocasiones requerir\341n proyecciones. Una ) Tj /F3 10 Tf (proyecci\363n) Tj /F1 10 Tf ( consistir\341 en) Tj T* 0 Tw 1.833647 Tw (seleccionar s\363lo algunos de los campos del objeto, no el documento entero. Para ello se construye un) Tj T* 0 Tw 2.446373 Tw (documento en el que marcamos con valores a uno \(1\) aqu\351llos campos que se quieren incluir en la) Tj T* 0 Tw 1.766147 Tw (proyecci\363n, y, opcionalmente, a cero \(0\) aqu\351llos que se pretendan excluir de la misma. En el ejemplo) Tj T* 0 Tw .581019 Tw (siguiente, desde la l\355nea de comandos, s\363lo interesan el t\355tulo y la descripci\363n de los 10 primeros libros de) Tj T* 0 Tw -0.037744 Tw (Stevenson. Al m\351todo ) Tj /F4 10 Tf (find\(\)) Tj /F1 10 Tf ( le pasamos dos documentos: el primero el criterio de filtrado y el segundo indica) Tj T* 0 Tw 1.836772 Tw (los campos a incluir \(s\363lo indicamos con unos los requeridos, el resto de campos no resulta necesario) Tj T* 0 Tw (indicarlos con ceros\).) Tj T* ET
+BT 1 0 0 1 0 74 Tm 2.685257 Tw 12 TL /F1 10 Tf 0 0 0 rg (Las b\372squedas o consultas en ocasiones requerir\341n ) Tj /F3 10 Tf (proyecciones) Tj /F1 10 Tf (, es decir, selecci\363n de campos a) Tj T* 0 Tw .516962 Tw (obtener. Para ello se construye un documento en el que marcamos con valores a uno \(1\) aqu\351llos campos) Tj T* 0 Tw .241019 Tw (que se quieren incluir en la proyecci\363n, y, opcionalmente, a cero \(0\) aqu\351llos que se pretendan excluir de la) Tj T* 0 Tw 1.939353 Tw (misma. En el ejemplo siguiente, desde el cliente en la l\355nea de comandos, s\363lo interesan el t\355tulo y la) Tj T* 0 Tw -0.073853 Tw (descripci\363n de los 10 primeros libros de Stevenson. Al m\351todo ) Tj /F4 10 Tf (find\(\)) Tj /F1 10 Tf ( le pasamos dos documentos: el primero) Tj T* 0 Tw 1.138797 Tw (el criterio de filtrado y el segundo indica los campos a incluir \(s\363lo indicamos con unos los requeridos, el) Tj T* 0 Tw (resto de campos no resulta necesario indicarlos con ceros\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 228.2681 cm
+1 0 0 1 57.02362 287.3458 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -5429,11 +5497,11 @@ n 96 24 144 12 re f*
 .941176 .972549 1 rg
 n 240 24 18 12 re f*
 .941176 .972549 1 rg
-n 258 24 54 12 re f*
+n 258 24 42 12 re f*
 .941176 .972549 1 rg
-n 312 24 66 12 re f*
+n 300 24 66 12 re f*
 .941176 .972549 1 rg
-n 378 24 0 12 re f*
+n 366 24 0 12 re f*
 .941176 .972549 1 rg
 n 0 12 12 12 re f*
 .941176 .972549 1 rg
@@ -5482,20 +5550,20 @@ n 66 0 246 12 re f*
 n 312 0 150 12 re f*
 .941176 .972549 1 rg
 n 462 0 0 12 re f*
-BT 1 0 0 1 0 38 Tm 12 TL /F5 10 Tf 0 0 0 rg (db) Tj (.) Tj .490196 .564706 .160784 rg (libros) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (find) Tj 0 0 0 rg (\() Tj .733333 .733333 .733333 rg (                                   ) Tj /F7 10 Tf .25098 .501961 .501961 rg (// colecci\363n) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg ({) Tj (autor) Tj (:) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg ({) Tj ($eq) Tj (:) Tj .733333 .733333 .733333 rg ( ) Tj .729412 .129412 .129412 rg ("Robert Louis Stevenson") Tj 0 0 0 rg (}},) Tj .733333 .733333 .733333 rg (         ) Tj /F7 10 Tf .25098 .501961 .501961 rg (// criterio) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg ({) Tj (titulo) Tj (:) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (descripcion) Tj (:) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (}) Tj .733333 .733333 .733333 rg (                       ) Tj /F7 10 Tf .25098 .501961 .501961 rg (// proyecci\363n) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* 0 0 0 rg (\).) Tj .490196 .564706 .160784 rg (limit) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg (                                         ) Tj /F7 10 Tf .25098 .501961 .501961 rg (// modificador del cursor) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* ET
+BT 1 0 0 1 0 38 Tm 12 TL /F5 10 Tf 0 0 0 rg (db) Tj (.) Tj .490196 .564706 .160784 rg (libros) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (find) Tj 0 0 0 rg (\() Tj .733333 .733333 .733333 rg (                                   ) Tj /F7 10 Tf .25098 .501961 .501961 rg (// colecci\363n) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg ({) Tj (autor) Tj (:) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg ({) Tj ($eq) Tj (:) Tj .733333 .733333 .733333 rg ( ) Tj .729412 .129412 .129412 rg ("Robert Louis Stevenson") Tj 0 0 0 rg (}},) Tj .733333 .733333 .733333 rg (       ) Tj /F7 10 Tf .25098 .501961 .501961 rg (// filtrado) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg ({) Tj (titulo) Tj (:) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (descripcion) Tj (:) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (}) Tj .733333 .733333 .733333 rg (                       ) Tj /F7 10 Tf .25098 .501961 .501961 rg (// proyecci\363n) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* 0 0 0 rg (\).) Tj .490196 .564706 .160784 rg (limit) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg (                                         ) Tj /F7 10 Tf .25098 .501961 .501961 rg (// modificador del cursor) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 57.02362 208.2681 cm
+1 0 0 1 57.02362 267.3458 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Ejemplo desde Java usando ) Tj /F4 10 Tf (FindIterable) Tj /F1 10 Tf ( para recorrer los documentos encontrados.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 67.06806 cm
+1 0 0 1 57.02362 66.14584 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -5505,230 +5573,350 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .941176 .972549 1 rg
-n -6 -6 480.0283 132 re B*
+n -6 -6 480.0283 192 re B*
 Q
 q
 .941176 .972549 1 rg
-n 0 108 48 12 re f*
+n 0 168 48 12 re f*
 .941176 .972549 1 rg
-n 48 108 6 12 re f*
+n 48 168 6 12 re f*
 .941176 .972549 1 rg
-n 54 108 54 12 re f*
+n 54 168 54 12 re f*
 .941176 .972549 1 rg
-n 108 108 6 12 re f*
+n 108 168 6 12 re f*
 .941176 .972549 1 rg
-n 114 108 6 12 re f*
+n 114 168 6 12 re f*
 .941176 .972549 1 rg
-n 120 108 6 12 re f*
+n 120 168 6 12 re f*
 .941176 .972549 1 rg
-n 126 108 18 12 re f*
+n 126 168 18 12 re f*
 .941176 .972549 1 rg
-n 144 108 6 12 re f*
+n 144 168 6 12 re f*
 .941176 .972549 1 rg
-n 150 108 48 12 re f*
+n 150 168 48 12 re f*
 .941176 .972549 1 rg
-n 198 108 6 12 re f*
+n 198 168 6 12 re f*
 .941176 .972549 1 rg
-n 204 108 42 12 re f*
+n 204 168 42 12 re f*
 .941176 .972549 1 rg
-n 246 108 6 12 re f*
+n 246 168 6 12 re f*
 .941176 .972549 1 rg
-n 252 108 6 12 re f*
+n 252 168 6 12 re f*
 .941176 .972549 1 rg
-n 258 108 144 12 re f*
+n 258 168 144 12 re f*
 .941176 .972549 1 rg
-n 402 108 12 12 re f*
+n 402 168 12 12 re f*
 .941176 .972549 1 rg
-n 414 108 0 12 re f*
+n 414 168 0 12 re f*
 .941176 .972549 1 rg
-n 0 96 72 12 re f*
+n 0 156 72 12 re f*
 .941176 .972549 1 rg
-n 72 96 6 12 re f*
+n 72 156 6 12 re f*
 .941176 .972549 1 rg
-n 78 96 72 12 re f*
+n 78 156 72 12 re f*
 .941176 .972549 1 rg
-n 150 96 6 12 re f*
+n 150 156 6 12 re f*
 .941176 .972549 1 rg
-n 156 96 6 12 re f*
+n 156 156 6 12 re f*
 .941176 .972549 1 rg
-n 162 96 6 12 re f*
+n 162 156 6 12 re f*
 .941176 .972549 1 rg
-n 168 96 18 12 re f*
+n 168 156 18 12 re f*
 .941176 .972549 1 rg
-n 186 96 6 12 re f*
+n 186 156 6 12 re f*
 .941176 .972549 1 rg
-n 192 96 78 12 re f*
+n 192 156 78 12 re f*
 .941176 .972549 1 rg
-n 270 96 6 12 re f*
+n 270 156 6 12 re f*
 .941176 .972549 1 rg
-n 276 96 48 12 re f*
+n 276 156 48 12 re f*
 .941176 .972549 1 rg
-n 324 96 6 12 re f*
+n 324 156 6 12 re f*
 .941176 .972549 1 rg
-n 330 96 0 12 re f*
+n 330 156 0 12 re f*
 .941176 .972549 1 rg
-n 0 84 96 12 re f*
+n 0 144 96 12 re f*
 .941176 .972549 1 rg
-n 96 84 6 12 re f*
+n 96 144 6 12 re f*
 .941176 .972549 1 rg
-n 102 84 24 12 re f*
+n 102 144 24 12 re f*
 .941176 .972549 1 rg
-n 126 84 6 12 re f*
+n 126 144 6 12 re f*
 .941176 .972549 1 rg
-n 132 84 54 12 re f*
+n 132 144 54 12 re f*
 .941176 .972549 1 rg
-n 186 84 6 12 re f*
+n 186 144 6 12 re f*
 .941176 .972549 1 rg
-n 192 84 0 12 re f*
+n 192 144 0 12 re f*
 .941176 .972549 1 rg
-n 0 72 96 12 re f*
+n 0 132 96 12 re f*
 .941176 .972549 1 rg
-n 96 72 6 12 re f*
+n 96 132 6 12 re f*
 .941176 .972549 1 rg
-n 102 72 60 12 re f*
+n 102 132 60 12 re f*
 .941176 .972549 1 rg
-n 162 72 6 12 re f*
+n 162 132 6 12 re f*
 .941176 .972549 1 rg
-n 168 72 36 12 re f*
+n 168 132 36 12 re f*
 .941176 .972549 1 rg
-n 204 72 6 12 re f*
+n 204 132 6 12 re f*
 .941176 .972549 1 rg
-n 210 72 54 12 re f*
+n 210 132 54 12 re f*
 .941176 .972549 1 rg
-n 264 72 18 12 re f*
+n 264 132 18 12 re f*
 .941176 .972549 1 rg
-n 282 72 6 12 re f*
+n 282 132 6 12 re f*
 .941176 .972549 1 rg
-n 288 72 42 12 re f*
+n 288 132 42 12 re f*
 .941176 .972549 1 rg
-n 330 72 6 12 re f*
+n 330 132 6 12 re f*
 .941176 .972549 1 rg
-n 336 72 30 12 re f*
+n 336 132 30 12 re f*
 .941176 .972549 1 rg
-n 366 72 6 12 re f*
+n 366 132 6 12 re f*
 .941176 .972549 1 rg
-n 372 72 42 12 re f*
+n 372 132 42 12 re f*
 .941176 .972549 1 rg
-n 414 72 18 12 re f*
+n 414 132 18 12 re f*
 .941176 .972549 1 rg
-n 432 72 0 12 re f*
+n 432 132 0 12 re f*
 .941176 .972549 1 rg
-n 0 60 96 12 re f*
+n 0 120 96 12 re f*
 .941176 .972549 1 rg
-n 96 60 6 12 re f*
+n 96 120 6 12 re f*
 .941176 .972549 1 rg
-n 102 60 30 12 re f*
+n 102 120 30 12 re f*
+.941176 .972549 1 rg
+n 132 120 6 12 re f*
+.941176 .972549 1 rg
+n 138 120 12 12 re f*
+.941176 .972549 1 rg
+n 150 120 12 12 re f*
+.941176 .972549 1 rg
+n 162 120 0 12 re f*
+.941176 .972549 1 rg
+n 0 108 30 12 re f*
+.941176 .972549 1 rg
+n 30 108 390 12 re f*
+.941176 .972549 1 rg
+n 420 108 0 12 re f*
+.941176 .972549 1 rg
+n 0 96 24 12 re f*
+.941176 .972549 1 rg
+n 24 96 6 12 re f*
+.941176 .972549 1 rg
+n 30 96 30 12 re f*
+.941176 .972549 1 rg
+n 60 96 6 12 re f*
+.941176 .972549 1 rg
+n 66 96 6 12 re f*
+.941176 .972549 1 rg
+n 72 96 36 12 re f*
+.941176 .972549 1 rg
+n 108 96 6 12 re f*
+.941176 .972549 1 rg
+n 114 96 6 12 re f*
+.941176 .972549 1 rg
+n 120 96 6 12 re f*
+.941176 .972549 1 rg
+n 126 96 18 12 re f*
+.941176 .972549 1 rg
+n 144 96 6 12 re f*
+.941176 .972549 1 rg
+n 150 96 54 12 re f*
+.941176 .972549 1 rg
+n 204 96 6 12 re f*
+.941176 .972549 1 rg
+n 210 96 30 12 re f*
+.941176 .972549 1 rg
+n 240 96 6 12 re f*
+.941176 .972549 1 rg
+n 246 96 18 12 re f*
+.941176 .972549 1 rg
+n 264 96 0 12 re f*
+.941176 .972549 1 rg
+n 0 84 30 12 re f*
+.941176 .972549 1 rg
+n 30 84 6 12 re f*
+.941176 .972549 1 rg
+n 36 84 30 12 re f*
+.941176 .972549 1 rg
+n 66 84 6 12 re f*
+.941176 .972549 1 rg
+n 72 84 6 12 re f*
+.941176 .972549 1 rg
+n 78 84 6 12 re f*
+.941176 .972549 1 rg
+n 84 84 24 12 re f*
+.941176 .972549 1 rg
+n 108 84 6 12 re f*
+.941176 .972549 1 rg
+n 114 84 0 12 re f*
+.941176 .972549 1 rg
+n 0 72 48 12 re f*
+.941176 .972549 1 rg
+n 48 72 6 12 re f*
+.941176 .972549 1 rg
+n 54 72 48 12 re f*
+.941176 .972549 1 rg
+n 102 72 6 12 re f*
+.941176 .972549 1 rg
+n 108 72 6 12 re f*
+.941176 .972549 1 rg
+n 114 72 24 12 re f*
+.941176 .972549 1 rg
+n 138 72 6 12 re f*
+.941176 .972549 1 rg
+n 144 72 6 12 re f*
+.941176 .972549 1 rg
+n 150 72 6 12 re f*
+.941176 .972549 1 rg
+n 156 72 72 12 re f*
+.941176 .972549 1 rg
+n 228 72 6 12 re f*
+.941176 .972549 1 rg
+n 234 72 48 12 re f*
+.941176 .972549 1 rg
+n 282 72 18 12 re f*
+.941176 .972549 1 rg
+n 300 72 0 12 re f*
+.941176 .972549 1 rg
+n 0 60 30 12 re f*
+.941176 .972549 1 rg
+n 30 60 6 12 re f*
+.941176 .972549 1 rg
+n 36 60 6 12 re f*
+.941176 .972549 1 rg
+n 42 60 24 12 re f*
+.941176 .972549 1 rg
+n 66 60 6 12 re f*
+.941176 .972549 1 rg
+n 72 60 42 12 re f*
+.941176 .972549 1 rg
+n 114 60 18 12 re f*
 .941176 .972549 1 rg
 n 132 60 6 12 re f*
 .941176 .972549 1 rg
-n 138 60 12 12 re f*
+n 138 60 6 12 re f*
 .941176 .972549 1 rg
-n 150 60 12 12 re f*
+n 144 60 0 12 re f*
 .941176 .972549 1 rg
-n 162 60 0 12 re f*
+n 0 48 12 12 re f*
 .941176 .972549 1 rg
-n 0 48 0 12 re f*
+n 12 48 48 12 re f*
 .941176 .972549 1 rg
-n 0 36 24 12 re f*
+n 60 48 6 12 re f*
 .941176 .972549 1 rg
-n 24 36 6 12 re f*
+n 66 48 54 12 re f*
 .941176 .972549 1 rg
-n 30 36 30 12 re f*
+n 120 48 6 12 re f*
 .941176 .972549 1 rg
-n 60 36 6 12 re f*
+n 126 48 6 12 re f*
 .941176 .972549 1 rg
-n 66 36 6 12 re f*
+n 132 48 6 12 re f*
 .941176 .972549 1 rg
-n 72 36 36 12 re f*
+n 138 48 24 12 re f*
 .941176 .972549 1 rg
-n 108 36 6 12 re f*
+n 162 48 6 12 re f*
 .941176 .972549 1 rg
-n 114 36 6 12 re f*
+n 168 48 24 12 re f*
 .941176 .972549 1 rg
-n 120 36 6 12 re f*
+n 192 48 18 12 re f*
 .941176 .972549 1 rg
-n 126 36 18 12 re f*
+n 210 48 0 12 re f*
 .941176 .972549 1 rg
-n 144 36 6 12 re f*
+n 0 36 12 12 re f*
 .941176 .972549 1 rg
-n 150 36 54 12 re f*
+n 12 36 30 12 re f*
 .941176 .972549 1 rg
-n 204 36 6 12 re f*
+n 42 36 6 12 re f*
 .941176 .972549 1 rg
-n 210 36 30 12 re f*
+n 48 36 6 12 re f*
 .941176 .972549 1 rg
-n 240 36 6 12 re f*
+n 54 36 6 12 re f*
 .941176 .972549 1 rg
-n 246 36 18 12 re f*
+n 60 36 18 12 re f*
 .941176 .972549 1 rg
-n 264 36 0 12 re f*
+n 78 36 6 12 re f*
 .941176 .972549 1 rg
-n 0 24 30 12 re f*
+n 84 36 30 12 re f*
 .941176 .972549 1 rg
-n 30 24 6 12 re f*
+n 114 36 18 12 re f*
 .941176 .972549 1 rg
-n 36 24 30 12 re f*
+n 132 36 0 12 re f*
 .941176 .972549 1 rg
-n 66 24 6 12 re f*
+n 0 24 12 12 re f*
 .941176 .972549 1 rg
-n 72 24 6 12 re f*
+n 12 24 30 12 re f*
+.941176 .972549 1 rg
+n 42 24 6 12 re f*
+.941176 .972549 1 rg
+n 48 24 30 12 re f*
 .941176 .972549 1 rg
 n 78 24 6 12 re f*
 .941176 .972549 1 rg
-n 84 24 24 12 re f*
+n 84 24 54 12 re f*
 .941176 .972549 1 rg
-n 108 24 6 12 re f*
+n 138 24 6 12 re f*
 .941176 .972549 1 rg
-n 114 24 0 12 re f*
+n 144 24 66 12 re f*
 .941176 .972549 1 rg
-n 0 12 48 12 re f*
+n 210 24 6 12 re f*
 .941176 .972549 1 rg
-n 48 12 6 12 re f*
+n 216 24 30 12 re f*
 .941176 .972549 1 rg
-n 54 12 48 12 re f*
+n 246 24 18 12 re f*
+.941176 .972549 1 rg
+n 264 24 0 12 re f*
+.941176 .972549 1 rg
+n 0 12 12 12 re f*
+.941176 .972549 1 rg
+n 12 12 30 12 re f*
+.941176 .972549 1 rg
+n 42 12 6 12 re f*
+.941176 .972549 1 rg
+n 48 12 54 12 re f*
 .941176 .972549 1 rg
 n 102 12 6 12 re f*
 .941176 .972549 1 rg
-n 108 12 6 12 re f*
+n 108 12 54 12 re f*
 .941176 .972549 1 rg
-n 114 12 24 12 re f*
+n 162 12 6 12 re f*
 .941176 .972549 1 rg
-n 138 12 6 12 re f*
+n 168 12 54 12 re f*
 .941176 .972549 1 rg
-n 144 12 6 12 re f*
+n 222 12 6 12 re f*
 .941176 .972549 1 rg
-n 150 12 6 12 re f*
+n 228 12 48 12 re f*
 .941176 .972549 1 rg
-n 156 12 72 12 re f*
+n 276 12 18 12 re f*
 .941176 .972549 1 rg
-n 228 12 6 12 re f*
+n 294 12 0 12 re f*
 .941176 .972549 1 rg
-n 234 12 48 12 re f*
+n 0 0 12 12 re f*
 .941176 .972549 1 rg
-n 282 12 18 12 re f*
+n 12 0 30 12 re f*
 .941176 .972549 1 rg
-n 300 12 0 12 re f*
+n 42 0 6 12 re f*
 .941176 .972549 1 rg
-n 0 0 30 12 re f*
-.941176 .972549 1 rg
-n 30 0 6 12 re f*
-.941176 .972549 1 rg
-n 36 0 6 12 re f*
-.941176 .972549 1 rg
-n 42 0 24 12 re f*
-.941176 .972549 1 rg
-n 66 0 6 12 re f*
-.941176 .972549 1 rg
-n 72 0 42 12 re f*
-.941176 .972549 1 rg
-n 114 0 18 12 re f*
+n 48 0 84 12 re f*
 .941176 .972549 1 rg
 n 132 0 6 12 re f*
 .941176 .972549 1 rg
-n 138 0 6 12 re f*
+n 138 0 54 12 re f*
 .941176 .972549 1 rg
-n 144 0 0 12 re f*
-BT 1 0 0 1 0 110 Tm 12 TL /F5 10 Tf 0 0 0 rg (Document) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (documento) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Document) Tj (\() Tj .729412 .129412 .129412 rg ("autor") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj .729412 .129412 .129412 rg ("Robert Louis Stevenson") Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (FindIterable) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (findIterable) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mdb) Tj (.) Tj .490196 .564706 .160784 rg (getCollection) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("libros") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* (                ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (find) Tj 0 0 0 rg (\() Tj (documento) Tj (\)) Tj .733333 .733333 .733333 rg  T* (                ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (projection) Tj 0 0 0 rg (\() Tj (fields) Tj (\() Tj (excludeId) Tj (\(\),) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (include) Tj (\() Tj .729412 .129412 .129412 rg ("cod") Tj 0 0 0 rg (,) Tj .729412 .129412 .129412 rg ("title") Tj 0 0 0 rg (\)\)\)) Tj .733333 .733333 .733333 rg  T* (                ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (limit) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T*  T* 0 0 0 rg (List) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (Libro) Tj .4 .4 .4 rg (>) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libros) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (ArrayList) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (Libro) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg (\(\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (Libro) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (null) Tj /F5 10 Tf 0 0 0 rg (;) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (Iterator) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (Document) Tj .4 .4 .4 rg (>) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (iter) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (findIterable) Tj (.) Tj .490196 .564706 .160784 rg (iterator) Tj 0 0 0 rg (\(\);) Tj .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (while) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (\() Tj (iter) Tj (.) Tj .490196 .564706 .160784 rg (hasNext) Tj 0 0 0 rg (\(\)\)) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg ({) Tj .733333 .733333 .733333 rg  T* ET
+n 192 0 6 12 re f*
+.941176 .972549 1 rg
+n 198 0 54 12 re f*
+.941176 .972549 1 rg
+n 252 0 6 12 re f*
+.941176 .972549 1 rg
+n 258 0 78 12 re f*
+.941176 .972549 1 rg
+n 336 0 18 12 re f*
+.941176 .972549 1 rg
+n 354 0 0 12 re f*
+BT 1 0 0 1 0 170 Tm 12 TL /F5 10 Tf 0 0 0 rg (Document) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (documento) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Document) Tj (\() Tj .729412 .129412 .129412 rg ("autor") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj .729412 .129412 .129412 rg ("Robert Louis Stevenson") Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (FindIterable) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (findIterable) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mdb) Tj (.) Tj .490196 .564706 .160784 rg (getCollection) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("libros") Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* (                ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (find) Tj 0 0 0 rg (\() Tj (documento) Tj (\)) Tj .733333 .733333 .733333 rg  T* (                ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (projection) Tj 0 0 0 rg (\() Tj (fields) Tj (\() Tj (excludeId) Tj (\(\),) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (include) Tj (\() Tj .729412 .129412 .129412 rg ("cod") Tj 0 0 0 rg (,) Tj .729412 .129412 .129412 rg ("title") Tj 0 0 0 rg (\)\)\)) Tj .733333 .733333 .733333 rg  T* (                ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (limit) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (10) Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* (     ) Tj /F7 10 Tf .25098 .501961 .501961 rg (// iteramos sobre el FindIterable para guardarlos en un ArrayList) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* 0 0 0 rg (List) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (Libro) Tj .4 .4 .4 rg (>) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libros) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (ArrayList) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (Libro) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg (\(\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (Libro) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (libro) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (null) Tj /F5 10 Tf 0 0 0 rg (;) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (Iterator) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (Document) Tj .4 .4 .4 rg (>) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (iter) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (findIterable) Tj (.) Tj .490196 .564706 .160784 rg (iterator) Tj 0 0 0 rg (\(\);) Tj .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (while) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (\() Tj (iter) Tj (.) Tj .490196 .564706 .160784 rg (hasNext) Tj 0 0 0 rg (\(\)\)) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg ({) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (Document) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (documento) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (iter) Tj (.) Tj .490196 .564706 .160784 rg (next) Tj 0 0 0 rg (\(\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Libro) Tj (\(\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setId) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getObjectId) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("_id") Tj 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setTitulo) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getString) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("titulo") Tj 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setDescripcion) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getString) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("descripcion") Tj 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* ET
 Q
 Q
 Q
@@ -5737,14 +5925,14 @@ Q
  
 endstream
 endobj
-98 0 obj
+97 0 obj
 <<
-/Length 25336
+/Length 20561
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 631.8236 cm
+1 0 0 1 57.02362 691.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -5754,125 +5942,9 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .941176 .972549 1 rg
-n -6 -6 480.0283 132 re B*
+n -6 -6 480.0283 72 re B*
 Q
 q
-.941176 .972549 1 rg
-n 0 108 12 12 re f*
-.941176 .972549 1 rg
-n 12 108 48 12 re f*
-.941176 .972549 1 rg
-n 60 108 6 12 re f*
-.941176 .972549 1 rg
-n 66 108 54 12 re f*
-.941176 .972549 1 rg
-n 120 108 6 12 re f*
-.941176 .972549 1 rg
-n 126 108 6 12 re f*
-.941176 .972549 1 rg
-n 132 108 6 12 re f*
-.941176 .972549 1 rg
-n 138 108 24 12 re f*
-.941176 .972549 1 rg
-n 162 108 6 12 re f*
-.941176 .972549 1 rg
-n 168 108 24 12 re f*
-.941176 .972549 1 rg
-n 192 108 18 12 re f*
-.941176 .972549 1 rg
-n 210 108 0 12 re f*
-.941176 .972549 1 rg
-n 0 96 12 12 re f*
-.941176 .972549 1 rg
-n 12 96 30 12 re f*
-.941176 .972549 1 rg
-n 42 96 6 12 re f*
-.941176 .972549 1 rg
-n 48 96 6 12 re f*
-.941176 .972549 1 rg
-n 54 96 6 12 re f*
-.941176 .972549 1 rg
-n 60 96 18 12 re f*
-.941176 .972549 1 rg
-n 78 96 6 12 re f*
-.941176 .972549 1 rg
-n 84 96 30 12 re f*
-.941176 .972549 1 rg
-n 114 96 18 12 re f*
-.941176 .972549 1 rg
-n 132 96 0 12 re f*
-.941176 .972549 1 rg
-n 0 84 12 12 re f*
-.941176 .972549 1 rg
-n 12 84 30 12 re f*
-.941176 .972549 1 rg
-n 42 84 6 12 re f*
-.941176 .972549 1 rg
-n 48 84 30 12 re f*
-.941176 .972549 1 rg
-n 78 84 6 12 re f*
-.941176 .972549 1 rg
-n 84 84 54 12 re f*
-.941176 .972549 1 rg
-n 138 84 6 12 re f*
-.941176 .972549 1 rg
-n 144 84 66 12 re f*
-.941176 .972549 1 rg
-n 210 84 6 12 re f*
-.941176 .972549 1 rg
-n 216 84 30 12 re f*
-.941176 .972549 1 rg
-n 246 84 18 12 re f*
-.941176 .972549 1 rg
-n 264 84 0 12 re f*
-.941176 .972549 1 rg
-n 0 72 12 12 re f*
-.941176 .972549 1 rg
-n 12 72 30 12 re f*
-.941176 .972549 1 rg
-n 42 72 6 12 re f*
-.941176 .972549 1 rg
-n 48 72 54 12 re f*
-.941176 .972549 1 rg
-n 102 72 6 12 re f*
-.941176 .972549 1 rg
-n 108 72 54 12 re f*
-.941176 .972549 1 rg
-n 162 72 6 12 re f*
-.941176 .972549 1 rg
-n 168 72 54 12 re f*
-.941176 .972549 1 rg
-n 222 72 6 12 re f*
-.941176 .972549 1 rg
-n 228 72 48 12 re f*
-.941176 .972549 1 rg
-n 276 72 18 12 re f*
-.941176 .972549 1 rg
-n 294 72 0 12 re f*
-.941176 .972549 1 rg
-n 0 60 12 12 re f*
-.941176 .972549 1 rg
-n 12 60 30 12 re f*
-.941176 .972549 1 rg
-n 42 60 6 12 re f*
-.941176 .972549 1 rg
-n 48 60 84 12 re f*
-.941176 .972549 1 rg
-n 132 60 6 12 re f*
-.941176 .972549 1 rg
-n 138 60 54 12 re f*
-.941176 .972549 1 rg
-n 192 60 6 12 re f*
-.941176 .972549 1 rg
-n 198 60 54 12 re f*
-.941176 .972549 1 rg
-n 252 60 6 12 re f*
-.941176 .972549 1 rg
-n 258 60 78 12 re f*
-.941176 .972549 1 rg
-n 336 60 18 12 re f*
-.941176 .972549 1 rg
-n 354 60 0 12 re f*
 .941176 .972549 1 rg
 n 0 48 12 12 re f*
 .941176 .972549 1 rg
@@ -5971,33 +6043,33 @@ n 120 12 0 12 re f*
 n 0 0 6 12 re f*
 .941176 .972549 1 rg
 n 6 0 0 12 re f*
-BT 1 0 0 1 0 110 Tm 12 TL /F5 10 Tf .733333 .733333 .733333 rg (  ) Tj 0 0 0 rg (Document) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (documento) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (iter) Tj (.) Tj .490196 .564706 .160784 rg (next) Tj 0 0 0 rg (\(\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Libro) Tj (\(\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setId) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getObjectId) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("_id") Tj 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setTitulo) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getString) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("titulo") Tj 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setDescripcion) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getString) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("descripcion") Tj 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setAutor) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getString) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("autor") Tj 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setFecha) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getDate) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("fecha") Tj 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setDisponible) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getBoolean) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("disponible") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (false) Tj /F5 10 Tf 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libros) Tj (.) Tj .490196 .564706 .160784 rg (add) Tj 0 0 0 rg (\() Tj (libro) Tj (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (}) Tj .733333 .733333 .733333 rg  T* ET
+BT 1 0 0 1 0 50 Tm 12 TL /F5 10 Tf .733333 .733333 .733333 rg (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setAutor) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getString) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("autor") Tj 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setFecha) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getDate) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("fecha") Tj 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libro) Tj (.) Tj .490196 .564706 .160784 rg (setDisponible) Tj 0 0 0 rg (\() Tj (documento) Tj (.) Tj .490196 .564706 .160784 rg (getBoolean) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("disponible") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (false) Tj /F5 10 Tf 0 0 0 rg (\)\);) Tj .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (libros) Tj (.) Tj .490196 .564706 .160784 rg (add) Tj 0 0 0 rg (\() Tj (libro) Tj (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (}) Tj .733333 .733333 .733333 rg  T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 57.02362 587.8236 cm
+1 0 0 1 57.02362 647.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .928241 Tw (Conviene destacar c\363mo en las proyecciones si se desea excluir el campo "_id" se ha de hacer de forma) Tj T* 0 Tw -0.122314 Tw (expl\355cita, como se puede ver en este ejemplo anterior. En el caso de no especificarlo, dicho campo "_id" ser\341) Tj T* 0 Tw (incluido incluso si no se indica.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 557.8236 cm
+1 0 0 1 57.02362 617.8236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (7.3. Operaciones de modificacion) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 545.8236 cm
+1 0 0 1 57.02362 605.8236 cm
 Q
 q
-1 0 0 1 57.02362 545.8236 cm
+1 0 0 1 57.02362 605.8236 cm
 Q
 q
-1 0 0 1 57.02362 533.8236 cm
+1 0 0 1 57.02362 593.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6020,10 +6092,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 527.8236 cm
+1 0 0 1 57.02362 587.8236 cm
 Q
 q
-1 0 0 1 57.02362 515.8236 cm
+1 0 0 1 57.02362 575.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6046,10 +6118,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 509.8236 cm
+1 0 0 1 57.02362 569.8236 cm
 Q
 q
-1 0 0 1 57.02362 497.8236 cm
+1 0 0 1 57.02362 557.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6072,10 +6144,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 491.8236 cm
+1 0 0 1 57.02362 551.8236 cm
 Q
 q
-1 0 0 1 57.02362 479.8236 cm
+1 0 0 1 57.02362 539.8236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6098,17 +6170,17 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 479.8236 cm
+1 0 0 1 57.02362 539.8236 cm
 Q
 q
-1 0 0 1 57.02362 461.8236 cm
+1 0 0 1 57.02362 521.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ejemplo desde consola) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 392.6236 cm
+1 0 0 1 57.02362 452.6236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -6212,14 +6284,14 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 372.6236 cm
+1 0 0 1 57.02362 432.6236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ejemplos desde Java) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 211.2394 cm
+1 0 0 1 57.02362 271.2394 cm
 q
 q
 .975727 0 0 .975727 0 0 cm
@@ -6493,154 +6565,19 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 155.2394 cm
-q
-BT 1 0 0 1 0 38 Tm .350596 Tw 12 TL /F1 10 Tf 0 0 0 rg (De nuevo, utilizando ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf ( para el mapeo autom\341tico de los documentos en objetos Java \(POJO\),) Tj T* 0 Tw 1.787565 Tw (podr\355amos modificar un documento de MongoDB pas\341ndole directamente el objeto Java. En el ejemplo) Tj T* 0 Tw .618647 Tw (siguiente, tenemos el objeto con todos los campos ya modificados \(excepto el id, que nunca tocaremos\) y,) Tj T* 0 Tw -0.006759 Tw (utilizando el ) Tj /F4 10 Tf (id) Tj /F1 10 Tf ( como filtro, pasamos el objeto que reemplazar\341 al que haya actualmente en la base de datos:) Tj T* 0 Tw ET
-Q
-Q
-q
-1 0 0 1 57.02362 88.24266 cm
-q
-q
-.963999 0 0 .963999 0 0 cm
-q
-1 0 0 1 6.6 6.846479 cm
-q
-.662745 .662745 .662745 RG
-.5 w
-.941176 .972549 1 rg
-n -6 -6 498 60 re B*
-Q
-q
-.941176 .972549 1 rg
-n 0 36 6 12 re f*
-.941176 .972549 1 rg
-n 6 36 6 12 re f*
-.941176 .972549 1 rg
-n 12 36 6 12 re f*
-.941176 .972549 1 rg
-n 18 36 6 12 re f*
-.941176 .972549 1 rg
-n 24 36 6 12 re f*
-.941176 .972549 1 rg
-n 30 36 0 12 re f*
-.941176 .972549 1 rg
-n 0 24 90 12 re f*
-.941176 .972549 1 rg
-n 90 24 6 12 re f*
-.941176 .972549 1 rg
-n 96 24 30 12 re f*
-.941176 .972549 1 rg
-n 126 24 6 12 re f*
-.941176 .972549 1 rg
-n 132 24 6 12 re f*
-.941176 .972549 1 rg
-n 138 24 90 12 re f*
-.941176 .972549 1 rg
-n 228 24 6 12 re f*
-.941176 .972549 1 rg
-n 234 24 6 12 re f*
-.941176 .972549 1 rg
-n 240 24 6 12 re f*
-.941176 .972549 1 rg
-n 246 24 12 12 re f*
-.941176 .972549 1 rg
-n 258 24 6 12 re f*
-.941176 .972549 1 rg
-n 264 24 78 12 re f*
-.941176 .972549 1 rg
-n 342 24 6 12 re f*
-.941176 .972549 1 rg
-n 348 24 48 12 re f*
-.941176 .972549 1 rg
-n 396 24 6 12 re f*
-.941176 .972549 1 rg
-n 402 24 6 12 re f*
-.941176 .972549 1 rg
-n 408 24 30 12 re f*
-.941176 .972549 1 rg
-n 438 24 6 12 re f*
-.941176 .972549 1 rg
-n 444 24 30 12 re f*
-.941176 .972549 1 rg
-n 474 24 12 12 re f*
-.941176 .972549 1 rg
-n 486 24 0 12 re f*
-.941176 .972549 1 rg
-n 0 12 90 12 re f*
-.941176 .972549 1 rg
-n 90 12 6 12 re f*
-.941176 .972549 1 rg
-n 96 12 60 12 re f*
-.941176 .972549 1 rg
-n 156 12 6 12 re f*
-.941176 .972549 1 rg
-n 162 12 12 12 re f*
-.941176 .972549 1 rg
-n 174 12 6 12 re f*
-.941176 .972549 1 rg
-n 180 12 30 12 re f*
-.941176 .972549 1 rg
-n 210 12 6 12 re f*
-.941176 .972549 1 rg
-n 216 12 6 12 re f*
-.941176 .972549 1 rg
-n 222 12 30 12 re f*
-.941176 .972549 1 rg
-n 252 12 6 12 re f*
-.941176 .972549 1 rg
-n 258 12 36 12 re f*
-.941176 .972549 1 rg
-n 294 12 24 12 re f*
-.941176 .972549 1 rg
-n 318 12 6 12 re f*
-.941176 .972549 1 rg
-n 324 12 30 12 re f*
-.941176 .972549 1 rg
-n 354 12 12 12 re f*
-.941176 .972549 1 rg
-n 366 12 0 12 re f*
-.941176 .972549 1 rg
-n 0 0 6 12 re f*
-.941176 .972549 1 rg
-n 6 0 6 12 re f*
-.941176 .972549 1 rg
-n 12 0 6 12 re f*
-.941176 .972549 1 rg
-n 18 0 6 12 re f*
-.941176 .972549 1 rg
-n 24 0 6 12 re f*
-.941176 .972549 1 rg
-n 30 0 0 12 re f*
-BT 1 0 0 1 0 38 Tm 12 TL /F5 10 Tf 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (MongoCollection) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (Coche) Tj .4 .4 .4 rg (>) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (coleccionCoches) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (db) Tj (.) Tj .490196 .564706 .160784 rg (getCollection) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("coches") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Coche) Tj (.) Tj .490196 .564706 .160784 rg (class) Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (coleccionCoches) Tj (.) Tj .490196 .564706 .160784 rg (replaceOne) Tj 0 0 0 rg (\() Tj (eq) Tj (\() Tj .729412 .129412 .129412 rg ("_id") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (coche) Tj (.) Tj .490196 .564706 .160784 rg (get_id) Tj 0 0 0 rg (\(\)\),) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (coche) Tj (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg  T* ET
-Q
-Q
-Q
-Q
-Q
- 
-endstream
-endobj
-99 0 obj
-<<
-/Length 16142
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 747.0236 cm
+1 0 0 1 57.02362 241.2394 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (7.4. Operaciones de borrado) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 735.0236 cm
+1 0 0 1 57.02362 229.2394 cm
 Q
 q
-1 0 0 1 57.02362 735.0236 cm
+1 0 0 1 57.02362 229.2394 cm
 Q
 q
-1 0 0 1 57.02362 723.0236 cm
+1 0 0 1 57.02362 217.2394 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6663,10 +6600,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 717.0236 cm
+1 0 0 1 57.02362 211.2394 cm
 Q
 q
-1 0 0 1 57.02362 705.0236 cm
+1 0 0 1 57.02362 199.2394 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6689,10 +6626,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 699.0236 cm
+1 0 0 1 57.02362 193.2394 cm
 Q
 q
-1 0 0 1 57.02362 687.0236 cm
+1 0 0 1 57.02362 181.2394 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -6715,17 +6652,17 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 687.0236 cm
+1 0 0 1 57.02362 181.2394 cm
 Q
 q
-1 0 0 1 57.02362 669.0236 cm
+1 0 0 1 57.02362 163.2394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ejemplo desde consola) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 611.8236 cm
+1 0 0 1 57.02362 106.0394 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -6789,14 +6726,23 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 591.8236 cm
+1 0 0 1 57.02362 86.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Ejemplo desde Java:) Tj T* ET
 Q
 Q
+ 
+endstream
+endobj
+98 0 obj
+<<
+/Length 15388
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 57.02362 558.6236 cm
+1 0 0 1 57.02362 739.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -6852,170 +6798,50 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 514.6236 cm
-q
-BT 1 0 0 1 0 26 Tm 1.318334 Tw 12 TL /F1 10 Tf 0 0 0 rg (Tambi\351n podemos hacerlo directamente sobre la colecci\363n, utilizando de nuevo un ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf (. En el) Tj T* 0 Tw -0.040728 Tw (ejemplo siguiente, tenemos el objeto cuyo documento queremos eliminar de la base de datos, y utilizamos el) Tj T* 0 Tw /F4 10 Tf (id) Tj /F1 10 Tf ( como filtro para localizarlo y borrarlo de la colecci\363n:) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 448.3276 cm
-q
-q
-.95255 0 0 .95255 0 0 cm
-q
-1 0 0 1 6.6 6.928769 cm
-q
-.662745 .662745 .662745 RG
-.5 w
-.941176 .972549 1 rg
-n -6 -6 504 60 re B*
-Q
-q
-.941176 .972549 1 rg
-n 0 36 6 12 re f*
-.941176 .972549 1 rg
-n 6 36 6 12 re f*
-.941176 .972549 1 rg
-n 12 36 6 12 re f*
-.941176 .972549 1 rg
-n 18 36 6 12 re f*
-.941176 .972549 1 rg
-n 24 36 6 12 re f*
-.941176 .972549 1 rg
-n 30 36 0 12 re f*
-.941176 .972549 1 rg
-n 0 24 90 12 re f*
-.941176 .972549 1 rg
-n 90 24 6 12 re f*
-.941176 .972549 1 rg
-n 96 24 30 12 re f*
-.941176 .972549 1 rg
-n 126 24 6 12 re f*
-.941176 .972549 1 rg
-n 132 24 6 12 re f*
-.941176 .972549 1 rg
-n 138 24 90 12 re f*
-.941176 .972549 1 rg
-n 228 24 6 12 re f*
-.941176 .972549 1 rg
-n 234 24 6 12 re f*
-.941176 .972549 1 rg
-n 240 24 6 12 re f*
-.941176 .972549 1 rg
-n 246 24 18 12 re f*
-.941176 .972549 1 rg
-n 264 24 6 12 re f*
-.941176 .972549 1 rg
-n 270 24 78 12 re f*
-.941176 .972549 1 rg
-n 348 24 6 12 re f*
-.941176 .972549 1 rg
-n 354 24 48 12 re f*
-.941176 .972549 1 rg
-n 402 24 6 12 re f*
-.941176 .972549 1 rg
-n 408 24 6 12 re f*
-.941176 .972549 1 rg
-n 414 24 30 12 re f*
-.941176 .972549 1 rg
-n 444 24 6 12 re f*
-.941176 .972549 1 rg
-n 450 24 30 12 re f*
-.941176 .972549 1 rg
-n 480 24 12 12 re f*
-.941176 .972549 1 rg
-n 492 24 0 12 re f*
-.941176 .972549 1 rg
-n 0 12 90 12 re f*
-.941176 .972549 1 rg
-n 90 12 6 12 re f*
-.941176 .972549 1 rg
-n 96 12 54 12 re f*
-.941176 .972549 1 rg
-n 150 12 6 12 re f*
-.941176 .972549 1 rg
-n 156 12 12 12 re f*
-.941176 .972549 1 rg
-n 168 12 6 12 re f*
-.941176 .972549 1 rg
-n 174 12 30 12 re f*
-.941176 .972549 1 rg
-n 204 12 6 12 re f*
-.941176 .972549 1 rg
-n 210 12 6 12 re f*
-.941176 .972549 1 rg
-n 216 12 30 12 re f*
-.941176 .972549 1 rg
-n 246 12 6 12 re f*
-.941176 .972549 1 rg
-n 252 12 36 12 re f*
-.941176 .972549 1 rg
-n 288 12 30 12 re f*
-.941176 .972549 1 rg
-n 318 12 0 12 re f*
-.941176 .972549 1 rg
-n 0 0 6 12 re f*
-.941176 .972549 1 rg
-n 6 0 6 12 re f*
-.941176 .972549 1 rg
-n 12 0 6 12 re f*
-.941176 .972549 1 rg
-n 18 0 6 12 re f*
-.941176 .972549 1 rg
-n 24 0 6 12 re f*
-.941176 .972549 1 rg
-n 30 0 0 12 re f*
-BT 1 0 0 1 0 38 Tm 12 TL /F5 10 Tf 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (MongoCollection) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (Coche) Tj .4 .4 .4 rg (>) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (coleccionCoches) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mdb) Tj (.) Tj .490196 .564706 .160784 rg (getCollection) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("coches") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Coche) Tj (.) Tj .490196 .564706 .160784 rg (class) Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (coleccionCoches) Tj (.) Tj .490196 .564706 .160784 rg (deleteOne) Tj 0 0 0 rg (\() Tj (eq) Tj (\() Tj .729412 .129412 .129412 rg ("_id") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (coche) Tj (.) Tj .490196 .564706 .160784 rg (get_id) Tj 0 0 0 rg (\(\)\)\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg  T* ET
-Q
-Q
-Q
-Q
-Q
-q
-1 0 0 1 57.02362 415.3276 cm
+1 0 0 1 57.02362 706.8236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (8. MAPEADO DE CLASES) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 385.3276 cm
+1 0 0 1 57.02362 676.8236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf .133333 .133333 .133333 rg (Utilizar CodecRegistry para mapear POJOs a Documentos) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 343.3276 cm
+1 0 0 1 57.02362 634.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .908453 Tw (BSON, como hemos dicho, es un formato de almacenamiento binario similar a JSON, denominado Binary) Tj T* 0 Tw 1.47589 Tw (JSON. Al igual que JSON, admite objetos de documentos incrustados y objetos array, pero BSON tiene) Tj T* 0 Tw (algunos tipos de datos que JSON no tiene, como los tipos Date y BinData.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 325.3276 cm
+1 0 0 1 57.02362 616.8236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 .4 .6 rg (Codecs BSON Documentation) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 283.3276 cm
+1 0 0 1 57.02362 574.8236 cm
 q
 BT 1 0 0 1 0 26 Tm .776962 Tw 12 TL /F1 10 Tf 0 0 0 rg (La interfaz ) Tj /F4 10 Tf (Codec) Tj /F1 10 Tf ( abstrae los procesos de decodificaci\363n de un valor BSON en un objeto Java usando un) Tj T* 0 Tw .713432 Tw (BsonReader y de codificaci\363n de un objeto Java en un valor BSON usando un ) Tj /F4 10 Tf (BsonWriter) Tj /F1 10 Tf (. El valor BSON) Tj T* 0 Tw (puede ser tan simple como un booleano o tan complejo como un documento o un array.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 241.3276 cm
+1 0 0 1 57.02362 532.8236 cm
 q
 BT 1 0 0 1 0 26 Tm .14713 Tw 12 TL /F1 10 Tf 0 0 0 rg (Por su parte, un ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf ( contiene un conjunto de instancias de ) Tj /F4 10 Tf (Codec) Tj /F1 10 Tf ( a las que se accede seg\372n las) Tj T* 0 Tw .956556 Tw (clases de Java que se codifican y decodifican. Las instancias de ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf ( generalmente se crean a) Tj T* 0 Tw (trav\351s de m\351todos est\341ndar est\341ticos en la clase ) Tj /F4 10 Tf (CodecRegistries) Tj /F1 10 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 211.3276 cm
+1 0 0 1 57.02362 502.8236 cm
 q
 BT 1 0 0 1 0 14 Tm 3.115257 Tw 12 TL /F1 10 Tf 0 0 0 rg (Una vez creado un ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf (, ya podemos trabajar directamente con los POJOs para insertar,) Tj T* 0 Tw (modificar o leer documentos en la base de datos:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 166.1276 cm
+1 0 0 1 57.02362 457.6236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -7055,7 +6881,7 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 72.92755 cm
+1 0 0 1 57.02362 256.4236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -7065,164 +6891,135 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .941176 .972549 1 rg
-n -6 -6 480.0283 84 re B*
+n -6 -6 480.0283 192 re B*
 Q
 q
 .941176 .972549 1 rg
-n 0 60 96 12 re f*
+n 0 168 96 12 re f*
 .941176 .972549 1 rg
-n 96 60 6 12 re f*
+n 96 168 6 12 re f*
 .941176 .972549 1 rg
-n 102 60 60 12 re f*
+n 102 168 60 12 re f*
 .941176 .972549 1 rg
-n 162 60 6 12 re f*
+n 162 168 6 12 re f*
 .941176 .972549 1 rg
-n 168 60 6 12 re f*
+n 168 168 6 12 re f*
 .941176 .972549 1 rg
-n 174 60 6 12 re f*
+n 174 168 6 12 re f*
 .941176 .972549 1 rg
-n 180 60 18 12 re f*
+n 180 168 18 12 re f*
 .941176 .972549 1 rg
-n 198 60 6 12 re f*
+n 198 168 6 12 re f*
 .941176 .972549 1 rg
-n 204 60 96 12 re f*
+n 204 168 96 12 re f*
 .941176 .972549 1 rg
-n 300 60 6 12 re f*
+n 300 168 6 12 re f*
 .941176 .972549 1 rg
-n 306 60 126 12 re f*
+n 306 168 126 12 re f*
 .941176 .972549 1 rg
-n 432 60 12 12 re f*
+n 432 168 12 12 re f*
 .941176 .972549 1 rg
-n 444 60 0 12 re f*
+n 444 168 0 12 re f*
 .941176 .972549 1 rg
-n 0 48 78 12 re f*
+n 0 156 78 12 re f*
 .941176 .972549 1 rg
-n 78 48 6 12 re f*
+n 78 156 6 12 re f*
 .941176 .972549 1 rg
-n 84 48 102 12 re f*
+n 84 156 102 12 re f*
 .941176 .972549 1 rg
-n 186 48 6 12 re f*
+n 186 156 6 12 re f*
 .941176 .972549 1 rg
-n 192 48 6 12 re f*
+n 192 156 6 12 re f*
 .941176 .972549 1 rg
-n 198 48 6 12 re f*
+n 198 156 6 12 re f*
 .941176 .972549 1 rg
-n 204 48 78 12 re f*
+n 204 156 78 12 re f*
 .941176 .972549 1 rg
-n 282 48 6 12 re f*
+n 282 156 6 12 re f*
 .941176 .972549 1 rg
-n 288 48 0 12 re f*
+n 288 156 0 12 re f*
 .941176 .972549 1 rg
-n 0 36 48 12 re f*
+n 0 144 48 12 re f*
 .941176 .972549 1 rg
-n 48 36 102 12 re f*
+n 48 144 102 12 re f*
 .941176 .972549 1 rg
-n 150 36 6 12 re f*
+n 150 144 6 12 re f*
 .941176 .972549 1 rg
-n 156 36 42 12 re f*
+n 156 144 42 12 re f*
 .941176 .972549 1 rg
-n 198 36 18 12 re f*
+n 198 144 18 12 re f*
 .941176 .972549 1 rg
-n 216 36 54 12 re f*
+n 216 144 54 12 re f*
 .941176 .972549 1 rg
-n 270 36 6 12 re f*
+n 270 144 6 12 re f*
 .941176 .972549 1 rg
-n 276 36 24 12 re f*
+n 276 144 24 12 re f*
 .941176 .972549 1 rg
-n 300 36 12 12 re f*
+n 300 144 12 12 re f*
 .941176 .972549 1 rg
-n 312 36 30 12 re f*
+n 312 144 30 12 re f*
 .941176 .972549 1 rg
-n 342 36 24 12 re f*
+n 342 144 24 12 re f*
 .941176 .972549 1 rg
-n 366 36 0 12 re f*
+n 366 144 0 12 re f*
 .941176 .972549 1 rg
-n 0 24 78 12 re f*
+n 0 132 78 12 re f*
 .941176 .972549 1 rg
-n 78 24 6 12 re f*
+n 78 132 6 12 re f*
 .941176 .972549 1 rg
-n 84 24 78 12 re f*
+n 84 132 78 12 re f*
 .941176 .972549 1 rg
-n 162 24 6 12 re f*
+n 162 132 6 12 re f*
 .941176 .972549 1 rg
-n 168 24 6 12 re f*
+n 168 132 6 12 re f*
 .941176 .972549 1 rg
-n 174 24 6 12 re f*
+n 174 132 6 12 re f*
 .941176 .972549 1 rg
-n 180 24 84 12 re f*
+n 180 132 84 12 re f*
 .941176 .972549 1 rg
-n 264 24 6 12 re f*
+n 264 132 6 12 re f*
 .941176 .972549 1 rg
-n 270 24 0 12 re f*
+n 270 132 0 12 re f*
 .941176 .972549 1 rg
-n 0 12 48 12 re f*
+n 0 120 48 12 re f*
 .941176 .972549 1 rg
-n 48 12 114 12 re f*
+n 48 120 114 12 re f*
 .941176 .972549 1 rg
-n 162 12 6 12 re f*
+n 162 120 6 12 re f*
 .941176 .972549 1 rg
-n 168 12 138 12 re f*
+n 168 120 138 12 re f*
 .941176 .972549 1 rg
-n 306 12 18 12 re f*
+n 306 120 18 12 re f*
 .941176 .972549 1 rg
-n 324 12 6 12 re f*
+n 324 120 6 12 re f*
 .941176 .972549 1 rg
-n 330 12 102 12 re f*
+n 330 120 102 12 re f*
 .941176 .972549 1 rg
-n 432 12 12 12 re f*
+n 432 120 12 12 re f*
 .941176 .972549 1 rg
-n 444 12 0 12 re f*
+n 444 120 0 12 re f*
 .941176 .972549 1 rg
-n 0 0 114 12 re f*
+n 0 108 114 12 re f*
 .941176 .972549 1 rg
-n 114 0 6 12 re f*
+n 114 108 6 12 re f*
 .941176 .972549 1 rg
-n 120 0 84 12 re f*
+n 120 108 84 12 re f*
 .941176 .972549 1 rg
-n 204 0 6 12 re f*
+n 204 108 6 12 re f*
 .941176 .972549 1 rg
-n 210 0 6 12 re f*
+n 210 108 6 12 re f*
 .941176 .972549 1 rg
-n 216 0 6 12 re f*
+n 216 108 6 12 re f*
 .941176 .972549 1 rg
-n 222 0 114 12 re f*
+n 222 108 114 12 re f*
 .941176 .972549 1 rg
-n 336 0 6 12 re f*
+n 336 108 6 12 re f*
 .941176 .972549 1 rg
-n 342 0 42 12 re f*
+n 342 108 42 12 re f*
 .941176 .972549 1 rg
-n 384 0 12 12 re f*
+n 384 108 12 12 re f*
 .941176 .972549 1 rg
-n 396 0 0 12 re f*
-BT 1 0 0 1 0 62 Tm 12 TL /F5 10 Tf 0 0 0 rg (ConnectionString) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (connString) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (ConnectionString) Tj (\() Tj .729412 .129412 .129412 rg ("mongodb://localhost") Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (CodecRegistry) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (pojoCodecRegistry) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (fromProviders) Tj (\() Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (PojoCodecProvider) Tj (.) Tj .490196 .564706 .160784 rg (builder) Tj 0 0 0 rg (\(\).) Tj .490196 .564706 .160784 rg (automatic) Tj 0 0 0 rg (\() Tj /F6 10 Tf 0 .501961 0 rg (true) Tj /F5 10 Tf 0 0 0 rg (\).) Tj .490196 .564706 .160784 rg (build) Tj 0 0 0 rg (\(\)\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (CodecRegistry) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (codecRegistry) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (fromRegistries) Tj (\() Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (MongoClientSettings) Tj (.) Tj .490196 .564706 .160784 rg (getDefaultCodecRegistry) Tj 0 0 0 rg (\(\),) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (pojoCodecRegistry) Tj (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (MongoClientSettings) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (clientSettings) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (MongoClientSettings) Tj (.) Tj .490196 .564706 .160784 rg (builder) Tj 0 0 0 rg (\(\)) Tj .733333 .733333 .733333 rg  T* ET
-Q
-Q
-Q
-Q
-Q
- 
-endstream
-endobj
-100 0 obj
-<<
-/Length 15038
->>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 643.8236 cm
-q
-q
-1 0 0 1 0 0 cm
-q
-1 0 0 1 6.6 6.6 cm
-q
-.662745 .662745 .662745 RG
-.5 w
-.941176 .972549 1 rg
-n -6 -6 480.0283 120 re B*
-Q
-q
+n 396 108 0 12 re f*
 .941176 .972549 1 rg
 n 0 96 48 12 re f*
 .941176 .972549 1 rg
@@ -7339,32 +7136,63 @@ n 0 0 24 12 re f*
 n 24 0 18 12 re f*
 .941176 .972549 1 rg
 n 42 0 0 12 re f*
-BT 1 0 0 1 0 98 Tm 12 TL /F5 10 Tf .733333 .733333 .733333 rg (        ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (applyConnectionString) Tj 0 0 0 rg (\() Tj (connString) Tj (\)) Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (codecRegistry) Tj 0 0 0 rg (\() Tj (codecRegistry) Tj (\)) Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (build) Tj 0 0 0 rg (\(\);) Tj .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (try) Tj /F5 10 Tf 0 0 0 rg (\() Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (MongoClient) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mongoClient) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (MongoClients) Tj (.) Tj .490196 .564706 .160784 rg (create) Tj 0 0 0 rg (\() Tj (clientSettings) Tj (\);) Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg ({) Tj .733333 .733333 .733333 rg  T* (    ) Tj 0 0 0 rg (MongoDatabase) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mdb) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mongoClient) Tj (.) Tj .490196 .564706 .160784 rg (getDatabase) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("biblio") Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* (    ) Tj 0 0 0 rg (...) Tj .733333 .733333 .733333 rg  T* ET
+BT 1 0 0 1 0 170 Tm 12 TL /F5 10 Tf 0 0 0 rg (ConnectionString) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (connString) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf 0 .501961 0 rg (new) Tj /F5 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (ConnectionString) Tj (\() Tj .729412 .129412 .129412 rg ("mongodb://localhost") Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (CodecRegistry) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (pojoCodecRegistry) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (fromProviders) Tj (\() Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (PojoCodecProvider) Tj (.) Tj .490196 .564706 .160784 rg (builder) Tj 0 0 0 rg (\(\).) Tj .490196 .564706 .160784 rg (automatic) Tj 0 0 0 rg (\() Tj /F6 10 Tf 0 .501961 0 rg (true) Tj /F5 10 Tf 0 0 0 rg (\).) Tj .490196 .564706 .160784 rg (build) Tj 0 0 0 rg (\(\)\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (CodecRegistry) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (codecRegistry) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (fromRegistries) Tj (\() Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (MongoClientSettings) Tj (.) Tj .490196 .564706 .160784 rg (getDefaultCodecRegistry) Tj 0 0 0 rg (\(\),) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (pojoCodecRegistry) Tj (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (MongoClientSettings) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (clientSettings) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (MongoClientSettings) Tj (.) Tj .490196 .564706 .160784 rg (builder) Tj 0 0 0 rg (\(\)) Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (applyConnectionString) Tj 0 0 0 rg (\() Tj (connString) Tj (\)) Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (codecRegistry) Tj 0 0 0 rg (\() Tj (codecRegistry) Tj (\)) Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (.) Tj .490196 .564706 .160784 rg (build) Tj 0 0 0 rg (\(\);) Tj .733333 .733333 .733333 rg  T* /F6 10 Tf 0 .501961 0 rg (try) Tj /F5 10 Tf 0 0 0 rg (\() Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (MongoClient) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mongoClient) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (MongoClients) Tj (.) Tj .490196 .564706 .160784 rg (create) Tj 0 0 0 rg (\() Tj (clientSettings) Tj (\);) Tj .733333 .733333 .733333 rg  T* (        ) Tj 0 0 0 rg (\)) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg ({) Tj .733333 .733333 .733333 rg  T* (    ) Tj 0 0 0 rg (MongoDatabase) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mdb) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mongoClient) Tj (.) Tj .490196 .564706 .160784 rg (getDatabase) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("biblio") Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* (    ) Tj 0 0 0 rg (...) Tj .733333 .733333 .733333 rg  T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 57.02362 611.8236 cm
+1 0 0 1 57.02362 224.4236 cm
 q
 BT 1 0 0 1 0 14 Tm 3.115257 Tw 12 TL /F1 10 Tf 0 0 0 rg (Aqu\355 el m\351todo est\341tico ) Tj /F4 10 Tf (fromRegistries) Tj /F1 10 Tf ( retorna un ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf ( que combina la lista de instancias) Tj T* 0 Tw /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf ( en una \372nica conjunta.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 521.8236 cm
+1 0 0 1 57.02362 134.4236 cm
 q
 BT 1 0 0 1 0 74 Tm .327223 Tw 12 TL /F1 10 Tf 0 0 0 rg (A trav\351s del ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf ( los objetos Java se mapear\341n autom\341ticamente como documentos a la hora de) Tj T* 0 Tw 1.151529 Tw (insertarlos y modificarlos en la colecci\363n correspondiente, y tambi\351n ser\341n mapeados autom\341ticamente a) Tj T* 0 Tw 1.701411 Tw (objetos Java desde la colecci\363n MongoDB cuando hagamos una lectura. Una observaci\363n importante a) Tj T* 0 Tw -0.125083 Tw (tener en cuenta es la conveniencia de llamar "id" y no "_id" a la clave. Si la llamamos "_id" inevitablemente, a) Tj T* 0 Tw 2.678797 Tw (pesar de que su tipo sea ) Tj /F4 10 Tf (int) Tj /F1 10 Tf (, o ) Tj /F4 10 Tf (Long) Tj /F1 10 Tf (, ser\341 creado con el tipo ) Tj /F4 10 Tf (ObjectId) Tj /F1 10 Tf (. Veamos ahora ejemplos de) Tj T* 0 Tw 28.25405 Tw (operaciones b\341sicas de inserci\363n, modificaci\363n y lectura. V\351ase) Tj T* 0 Tw 0 .4 .6 rg (https://docs.spring.io/spring-data/mongodb/docs/1.2.0.RELEASE/reference/html/mapping-chapter.html) Tj 0 0 0 rg (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 479.8236 cm
+1 0 0 1 57.02362 92.42362 cm
 q
-BT 1 0 0 1 0 26 Tm 1.444488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Si hemos instanciado un ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf ( con nuestra conexi\363n a MongoDB, suponiendo que tenemos un) Tj T* 0 Tw 2.294882 Tw (objeto ) Tj /F4 10 Tf (coche) Tj /F1 10 Tf ( de la clase ) Tj /F4 10 Tf (Coche) Tj /F1 10 Tf ( que queramos insertar como documento en una colecci\363n MongoDB,) Tj T* 0 Tw (podr\355amos hacer lo siguiente:) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.444488 Tw 12 TL /F1 10 Tf 0 0 0 rg (Si hemos instanciado un ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf ( con nuestra conexi\363n a MongoDB, suponiendo que tenemos un) Tj T* 0 Tw .82631 Tw (objeto de la clase ) Tj /F4 10 Tf (Coche) Tj /F1 10 Tf ( que queramos insertar como documento en una colecci\363n MongoDB, podr\355amos) Tj T* 0 Tw (hacer lo siguiente:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 422.6236 cm
+1 0 0 1 57.02362 86.42362 cm
+Q
+q
+1 0 0 1 57.02362 74.42362 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (MongoCollection) Tj (<) Tj /F3 10 Tf (Coche) Tj /F1 10 Tf (> mco = mdb.getCollection\("coches") Tj /F3 10 Tf (, Coche.class) Tj /F1 10 Tf (\);) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 74.42362 cm
+Q
+ 
+endstream
+endobj
+99 0 obj
+<<
+/Length 16030
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 739.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -7374,55 +7202,9 @@ q
 .662745 .662745 .662745 RG
 .5 w
 .941176 .972549 1 rg
-n -6 -6 480.0283 48 re B*
+n -6 -6 480.0283 24 re B*
 Q
 q
-.941176 .972549 1 rg
-n 0 24 18 12 re f*
-.941176 .972549 1 rg
-n 18 24 0 12 re f*
-.941176 .972549 1 rg
-n 0 12 90 12 re f*
-.941176 .972549 1 rg
-n 90 12 6 12 re f*
-.941176 .972549 1 rg
-n 96 12 30 12 re f*
-.941176 .972549 1 rg
-n 126 12 6 12 re f*
-.941176 .972549 1 rg
-n 132 12 6 12 re f*
-.941176 .972549 1 rg
-n 138 12 18 12 re f*
-.941176 .972549 1 rg
-n 156 12 6 12 re f*
-.941176 .972549 1 rg
-n 162 12 6 12 re f*
-.941176 .972549 1 rg
-n 168 12 6 12 re f*
-.941176 .972549 1 rg
-n 174 12 18 12 re f*
-.941176 .972549 1 rg
-n 192 12 6 12 re f*
-.941176 .972549 1 rg
-n 198 12 78 12 re f*
-.941176 .972549 1 rg
-n 276 12 6 12 re f*
-.941176 .972549 1 rg
-n 282 12 48 12 re f*
-.941176 .972549 1 rg
-n 330 12 6 12 re f*
-.941176 .972549 1 rg
-n 336 12 6 12 re f*
-.941176 .972549 1 rg
-n 342 12 30 12 re f*
-.941176 .972549 1 rg
-n 372 12 6 12 re f*
-.941176 .972549 1 rg
-n 378 12 30 12 re f*
-.941176 .972549 1 rg
-n 408 12 12 12 re f*
-.941176 .972549 1 rg
-n 420 12 0 12 re f*
 .941176 .972549 1 rg
 n 0 0 18 12 re f*
 .941176 .972549 1 rg
@@ -7436,21 +7218,25 @@ n 84 0 30 12 re f*
 .941176 .972549 1 rg
 n 114 0 12 12 re f*
 .941176 .972549 1 rg
-n 126 0 0 12 re f*
-BT 1 0 0 1 0 26 Tm 12 TL /F5 10 Tf 0 0 0 rg (...) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (MongoCollection) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (Coche) Tj .4 .4 .4 rg (>) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mco) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mdb) Tj (.) Tj .490196 .564706 .160784 rg (getCollection) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("coches") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Coche) Tj (.) Tj .490196 .564706 .160784 rg (class) Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (mco) Tj (.) Tj .490196 .564706 .160784 rg (insertOne) Tj 0 0 0 rg (\() Tj (coche) Tj (\);) Tj .733333 .733333 .733333 rg  T* ET
+n 126 0 48 12 re f*
+.941176 .972549 1 rg
+n 174 0 234 12 re f*
+.941176 .972549 1 rg
+n 408 0 0 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 0 rg (mco) Tj (.) Tj .490196 .564706 .160784 rg (insertOne) Tj 0 0 0 rg (\() Tj (coche) Tj (\);) Tj .733333 .733333 .733333 rg (        ) Tj /F7 10 Tf .25098 .501961 .501961 rg (// coche es un objeto de la clase Coche) Tj /F5 10 Tf .733333 .733333 .733333 rg  T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 57.02362 366.6236 cm
+1 0 0 1 57.02362 671.8236 cm
 q
-BT 1 0 0 1 0 38 Tm 2.075696 Tw 12 TL /F1 10 Tf 0 0 0 rg (De esa manera obtenemos, mapeando autom\341ticamente a trav\351s del ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf (, una colecci\363n de) Tj T* 0 Tw .680491 Tw (objetos ) Tj /F4 10 Tf (Coche) Tj /F1 10 Tf ( casi directamente de una colecci\363n MongoDB. Es decir, la colecci\363n ya no lo es de objetos) Tj T* 0 Tw 1.486772 Tw /F4 10 Tf (Document) Tj /F1 10 Tf ( sino de la clase POJO correspondiente. Para obtener un objeto de la colecci\363n ser\341 tan f\341cil) Tj T* 0 Tw (como:) Tj T* ET
+BT 1 0 0 1 0 50 Tm .771223 Tw 12 TL /F1 10 Tf 0 0 0 rg (Observa en primera lugar que ya no trabajamos con ) Tj /F4 10 Tf (<) Tj (Document) Tj (>) Tj /F1 10 Tf (, sino con ) Tj /F4 10 Tf (<) Tj (Coche) Tj (>) Tj /F1 10 Tf (. Observa tambi\351n el) Tj T* 0 Tw .500696 Tw (segundo par\341metro a ) Tj /F4 10 Tf (getCollection\(\)) Tj /F1 10 Tf (. De esa manera obtenemos, mapeando autom\341ticamente a trav\351s del) Tj T* 0 Tw .509882 Tw /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf (, una colecci\363n de objetos ) Tj /F4 10 Tf (Coche) Tj /F1 10 Tf ( casi directamente de una colecci\363n MongoDB. Es decir, la) Tj T* 0 Tw .450491 Tw (colecci\363n ya no lo es de objetos ) Tj /F4 10 Tf (Document) Tj /F1 10 Tf ( sino de la clase POJO correspondiente. Para obtener un objeto) Tj T* 0 Tw (de la colecci\363n ser\341 tan f\341cil como:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 333.4236 cm
+1 0 0 1 57.02362 638.6236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -7512,14 +7298,14 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 313.4236 cm
+1 0 0 1 57.02362 618.6236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (O todos:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 244.2236 cm
+1 0 0 1 57.02362 549.4236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -7651,25 +7437,271 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 212.2236 cm
+1 0 0 1 57.02362 493.4236 cm
 q
-BT 1 0 0 1 0 14 Tm 42.06691 Tw 12 TL /F1 10 Tf 0 0 0 rg (El resto de operaciones las puedes ver en) Tj T* 0 Tw 0 .4 .6 rg (https://mongodb.github.io/mongo-java-driver/3.5/driver/getting-started/quick-start-pojo/) Tj 0 0 0 rg (.) Tj T* ET
+BT 1 0 0 1 0 38 Tm .350596 Tw 12 TL /F1 10 Tf 0 0 0 rg (De nuevo, utilizando ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf ( para el mapeo autom\341tico de los documentos en objetos Java \(POJO\),) Tj T* 0 Tw 1.445257 Tw (podr\355amos ) Tj /F3 10 Tf (modificar) Tj /F1 10 Tf ( un documento de MongoDB pas\341ndole directamente el objeto Java. En el ejemplo) Tj T* 0 Tw .618647 Tw (siguiente, tenemos el objeto con todos los campos ya modificados \(excepto el id, que nunca tocaremos\) y,) Tj T* 0 Tw -0.006759 Tw (utilizando el ) Tj /F4 10 Tf (id) Tj /F1 10 Tf ( como filtro, pasamos el objeto que reemplazar\341 al que haya actualmente en la base de datos:) Tj T* 0 Tw ET
 Q
 Q
 q
-1 0 0 1 57.02362 183.8772 cm
+1 0 0 1 57.02362 426.4269 cm
+q
+q
+.963999 0 0 .963999 0 0 cm
+q
+1 0 0 1 6.6 6.846479 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 498 60 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 36 6 12 re f*
+.941176 .972549 1 rg
+n 6 36 6 12 re f*
+.941176 .972549 1 rg
+n 12 36 6 12 re f*
+.941176 .972549 1 rg
+n 18 36 6 12 re f*
+.941176 .972549 1 rg
+n 24 36 6 12 re f*
+.941176 .972549 1 rg
+n 30 36 0 12 re f*
+.941176 .972549 1 rg
+n 0 24 90 12 re f*
+.941176 .972549 1 rg
+n 90 24 6 12 re f*
+.941176 .972549 1 rg
+n 96 24 30 12 re f*
+.941176 .972549 1 rg
+n 126 24 6 12 re f*
+.941176 .972549 1 rg
+n 132 24 6 12 re f*
+.941176 .972549 1 rg
+n 138 24 90 12 re f*
+.941176 .972549 1 rg
+n 228 24 6 12 re f*
+.941176 .972549 1 rg
+n 234 24 6 12 re f*
+.941176 .972549 1 rg
+n 240 24 6 12 re f*
+.941176 .972549 1 rg
+n 246 24 12 12 re f*
+.941176 .972549 1 rg
+n 258 24 6 12 re f*
+.941176 .972549 1 rg
+n 264 24 78 12 re f*
+.941176 .972549 1 rg
+n 342 24 6 12 re f*
+.941176 .972549 1 rg
+n 348 24 48 12 re f*
+.941176 .972549 1 rg
+n 396 24 6 12 re f*
+.941176 .972549 1 rg
+n 402 24 6 12 re f*
+.941176 .972549 1 rg
+n 408 24 30 12 re f*
+.941176 .972549 1 rg
+n 438 24 6 12 re f*
+.941176 .972549 1 rg
+n 444 24 30 12 re f*
+.941176 .972549 1 rg
+n 474 24 12 12 re f*
+.941176 .972549 1 rg
+n 486 24 0 12 re f*
+.941176 .972549 1 rg
+n 0 12 90 12 re f*
+.941176 .972549 1 rg
+n 90 12 6 12 re f*
+.941176 .972549 1 rg
+n 96 12 60 12 re f*
+.941176 .972549 1 rg
+n 156 12 6 12 re f*
+.941176 .972549 1 rg
+n 162 12 12 12 re f*
+.941176 .972549 1 rg
+n 174 12 6 12 re f*
+.941176 .972549 1 rg
+n 180 12 30 12 re f*
+.941176 .972549 1 rg
+n 210 12 6 12 re f*
+.941176 .972549 1 rg
+n 216 12 6 12 re f*
+.941176 .972549 1 rg
+n 222 12 30 12 re f*
+.941176 .972549 1 rg
+n 252 12 6 12 re f*
+.941176 .972549 1 rg
+n 258 12 36 12 re f*
+.941176 .972549 1 rg
+n 294 12 24 12 re f*
+.941176 .972549 1 rg
+n 318 12 6 12 re f*
+.941176 .972549 1 rg
+n 324 12 30 12 re f*
+.941176 .972549 1 rg
+n 354 12 12 12 re f*
+.941176 .972549 1 rg
+n 366 12 0 12 re f*
+.941176 .972549 1 rg
+n 0 0 6 12 re f*
+.941176 .972549 1 rg
+n 6 0 6 12 re f*
+.941176 .972549 1 rg
+n 12 0 6 12 re f*
+.941176 .972549 1 rg
+n 18 0 6 12 re f*
+.941176 .972549 1 rg
+n 24 0 6 12 re f*
+.941176 .972549 1 rg
+n 30 0 0 12 re f*
+BT 1 0 0 1 0 38 Tm 12 TL /F5 10 Tf 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (MongoCollection) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (Coche) Tj .4 .4 .4 rg (>) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (coleccionCoches) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (db) Tj (.) Tj .490196 .564706 .160784 rg (getCollection) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("coches") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Coche) Tj (.) Tj .490196 .564706 .160784 rg (class) Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (coleccionCoches) Tj (.) Tj .490196 .564706 .160784 rg (replaceOne) Tj 0 0 0 rg (\() Tj (eq) Tj (\() Tj .729412 .129412 .129412 rg ("_id") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (coche) Tj (.) Tj .490196 .564706 .160784 rg (get_id) Tj 0 0 0 rg (\(\)\),) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (coche) Tj (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 382.4269 cm
+q
+BT 1 0 0 1 0 26 Tm 1.521529 Tw 12 TL /F1 10 Tf 0 0 0 rg (Tambi\351n podemos ) Tj /F3 10 Tf (borrar) Tj /F1 10 Tf ( documentos utilizando un ) Tj /F4 10 Tf (CodecRegistry) Tj /F1 10 Tf (. En el ejemplo siguiente, tenemos el) Tj T* 0 Tw .289903 Tw (objeto cuyo documento queremos eliminar de la base de datos, y utilizamos el ) Tj /F4 10 Tf (id) Tj /F1 10 Tf ( como filtro para localizarlo) Tj T* 0 Tw (y borrarlo de la colecci\363n:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 316.1308 cm
+q
+q
+.95255 0 0 .95255 0 0 cm
+q
+1 0 0 1 6.6 6.928769 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.941176 .972549 1 rg
+n -6 -6 504 60 re B*
+Q
+q
+.941176 .972549 1 rg
+n 0 36 6 12 re f*
+.941176 .972549 1 rg
+n 6 36 6 12 re f*
+.941176 .972549 1 rg
+n 12 36 6 12 re f*
+.941176 .972549 1 rg
+n 18 36 6 12 re f*
+.941176 .972549 1 rg
+n 24 36 6 12 re f*
+.941176 .972549 1 rg
+n 30 36 0 12 re f*
+.941176 .972549 1 rg
+n 0 24 90 12 re f*
+.941176 .972549 1 rg
+n 90 24 6 12 re f*
+.941176 .972549 1 rg
+n 96 24 30 12 re f*
+.941176 .972549 1 rg
+n 126 24 6 12 re f*
+.941176 .972549 1 rg
+n 132 24 6 12 re f*
+.941176 .972549 1 rg
+n 138 24 90 12 re f*
+.941176 .972549 1 rg
+n 228 24 6 12 re f*
+.941176 .972549 1 rg
+n 234 24 6 12 re f*
+.941176 .972549 1 rg
+n 240 24 6 12 re f*
+.941176 .972549 1 rg
+n 246 24 18 12 re f*
+.941176 .972549 1 rg
+n 264 24 6 12 re f*
+.941176 .972549 1 rg
+n 270 24 78 12 re f*
+.941176 .972549 1 rg
+n 348 24 6 12 re f*
+.941176 .972549 1 rg
+n 354 24 48 12 re f*
+.941176 .972549 1 rg
+n 402 24 6 12 re f*
+.941176 .972549 1 rg
+n 408 24 6 12 re f*
+.941176 .972549 1 rg
+n 414 24 30 12 re f*
+.941176 .972549 1 rg
+n 444 24 6 12 re f*
+.941176 .972549 1 rg
+n 450 24 30 12 re f*
+.941176 .972549 1 rg
+n 480 24 12 12 re f*
+.941176 .972549 1 rg
+n 492 24 0 12 re f*
+.941176 .972549 1 rg
+n 0 12 90 12 re f*
+.941176 .972549 1 rg
+n 90 12 6 12 re f*
+.941176 .972549 1 rg
+n 96 12 54 12 re f*
+.941176 .972549 1 rg
+n 150 12 6 12 re f*
+.941176 .972549 1 rg
+n 156 12 12 12 re f*
+.941176 .972549 1 rg
+n 168 12 6 12 re f*
+.941176 .972549 1 rg
+n 174 12 30 12 re f*
+.941176 .972549 1 rg
+n 204 12 6 12 re f*
+.941176 .972549 1 rg
+n 210 12 6 12 re f*
+.941176 .972549 1 rg
+n 216 12 30 12 re f*
+.941176 .972549 1 rg
+n 246 12 6 12 re f*
+.941176 .972549 1 rg
+n 252 12 36 12 re f*
+.941176 .972549 1 rg
+n 288 12 30 12 re f*
+.941176 .972549 1 rg
+n 318 12 0 12 re f*
+.941176 .972549 1 rg
+n 0 0 6 12 re f*
+.941176 .972549 1 rg
+n 6 0 6 12 re f*
+.941176 .972549 1 rg
+n 12 0 6 12 re f*
+.941176 .972549 1 rg
+n 18 0 6 12 re f*
+.941176 .972549 1 rg
+n 24 0 6 12 re f*
+.941176 .972549 1 rg
+n 30 0 0 12 re f*
+BT 1 0 0 1 0 38 Tm 12 TL /F5 10 Tf 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (MongoCollection) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (Coche) Tj .4 .4 .4 rg (>) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (coleccionCoches) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (mdb) Tj (.) Tj .490196 .564706 .160784 rg (getCollection) Tj 0 0 0 rg (\() Tj .729412 .129412 .129412 rg ("coches") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (Coche) Tj (.) Tj .490196 .564706 .160784 rg (class) Tj 0 0 0 rg (\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (coleccionCoches) Tj (.) Tj .490196 .564706 .160784 rg (deleteOne) Tj 0 0 0 rg (\() Tj (eq) Tj (\() Tj .729412 .129412 .129412 rg ("_id") Tj 0 0 0 rg (,) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (coche) Tj (.) Tj .490196 .564706 .160784 rg (get_id) Tj 0 0 0 rg (\(\)\)\);) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (.) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 57.02362 284.1308 cm
+q
+BT 1 0 0 1 0 14 Tm 46.02139 Tw 12 TL /F1 10 Tf 0 0 0 rg (Puedes ver ejemplos de estas operaciones en) Tj T* 0 Tw 0 .4 .6 rg (https://mongodb.github.io/mongo-java-driver/3.5/driver/getting-started/quick-start-pojo/) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 255.7844 cm
 0 0 0 RG
 n 0 14.17323 m 481.2283 14.17323 l S
 Q
 q
-1 0 0 1 57.02362 141.8772 cm
+1 0 0 1 57.02362 213.7844 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 26 Tm /F4 10 Tf 12 TL .25389 Tw (Esta documentaci\363n, creada por Ricardo Cant\363 Abad, se distribuye bajo los t\351rminos de la licencia Creative) Tj T* 0 Tw 17.78472 Tw (Commons Atribuci\363n-NoComercial-CompartirIgual 3.0 Unported \(CC BY-NC-SA 3.0\)) Tj T* 0 Tw (\(http://creativecommons.org/licenses/by-nc-sa/3.0/es/deed.ca\).) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 111.8772 cm
+1 0 0 1 57.02362 183.7844 cm
 q
 48 0 0 24 0 0 cm
 /FormXob.f969d44abedce71236e0b5bf751c23a3 Do
@@ -7678,101 +7710,101 @@ Q
  
 endstream
 endobj
-101 0 obj
+100 0 obj
 <<
-/Nums [ 0 102 0 R 1 103 0 R 2 104 0 R 3 105 0 R 4 106 0 R 
-  5 107 0 R 6 108 0 R 7 109 0 R 8 110 0 R 9 111 0 R 
-  10 112 0 R 11 113 0 R 12 114 0 R 13 115 0 R 14 116 0 R 
-  15 117 0 R 16 118 0 R ]
+/Nums [ 0 101 0 R 1 102 0 R 2 103 0 R 3 104 0 R 4 105 0 R 
+  5 106 0 R 6 107 0 R 7 108 0 R 8 109 0 R 9 110 0 R 
+  10 111 0 R 11 112 0 R 12 113 0 R 13 114 0 R 14 115 0 R 
+  15 116 0 R 16 117 0 R ]
 >>
 endobj
-102 0 obj
+101 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-103 0 obj
+102 0 obj
 <<
 /S /D /St 2
 >>
 endobj
-104 0 obj
+103 0 obj
 <<
 /S /D /St 3
 >>
 endobj
-105 0 obj
+104 0 obj
 <<
 /S /D /St 4
 >>
 endobj
-106 0 obj
+105 0 obj
 <<
 /S /D /St 5
 >>
 endobj
-107 0 obj
+106 0 obj
 <<
 /S /D /St 6
 >>
 endobj
-108 0 obj
+107 0 obj
 <<
 /S /D /St 7
 >>
 endobj
-109 0 obj
+108 0 obj
 <<
 /S /D /St 8
 >>
 endobj
-110 0 obj
+109 0 obj
 <<
 /S /D /St 9
 >>
 endobj
-111 0 obj
+110 0 obj
 <<
 /S /D /St 10
 >>
 endobj
-112 0 obj
+111 0 obj
 <<
 /S /D /St 11
 >>
 endobj
-113 0 obj
+112 0 obj
 <<
 /S /D /St 12
 >>
 endobj
-114 0 obj
+113 0 obj
 <<
 /S /D /St 13
 >>
 endobj
-115 0 obj
+114 0 obj
 <<
 /S /D /St 14
 >>
 endobj
-116 0 obj
+115 0 obj
 <<
 /S /D /St 15
 >>
 endobj
-117 0 obj
+116 0 obj
 <<
 /S /D /St 16
 >>
 endobj
-118 0 obj
+117 0 obj
 <<
 /S /D /St 17
 >>
 endobj
 xref
-0 119
+0 118
 0000000000 65535 f 
 0000000073 00000 n 
 0000000172 00000 n 
@@ -7790,118 +7822,117 @@ xref
 0000002072 00000 n 
 0000002241 00000 n 
 0000002410 00000 n 
-0000002579 00000 n 
-0000002748 00000 n 
-0000002917 00000 n 
-0000003086 00000 n 
-0000014770 00000 n 
-0000015161 00000 n 
-0000015274 00000 n 
-0000015390 00000 n 
-0000015589 00000 n 
-0000015695 00000 n 
-0000015920 00000 n 
-0000025912 00000 n 
-0000034560 00000 n 
-0000034671 00000 n 
-0000034941 00000 n 
-0000035116 00000 n 
-0000035341 00000 n 
-0000035543 00000 n 
-0000035737 00000 n 
-0000035969 00000 n 
-0000036175 00000 n 
-0000036381 00000 n 
-0000036587 00000 n 
-0000036793 00000 n 
-0000036997 00000 n 
-0000037238 00000 n 
-0000037479 00000 n 
-0000037718 00000 n 
-0000037954 00000 n 
-0000038198 00000 n 
-0000038430 00000 n 
-0000038636 00000 n 
-0000038842 00000 n 
-0000039052 00000 n 
-0000039262 00000 n 
-0000039376 00000 n 
-0000039608 00000 n 
-0000039814 00000 n 
-0000040077 00000 n 
-0000040302 00000 n 
-0000040552 00000 n 
-0000040793 00000 n 
+0000002578 00000 n 
+0000002747 00000 n 
+0000002916 00000 n 
+0000003085 00000 n 
+0000014769 00000 n 
+0000015160 00000 n 
+0000015273 00000 n 
+0000015389 00000 n 
+0000015588 00000 n 
+0000015694 00000 n 
+0000015919 00000 n 
+0000025911 00000 n 
+0000034559 00000 n 
+0000034670 00000 n 
+0000034940 00000 n 
+0000035115 00000 n 
+0000035340 00000 n 
+0000035542 00000 n 
+0000035736 00000 n 
+0000035968 00000 n 
+0000036174 00000 n 
+0000036380 00000 n 
+0000036586 00000 n 
+0000036792 00000 n 
+0000036906 00000 n 
+0000037112 00000 n 
+0000037316 00000 n 
+0000037557 00000 n 
+0000037793 00000 n 
+0000038037 00000 n 
+0000038283 00000 n 
+0000038489 00000 n 
+0000038695 00000 n 
+0000038905 00000 n 
+0000039115 00000 n 
+0000039347 00000 n 
+0000039553 00000 n 
+0000039816 00000 n 
+0000040066 00000 n 
+0000040298 00000 n 
+0000040539 00000 n 
+0000042597 00000 n 
 0000042851 00000 n 
-0000043105 00000 n 
-0000043402 00000 n 
-0000043509 00000 n 
-0000043813 00000 n 
-0000043888 00000 n 
-0000044015 00000 n 
-0000044164 00000 n 
-0000044309 00000 n 
-0000044453 00000 n 
-0000044619 00000 n 
-0000044743 00000 n 
-0000044886 00000 n 
-0000045028 00000 n 
-0000045154 00000 n 
-0000045292 00000 n 
-0000045479 00000 n 
-0000045612 00000 n 
-0000045807 00000 n 
-0000045917 00000 n 
-0000046029 00000 n 
-0000046176 00000 n 
-0000046305 00000 n 
-0000046466 00000 n 
-0000046608 00000 n 
-0000046785 00000 n 
-0000050614 00000 n 
-0000058487 00000 n 
-0000071196 00000 n 
-0000084426 00000 n 
-0000090976 00000 n 
-0000098896 00000 n 
-0000105250 00000 n 
-0000112794 00000 n 
-0000119514 00000 n 
-0000127199 00000 n 
-0000140096 00000 n 
-0000152137 00000 n 
-0000167132 00000 n 
-0000192482 00000 n 
-0000217871 00000 n 
-0000234066 00000 n 
-0000249158 00000 n 
-0000249377 00000 n 
-0000249412 00000 n 
-0000249447 00000 n 
-0000249482 00000 n 
-0000249517 00000 n 
-0000249552 00000 n 
-0000249587 00000 n 
-0000249622 00000 n 
-0000249657 00000 n 
-0000249692 00000 n 
-0000249728 00000 n 
-0000249764 00000 n 
-0000249800 00000 n 
-0000249836 00000 n 
+0000043140 00000 n 
+0000043247 00000 n 
+0000043551 00000 n 
+0000043626 00000 n 
+0000043753 00000 n 
+0000043902 00000 n 
+0000044047 00000 n 
+0000044191 00000 n 
+0000044357 00000 n 
+0000044481 00000 n 
+0000044624 00000 n 
+0000044766 00000 n 
+0000044892 00000 n 
+0000045030 00000 n 
+0000045217 00000 n 
+0000045350 00000 n 
+0000045544 00000 n 
+0000045653 00000 n 
+0000045765 00000 n 
+0000045912 00000 n 
+0000046041 00000 n 
+0000046202 00000 n 
+0000046344 00000 n 
+0000046521 00000 n 
+0000050350 00000 n 
+0000058223 00000 n 
+0000070932 00000 n 
+0000084162 00000 n 
+0000090712 00000 n 
+0000098632 00000 n 
+0000104986 00000 n 
+0000112530 00000 n 
+0000119250 00000 n 
+0000127270 00000 n 
+0000142031 00000 n 
+0000149470 00000 n 
+0000170628 00000 n 
+0000197340 00000 n 
+0000217954 00000 n 
+0000233395 00000 n 
+0000249478 00000 n 
+0000249697 00000 n 
+0000249732 00000 n 
+0000249767 00000 n 
+0000249802 00000 n 
+0000249837 00000 n 
 0000249872 00000 n 
-0000249908 00000 n 
-0000249944 00000 n 
+0000249907 00000 n 
+0000249942 00000 n 
+0000249977 00000 n 
+0000250012 00000 n 
+0000250048 00000 n 
+0000250084 00000 n 
+0000250120 00000 n 
+0000250156 00000 n 
+0000250192 00000 n 
+0000250228 00000 n 
+0000250264 00000 n 
 trailer
 <<
 /ID 
-[<e56e1ffefcc9b7f5095d3b98745429b7><e56e1ffefcc9b7f5095d3b98745429b7>]
+[<5348e3dfec1974f042f7b2a7925521b8><5348e3dfec1974f042f7b2a7925521b8>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 62 0 R
-/Root 61 0 R
-/Size 119
+/Info 61 0 R
+/Root 60 0 R
+/Size 118
 >>
 startxref
-249980
+250300
 %%EOF

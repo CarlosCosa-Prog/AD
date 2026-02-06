@@ -1,0 +1,14 @@
+Utilizando la colección de empleados realizar las siguientes consultas
+
+//Visualizar la edad media, la media del salario y el nº de trabajadores que hayan tenido un prima de 30 o de 80
+
+
+//Visualizar por población el número de trabajadores, el salario medio y el máximo salario
+
+
+//Visualiza el nombre, ape1, ape2 del empleado que tiene el máximo salario
+
+
+//A partir de la consulta anterior, obten ahora el nombre, ape1, ape2 y salario del empleado quee tiene el máximo salario por cada población
+
+

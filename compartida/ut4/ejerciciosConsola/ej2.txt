@@ -1,0 +1,11 @@
+Utilizando la colección de libros realizar las siguientes consultas
+
+// Visualiza los libros de la editorial Garceta, con pvp comprendido entre 20 y 25 ambos incluidos y que tengan el tema Multihilo
+
+
+//Agregar el tema "Sockets" a los libros que no lo tengan
+
+
+//Baja a 5 el precio de los libros de la editorial Garceta
+
+

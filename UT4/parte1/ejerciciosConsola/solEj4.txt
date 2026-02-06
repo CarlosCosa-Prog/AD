@@ -1,0 +1,47 @@
+Utilizando las colecciones cuentas y sucursales realizar las siguientes consultas
+
+/* Creamos la colección cuentas */
+db.cuentas.drop();
+db.cuentas.insert({_id:'cuenta1',tipo:"AHORRO", nombre:"Antonio García", numero:123456, saldohaber:21000, saldodebe:200});
+db.cuentas.insert({_id:'cuenta2',tipo:"AHORRO", nombre:"Pedro Gómez", numero:1111456, saldohaber:12000, saldodebe:0});
+db.cuentas.insert({_id:'cuenta3',tipo:"AHORRO", nombre:"Alicia Martín", numero:223344, saldohaber:13000, saldodebe:0});
+db.cuentas.insert({_id:'cuenta4',tipo:"AHORRO", nombre:"María Montes", numero:667788, saldohaber:3000, saldodebe:100});
+db.cuentas.insert({_id:'cuenta5',tipo:"PENSIONES", nombre:"María Montes", numero:99667788, aportacion:23000});
+db.cuentas.insert({_id:'cuenta6',tipo:"PENSIONES", nombre:"Juan Gil", numero:99112200, aportacion:30000});
+db.cuentas.insert({_id:'cuenta7',tipo:"AHORRO", nombre:"Marcelo Saez", numero:30303036, saldohaber:15000, saldodebe:12000});
+db.cuentas.insert({_id:'cuenta8',tipo:"AHORRO", nombre:"María Jesús Ramos", numero:4444222, saldohaber:5000, saldodebe:0});
+db.cuentas.insert({_id:'cuenta9',tipo:"AHORRO", nombre:"Alicia Perea", numero:2023424, saldohaber:12000, saldodebe:0});
+db.cuentas.insert({_id:'cuenta10',tipo:"AHORRO", nombre:"Pedro Guerra", numero:1606778, saldohaber:31000, saldodebe:1000});
+db.cuentas.insert({_id:'cuenta11',tipo:"PENSIONES", nombre:"Javier Alonso", numero:99123788, aportacion:23000});
+db.cuentas.insert({_id:'cuenta12',tipo:"PENSIONES", nombre:"Juana Galiano", numero:99002200, aportacion:15000});
+db.cuentas.find();
+
+/* Creamos la colección sucursales */
+
+db.sucursales.drop();
+db.sucursales.insert({_id:'SUC1',telefono:112233, codigo:"SUC1", director:"Alicia Gómez", poblacion:"Madrid",cuenta:['cuenta1','cuenta2','cuenta3','cuenta4','cuenta5','cuenta6']});
+db.sucursales.insert({_id:'SUC2',telefono:2023345, codigo:"SUC2", director:"Fernando Rato", poblacion:"Talavera",cuenta:['cuenta7','cuenta8']});
+db.sucursales.insert({_id:'SUC3',telefono:5566775, codigo:"SUC3", director:"Pedro Martín", poblacion:"Talavera",cuenta:['cuenta9','cuenta10','cuenta11','cuenta12']});
+db.sucursales.find();
+
+//Visualiza las cuentas de las sucursales de Madrid
+//1º
+sucurmadrid= db.sucursales.findOne({poblacion:"Madrid"})
+//2º
+cuentassucmadrid = db.cuentas.find({_id:{$in:sucurmadrid.cuenta}}).toArray()
+
+//Visualiza las cuentas con saldohaber > 10.000 cuyo director sea Fernando Rato
+//1º
+sucurFernando= db.sucursales.findOne({director:"Fernando Rato"})
+//2º
+cuentasmayor10000=db.cuentas.find({_id:{$in:sucurFernando.cuenta},saldohaber:{$gt:10000}})
+
+//Sube 300 el saldohaber de las cuentas de la sucursal con código SUC1
+//1º
+sucurSuc1= db.sucursales.findOne({codigo:"SUC1"})
+//2º
+cuentasmas300=db.cuentas.update(
+  {_id:{$in:sucurSuc1.cuenta} },
+  {$inc:{saldohaber:300}},
+  {multi:true}
+)

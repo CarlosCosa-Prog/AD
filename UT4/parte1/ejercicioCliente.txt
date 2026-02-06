@@ -1,0 +1,189 @@
+EJERCICIOS SOBRE LAS DIFERENTES BASES DE DATOS DE MUESTRA (SAMPLE)
+
+1. Sobre la base de datos sample_training:
+
+	1. Instala con el comando mongorestore las bases de datos de muestra a partir del fichero sampledata.archive.gz
+
+	2. Conéctate a la base de datos sample_training
+
+	3. Lista de la colección "zips" aquéllos documentos que sean  del estado de Nueva York (NY)
+
+	4. Cuenta cúantos son los documentos anteriores
+		
+	5. Lista de la colección "zips" aquéllos documentos que sean  del estado de Nueva York (NY) y ciudad "ALBANY"
+
+	6. Muestra los resultados anteriores en format JSON legible ("bonito")
+
+	7. Sobre la colección "inspections" encuentra el documento (búsqueda de resultado único, findOne) con id igual a "10391-2015-ENFO"
+
+	8. Documentos donde la duración del viaje sea inferior a o igual a 70 segundos y el tipo de usuario no sea Subscriber
+     
+	9. Documentos donde la duración del viaje sea inferior o igual a 70 segundos y el tipo de usuario sea Customer utilizando el operador de igualdad
+
+	10. Vuelos que tienen KZN como origen o destino y avión un CR2 ó A81
+
+	11. Cuál es la forma más simple de obtener los documentos de sample_training.inspections donde la fecha de inspección es "Feb 20 2015", o "Feb 21 2015" y la compañía no es parte del sector "Cigarette Retail Dealer - 127" ? Escoge la mejor opción de entre estas dos:
+
+		db.inspections.find(
+		  { "$and": [
+			{ "$or": [
+				   { "date": "Feb 20 2015" },
+				   { "date": "Feb 21 2015" } ] },
+			{"sector": { "$ne":"Cigarette Retail Dealer - 127" }}]
+		  }).pretty()
+
+		db.inspections.find(
+		  { "$or": [ { "date": "Feb 20 2015" },
+			       { "date": "Feb 21 2015" } ],
+		    "sector": { "$ne": "Cigarette Retail Dealer - 127" }}).pretty()
+	   
+	12. Cuántas compañías en sample_training.companies fueron fundadas en 2004 o en el mes de Octubre y su category_code  es web o social?
+
+	13. Cuenta cuántos documentos empiezan y acaban en la misma estación:
+           
+	14. Actualiza todos los documentos (updateMany) en la colección zips donde el campo city sea igual a "HUDSON" añadiendo 10 al valor actual del campo "pop"
+	
+	15. Actualiza un único documento (updateOne) en la colección zips donde el campo zip sea igual a "12345" estableciendo el valor de "pop" a 17630
+
+	16. Borra todos los documentos de inspections que tengan el campo test igual a 1 (deleteMany).	
+
+	17. Borra un único documento que tenga el campo "test" igual a 3 (deleteOne)
+
+2. Sobre la base de datos sample_training:
+
+        1. Cuantos documentos hay en la ciudad de SAN DIEGO (colección "zips").
+        
+        2. Cuantos documentos tienen menos de 100 personas (campo pop).
+        
+        3. Obtén los estados de la ciudad de SAN DIEGO (Solución: [ 'CA', 'TX' ]).
+        
+        4. Cual es el código postal de la ciudad de ALLEN que no tiene habitantes (sólo recupera el zip, no nos interesa ningún otro campo, ni el _id).
+        
+        5. Listado con los 5 códigos postales más poblados (muestra los documentos completos).
+        
+        6. Cantidad de documentos que no tienen menos de 5.000 habitantes ni más de 1.000.000 (debes utilizar el operador $nor).
+        
+        7. Cuantos documentos tienen más habitantes que su propio código postal (campo zip).
+        
+    Sobre la colección posts averigua:
+    
+        8. Cuantos mensajes tienen las etiquetas restaurant o moon.
+        
+        9. Los comentarios que ha escrito el usuario Salena Olmos.
+        
+        10. Recupera los mensajes que en body contengan la palabra earth, y devuelve el título, 3 comentarios y 5 etiquetas.
+
+3. Sobre la colección zips:
+
+    Crea una entrada con los siguientes datos:
+    
+	{ city: 'Petrer',
+	  zip: '03600',
+	  loc: {  x: 38.265500, y: -0.698459 },
+	  pop: 28000,
+	  state: 'España' }
+
+	1. Crea una entrada con los datos del código postal donde vives (si es el mismo código postal, crea uno diferente).
+	
+	2. Modifica la población de tu código postal a 1.000.000.
+	
+	3. Incrementa la población de todos los documentos de España en 666 personas.
+	
+	4. Añade un campo prov a ambos documentos con valor Alicante.
+	
+	5. Renombra en los documentos de la provincia de Alicante el atributo prov por provincia
+	
+	6. Elimina las coordenadas del zip 03600.
+	
+	7. Elimina tu entrada.
+	
+EJERCICIOS SOBRE NUESTRA PROPIA BASE DE DATOS (midb)
+
+// Crear la colección empleados dentro de la base de datos midb
+//Insertar los siguientes registros
+
+db.empleados.insert({Emp_no:1, nombre:"Juan",dep:10,salario:1000,fechaalta:"10/10/1999"});
+db.empleados.insert({Emp_no:2, nombre:"Alicia",dep:10,salario:1400,fechaalta:"07/08/2000",oficio: "Profesora"});
+db.empleados.insert({Emp_no:3, nombre:"Maria Jesus",dep:20,salario:1500,fechaalta:"05/01/2005",oficio:"Analista",comision:100});
+db.empleados.insert({Emp_no:4, nombre:"Alberto",dep:20,salario:1100,fechaalta:"15/11/2001"});
+db.empleados.insert({Emp_no:5, nombre:"Fernando",dep:30,salario:1400,fechaalta:"20/11/1999",comision:200,oficio:"Analista"});
+
+/*
+  Realiza la siguientes consultas sobre la BD
+*/
+
+//Visualizar los empleados del departamento 10
+
+
+//Visualiza los empleados del departamento 10 y 20
+
+
+//Obtén los empleados con salario > 1300 y oficio de Profesora
+
+
+//Sube el salario a los analistas en 100€, a todos los analistas
+
+
+//Decrementa la comision en 20€, solo a los que tengan comision
+
+Utilizando la colección de libros realizar las siguientes consultas
+
+// Visualiza los libros de la editorial Garceta, con pvp comprendido entre 20 y 25 ambos incluidos y que tengan el tema Multihilo
+
+
+//Agregar el tema "Sockets" a los libros que no lo tengan
+
+
+//Baja a 5 el precio de los libros de la editorial Garceta
+
+Utilizando la colección de empleados realizar las siguientes consultas
+
+//Visualizar la edad media, la media del salario y el nº de trabajadores que hayan tenido un prima de 30 o de 80
+
+
+//Visualizar por población el número de trabajadores, el salario medio y el máximo salario
+
+
+//Visualiza el nombre, ape1, ape2 del empleado que tiene el máximo salario
+
+
+//A partir de la consulta anterior, obten ahora el nombre, ape1, ape2 y salario del empleado quee tiene el máximo salario por cada población
+
+Utilizando las colecciones cuentas y sucursales realizar las siguientes consultas
+
+/* Creamos la colección cuentas */
+db.cuentas.drop();
+db.cuentas.insert({_id:'cuenta1',tipo:"AHORRO", nombre:"Antonio García", numero:123456, saldohaber:21000, saldodebe:200});
+db.cuentas.insert({_id:'cuenta2',tipo:"AHORRO", nombre:"Pedro Gómez", numero:1111456, saldohaber:12000, saldodebe:0});
+db.cuentas.insert({_id:'cuenta3',tipo:"AHORRO", nombre:"Alicia Martín", numero:223344, saldohaber:13000, saldodebe:0});
+db.cuentas.insert({_id:'cuenta4',tipo:"AHORRO", nombre:"María Montes", numero:667788, saldohaber:3000, saldodebe:100});
+db.cuentas.insert({_id:'cuenta5',tipo:"PENSIONES", nombre:"María Montes", numero:99667788, aportacion:23000});
+db.cuentas.insert({_id:'cuenta6',tipo:"PENSIONES", nombre:"Juan Gil", numero:99112200, aportacion:30000});
+db.cuentas.insert({_id:'cuenta7',tipo:"AHORRO", nombre:"Marcelo Saez", numero:30303036, saldohaber:15000, saldodebe:12000});
+db.cuentas.insert({_id:'cuenta8',tipo:"AHORRO", nombre:"María Jesús Ramos", numero:4444222, saldohaber:5000, saldodebe:0});
+db.cuentas.insert({_id:'cuenta9',tipo:"AHORRO", nombre:"Alicia Perea", numero:2023424, saldohaber:12000, saldodebe:0});
+db.cuentas.insert({_id:'cuenta10',tipo:"AHORRO", nombre:"Pedro Guerra", numero:1606778, saldohaber:31000, saldodebe:1000});
+db.cuentas.insert({_id:'cuenta11',tipo:"PENSIONES", nombre:"Javier Alonso", numero:99123788, aportacion:23000});
+db.cuentas.insert({_id:'cuenta12',tipo:"PENSIONES", nombre:"Juana Galiano", numero:99002200, aportacion:15000});
+db.cuentas.find();
+
+/* Creamos la colección sucursales */
+
+db.sucursales.drop();
+db.sucursales.insert({_id:'SUC1',telefono:112233, codigo:"SUC1", director:"Alicia Gómez", poblacion:"Madrid",cuentas:['cuenta1','cuenta2','cuenta3','cuenta4','cuenta5','cuenta6']});
+db.sucursales.insert({_id:'SUC2',telefono:2023345, codigo:"SUC2", director:"Fernando Rato", poblacion:"Talavera",cuentas:['cuenta7','cuenta8']});
+db.sucursales.insert({_id:'SUC3',telefono:5566775, codigo:"SUC3", director:"Pedro Martín", poblacion:"Talavera",cuentas:['cuenta9','cuenta10','cuenta11','cuenta12']});
+db.sucursales.find();
+
+//Visualiza las cuentas de las sucursales de Madrid
+
+
+
+//Visualiza las cuentas con saldohaber > 10.000 cuyo director sea Fernando Rato
+
+
+
+//Sube 300 el saldohaber de las cuentas de la sucursal con código SUC1
+
+
+

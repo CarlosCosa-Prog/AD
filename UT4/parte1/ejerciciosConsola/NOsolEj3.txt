@@ -1,0 +1,47 @@
+//Actividad 5.16 Utilizando la colección de trabajadores realizar las siguientes consultas
+
+//Visualizar la edad media, la media del salario y el nº de trabajadores que hayan tenido un prima de 30 o de 80
+db.trabajadores.aggregate([
+    {$match:{primas: {$in: [30,80]}}},
+    {$group:{
+        _id:"primados",
+        contador: {$sum:1},
+        mediaedad: {$avg:"$edad"},
+        mediasalario: {$avg:"$salario"}
+    }}
+])
+
+//Visualizar por población el número de trabajadores, el salario medio y el máximo salario
+db.trabajadores.aggregate([
+  {$sort :{"direccion.poblacion":-1, "salario":-1}},
+  {$group:{
+    _id:"$direccion.poblacion",
+    totaltrabajadores: {$sum:1},
+    salariomedio:{$avg:"$salario"},
+    salariomaximo:{$first: "$salario"}
+  }}
+])
+
+//Visualiza el nombre, ape1, ape2 del empleado que tiene el máximo salario
+db.trabajadores.aggregate([
+  {$sort:{"salario":-1}},
+  {$group:{ //Ponemos group y no project para poder utilizar la función $first
+    _id: null,
+    nombre:{$first: "$nombre.nomb"},
+    ape1:{$first:"$nombre.ape1"},
+    ape2:{$first:"$nombre.ape2"},
+    salario:{$first:"$salario"}
+  }}
+])
+
+//A partir de la consulta anterior, obten ahora el nombre, ape1, ape2 y salario del empleado quee tiene el máximo salario por cada población
+db.trabajadores.aggregate([
+  {$sort:{"direccion.poblacion":-1, "salario":-1}},
+  {$group:{ //Ponemos group y no project para poder utilizar la función $first
+    _id: "$direccion.poblacion",
+    nombre:{$first: "$nombre.nomb"},
+    ape1:{$first:"$nombre.ape1"},
+    ape2:{$first:"$nombre.ape2"},
+    salario:{$first:"$salario"}
+  }}
+])

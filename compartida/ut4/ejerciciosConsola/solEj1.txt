@@ -1,0 +1,37 @@
+//Actividad 5.14 Crear la colección empleados dentro de la base de datos mibasededatos
+
+//Insertar los siguientes registros
+
+db.empleados.insert({Emp_no:1, nombre:"Juan",dep:10,salario:1000,fechaalta:"10/10/1999"});
+db.empleados.insert({Emp_no:2, nombre:"Alicia",dep:10,salario:1400,fechaalta:"07/08/2000",oficio: "Profesora"});
+db.empleados.insert({Emp_no:3, nombre:"Maria Jesus",dep:20,salario:1500,fechaalta:"05/01/2005",oficio:"Analista",comision:100});
+db.empleados.insert({Emp_no:4, nombre:"Alberto",dep:20,salario:1100,fechaalta:"15/11/2001"});
+db.empleados.insert({Emp_no:5, nombre:"Fernando",dep:30,salario:1400,fechaalta:"20/11/1999",comision:200,oficio:"Analista"});
+
+/*
+  Realiza la siguientes consultas sobre la BD
+*/
+
+//Visualizar los empleados del departamento 10
+db.empleados.find( { dep : 10 });
+
+//Visualiza los empleados del departamento 10 y 20
+db.empleados.find({ $or: [ { dep : 10 } , { dep : 20 } ] });
+db.empleados.find({ dep: { $in: [ 10, 20 ] } });
+
+//Obten los empleados con salario > 1300 y oficio de Profesora
+db.empleados.find({ $and : [ { salario : { $gt : 1300 } } , { oficio : "Profesora" } ] });
+
+//Sube el salario a los analistas en 100€, a todos los analistas
+db.empleados.update(
+  {oficio: "Analista"},
+  {$inc :{salario:100}},
+  {multi: true}
+)
+
+//Decrementa la comision en 20€, solo a los que tengan comision
+db.empleados.update(
+  {comision: {$ge: 0}},
+  {$inc : {comision:-20}},
+  {multi:true}
+)

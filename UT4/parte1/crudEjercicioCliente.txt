@@ -1,0 +1,44 @@
+Sobre la BBDD midb, colección discos:
+
+	Insertar un disco nuevo (insertOne)
+
+	Insertar 2 discos nuevos (insertMany)
+
+	Mostrar los de precio inferior a 20
+
+	Mostrar sólo los precios (proyección sin _id) inferiores a 15 o superior a 20
+
+	Actualizar el de id 3 a precio 30
+
+	Hacer un upsert para un id igual a 8 (inexistente)
+
+	Incrementar el precio a todos los discos en 5 euros
+
+	Borrar los de precio superior a 30
+	
+Trabajando con arrays:
+
+	Añadir a todos los discos el campo "genero" con un array con el valor ["pop-rock"] (operador $set)
+
+
+	
+	Eliminar el campo "genero" con el operador $unset
+
+
+		
+	Añadir a todos los discos el campo "genero" con el operador $push (para añadir un valor a un array) con el valor "rock"
+	
+
+		
+	Añadir a todos los discos un nuevo valor para "genero" con el operador $push con el valor "actual"
+	
+
+		
+	Actualizar el disco 3 para añadir otro género: jazz
+	
+
+		
+	Mostrar los discos de género jazz (operador $in)
+	
+
+

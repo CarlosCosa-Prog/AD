@@ -1,0 +1,40 @@
+1. Sobre midb/discos (id,titulo,musico,genero,precio) crear Disco.java y App.java. La aplicación ha de:
+
+ - insertar un disco
+ 
+ - insertar múltiples discos (al menos 2)
+ 
+ - listar un disco con un id determinado
+ 
+ - listar los discos de precio inferior a 10 o superior a 20
+ 
+ - incrementar en 5 euros el precio de los discos de la anterior consulta
+ 
+ - actualiza el disco (7,"Love supreme","John Coltrane","jazz", 25) con un upsert
+ 
+ - borrar el primer disco
+ 
+ 2. Sobre la base de datos "midb", colección "empleados" trabaja con la entidad Empleado. Empleado tendrá el siguiente contenido:
+
+    -id (entero)
+    -nombre (String)
+    -dni (String)
+    -direccion (de tipo Direccion(tipoVia, nombre, numero))
+
+Realiza un programa en Java que:
+
+- inserte un primer empleado con insertOne
+
+- inserte, al menos, dos empleados más con insertMany
+
+- muestre los empleados que tengan su domicilio en una vía de tipo "Plaza"
+
+- muestre los empleados que tengan su domicilio en una vía de tipo "Plaza" y su número en la plaza esté entre 3 y 8
+
+- repite la consulta anterior mostrando únicamente nombres (de la persona y de su dirección, evitando mostrar el resto de valores, tampoco el _id)
+
+- actualice el tercer empleado para incrementar en 2 el número de su dirección
+
+- actualice el segundo empleado para cambiar su nombre
+
+- borre todos los empleados que tengan su domicilio en una determinada calle.

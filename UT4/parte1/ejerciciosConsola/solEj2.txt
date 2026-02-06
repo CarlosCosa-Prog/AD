@@ -1,0 +1,18 @@
+//Actividad 5.15 Utilizando la colección de libros realizar las siguientes consultas
+
+// Visualiza los libros de la editorial Garceta, con pvp comprendido entre 20 y 25 ambos incluidos y que tengan el tema Multihilo
+db.libros.find({editorial:"Garceta", pvp:{ $gte:20, $lte:25 },temas:"Multihilo"})
+
+//Agregar el tema SOCKET a los libros que no lo tengan
+db.libros.update(
+  {},
+  {$addToSet:{temas: "SOCKET"} },
+  {multi:true}
+)
+
+//Baja a 5 el precio de los libros de la editorial Garceta
+db.libros.update(
+  {editorial:"Garceta"},
+  {$set: {pvp:5}},
+  {multi:true}
+)

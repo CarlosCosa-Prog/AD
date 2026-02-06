@@ -1,0 +1,28 @@
+// Crear la colección empleados dentro de la base de datos midb
+//Insertar los siguientes registros
+
+db.empleados.insert({Emp_no:1, nombre:"Juan",dep:10,salario:1000,fechaalta:"10/10/1999"});
+db.empleados.insert({Emp_no:2, nombre:"Alicia",dep:10,salario:1400,fechaalta:"07/08/2000",oficio: "Profesora"});
+db.empleados.insert({Emp_no:3, nombre:"Maria Jesus",dep:20,salario:1500,fechaalta:"05/01/2005",oficio:"Analista",comision:100});
+db.empleados.insert({Emp_no:4, nombre:"Alberto",dep:20,salario:1100,fechaalta:"15/11/2001"});
+db.empleados.insert({Emp_no:5, nombre:"Fernando",dep:30,salario:1400,fechaalta:"20/11/1999",comision:200,oficio:"Analista"});
+
+/*
+  Realiza la siguientes consultas sobre la BD
+*/
+
+//Visualizar los empleados del departamento 10
+
+
+//Visualiza los empleados del departamento 10 y 20
+
+
+//Obtén los empleados con salario > 1300 y oficio de Profesora
+
+
+//Sube el salario a los analistas en 100€, a todos los analistas
+
+
+//Decrementa la comision en 20€, solo a los que tengan comision
+
+
