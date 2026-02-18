@@ -1,0 +1,134 @@
+
+EXERCICIS HERÈNCIA
+
+.. image:: ej3.jpg
+	:height: 600
+	:width: 1000
+
+1. Codifica la jerarquia de classes Java representada pel diagrama UML adjunt tenint en compte que:
+
+ - La classe base és la classe Empleat. Aquesta classe conté:
+ - Un atribut protegit nom de tipus String que hereten la resta de classes. 
+ - Un constructor per defecte.
+ - Un constructor amb paràmetres que inicialitza el nom amb el String que rep.
+ - Mètode set i get per a l'atribut nom.
+ - Un mètode toString() que retorna el String: "Empleat " + nom.
+
+La resta de classes només han de sobreescriure el mètode toString() en cadascuna d'elles i declarar el constructor adeqüat de manera que quan s'executen les següents instruccions:
+
+.. code:: java
+
+	Empleat e1 = new Empleat("Rafa");
+	Directiu d1 = new Directiu("Mario");
+	Operari op1 = new Operari("Alfonso");
+	Oficial of1 = new Oficial("Luis");
+	Tecnic t1 = new Tecnic("Pablo");
+	System.out.println(e1);
+	System.out.println(d1);
+	System.out.println(op1);
+	System.out.println(of1);
+	System.out.println(t1);
+
+donen com a resultat::
+
+	Empleat Rafa
+	Empleado Mario -> Directiu
+	Empleat Alfonso -> Operari
+	Empleat Luis -> Operari -> Oficial
+	Empleat Pablo -> Operari -> Tècnic
+
+2. 
+	a) Defineix una classe Vehicle (rodes, velocitat i velocitat màxima) que permeta detindre, accelerar i moure cada vehicle.
+
+Defineix dues classes derivades, Bicicleta (marxes) i Motoritzat(potència en CV, cavalls de vapor, de tipus double).
+
+Defineix també dues classes derivades de Motoritzat: Motocicleta (tipus) i Automòbil (portes).
+
+Instància les 4 classes posant a prova tots els seus mètodes.
+
+	b) Modifica la classe Vehicle per a fer-la abstracta. Inclou en Motoritzat un mètode abstracte getPotenciaReal. La potència real per a motocicletes s'expressarà en watts, i per a automòbils en quilowatts. (1 Kw = 1.36 CV).
+
+Adapta el programa a aquests canvis.
+
+	c) Modifica la classe Motoritzat per a fer getPotenciaReal no abstracta, retornant la potència en CV.
+
+Crea una referència a Motoritzat i fes que apunte a un objecte Automòbil. ¿Pots mostrar els seu nombre de portes? ¿Com ho has fet per a no obtindre error de compilació? Crida a getPotenciaReal per a esta referència. ¿En quines unitats mostra el valor de potència? ¿Perquè? ¿Com es diu la relació entre els mètodes getPotenciaReal de Motoritzat i Automòbil? ¿Podries fer un exemple de "overloading" entre totes dues classes?
+
+	
+3. Realitza un programa tal que:
+
+ - defineix la classe Ocell amb un atribut longitudBec, un constructor amb un paràmetre, setter, getter, mètode pia() (que mostre en pantalla "PIO") i mètode abstracte vola().
+
+ - defineix la classe Colibri que herete de l'anterior i incloga un atribut color de tipus String, amb el seu corresponent setter i getter, un constructor amb 2 paràmetres des del qual es cride al constructor de la seua classe base, un constructor de còpia, i redefinisca o sobreescriga (overriding) el mètode pia (un colibrí no fa "PIO", sinó "PIO, PIO", i ho fa cridant dues vegades al mètode pia() de la seua classe base). A més, un colibrí vola a 30 Km/h (ho mostrarà per pantalla en volar), i cova els seus ous (mostra per pantalla que està covant els seus ous).
+
+ - crea un objecte Colibri i fes-ho piular, volar i covar.
+
+ - crea un segon objecte Colibri, còpia de l'anterior.
+
+ ¿Què canviaria si els objectes colibrí es crearen amb una referència a Ocell? Explica-ho en el propi codi font del programa.
+
+
+4. Realitza un programa en el qual:
+
+ - crees un paquet "motors" i inclogues en ell:
+ - una interfície Potència amb un mètode gira()
+ - una classe Motor que implemente la interfície anterior i, almenys, amb un atribut velocitat, un constructor amb un paràmetre, setter, getter, i mètode abstracte accelera().
+ - defineix la classe MotorElectric que herete de l'anterior i incloga un atribut Voltatge de tipus String (per exemple 220CA o 12CC, per a 220 Volts de corrent altern o 12 Volts de corrent continu), amb el seu corresponent setter i getter, un constructor amb 2 paràmetres des del qual es cride al constructor de la seua classe base, un constructor de còpia, i redefinisca o sobreescriga (overriding) el mètode gira (un MotorElectric gira a 3000 rpm, mentre la resta de motors ho fan a 1500). A més, el MotorElectric incrementa la seua velocitat accelerant, amb el mètode accelera, a 10 rpm més (revolucions per minut, incrementarà la seua velocitat en aquesta quantitat en accelerar).
+ 
+ 	Realitza un programa que utilitze les classes del paquet anterior:
+ 	
+ - crea un objecte MotorElectric i fes-ho girar i accelerar dues vegades.
+ - crea un segon MotorElectric, còpia superficial de l'anterior.
+ - crea un nou objecte MotorElectric amb referència de tipus Motor. Fes-ho accelerar.
+
+5. Realitza un exercici en el qual es definisca una interfície Transport amb un mètode consumViatge al qual se li passen els quilòmetres realitzats i retorne l'import del seu cost en euros (2 euros per km). Defineix una classe Vehicle (potència, consum) que implemente la interfície anterior, i dues classes Cotxe (portes) i Moto (tipus) que hereten de l'anterior. En els constructors de les classes derivades has de fer ús de "super" per a cridar al constructor de la classe base passant-li els paràmetres que aquest requerisca.
+
+Fes que Moto i Cotxe sobreescriguen el mètode consumViatge (per a una moto el km costa 1 euro, i per a un cotxe costa 3).
+
+ Realitza un programa que prove les classes anteriors.
+
+6. Defineix una classe jugador (amb atribut nom) que definisca un mètode final mostraNom, un mètode abstracte mostraJugador. Fes una segona classe Futbolista que herete de l'anterior amb l'atribut gols.
+
+- Realitza un programa que intente instanciar algun objecte de cadascuna de les classes anteriors.
+
+- Intenta redefinir o sobreescriure el mètode mostraNom en la classe Futbolista. És possible? Perquè?
+
+- Crea un segon objecte Futbolista (f2 per exemple, suposant que el primer fóra f1), que siga "final". Fes que la referència d'aquest segon objecte apunte al primer (f2 = f1). Què succeix? Perquè?
+
+7. Fes un programa que demane valors enters i, per a cadascun d'ells, mostre el seu màxim divisor. Per exemple, per a 52 serà 26 o per a 81 serà 27. Hauràs d'utilitzar un objecte Vector que guarde tots els valors introduïts des de teclat i utilitzar el seu mètode forEach.
+
+8. Exercici DATES-HORES
+
+Per a resoldre el següent exercici utilitza la documentació de l'API de Java.
+
+Realitza un programa que s'execute de la forma:
+ 
+ java programa dia mes any Unitat
+
+i, fent ús de les classes LocalDate, LocalTime, LocalDateTime, etc. mostre el temps transcorregut entre la data indicada en els paràmetres d'execució i l'instant de l'execució en la unitat indicada (Segons, Dies o Anys). El programa haurà de comprovar que la data indicada no pertanga al futur.
+
+Exemples d'execució:
+
+ java programa 26 5 2050 Segons
+
+ , generarà l'eixida
+
+ Data futura (no vàlida)
+
+ java programa 13 8 1975 Anys
+
+ , generarà l'eixida
+
+ Han transcorregut xx anys
+
+9. Exercici WRAPPERS
+
+Realitza un programa en Java que faça el següent:
+
+- llija un valor numèric des de teclat
+- cree un objecte Double per al valor introduït amb el constructor que requereix com a paràmetre un String
+- obtinga el valor double (tipus bàsic) corresponent
+- cree un segon objecte Double per al valor introduït amb el constructor que requereix com a paràmetre el double obtingut anteriorment
+- obtinga a partir del Double primer el valor sencer (int) més pròxim (arrodoniment) i el valor truncat
+- obtinga el valor hexadecimal, octal i binari corresponent a l'enter truncat.
+

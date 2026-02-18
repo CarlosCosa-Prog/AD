@@ -1,0 +1,146 @@
+/*11. Programa que gestione un videoclub oferint el següent menú:
+
+	1. Alta de pel·lícula
+	2. Consulta d'una pel·lícula a partir del seu codi
+	3. Llistar totes les pel·lícules
+	4. Esborrar una pel·lícula a partir del seu codi
+	0. Eixir del programa
+
+Cada pel·lícula tindrà 3 dades: codi de la pel·lícula (enter), títol (String) i director (String). El programa crearà el fitxer SEQÜENCIAL guardant un registre en ell per a cada pel·lícula. No s'utilitzaran objectes pel·lícula.*/
+
+import java.io.*;
+import java.util.Scanner;
+import java.util.StringTokenizer;
+import java.util.NoSuchElementException;
+
+public class ex11 {
+
+	public static void main(String[] args) {
+
+		Scanner scan = new Scanner(System.in);
+		File f = new File("Cine.dat");
+		File faux = new File("CineAux.dat");
+
+		while (true) {
+
+			System.out.println("\n1. Alta de pel·lícula\n2. Consulta d'una pel·lícula a partir del seu codi\n3. Llistar totes les pel·lícules\n4. Esborrar una pel·lícula a partir del seu codi\n0. Eixir del programa");
+			int x = scan.nextInt();
+
+			switch (x) {
+				case 1:
+					alta(f);
+					break;
+				case 2:
+					consulta(f);
+					break;
+				case 3:
+					listar(f);
+					break;
+				case 4:
+					borrar(f, faux);
+					break;
+				case 0:
+					System.exit(0);
+				default:
+					System.exit(0);
+			}
+		}
+	}
+
+	public static void alta(File f) {
+
+		Scanner scan = new Scanner(System.in);
+
+		System.out.print("Introduce un código: ");
+		int cod=scan.nextInt();
+		scan.nextLine();
+		System.out.print("Introduce un título: ");
+		String tit=scan.nextLine();
+		System.out.print("Introduce el director: ");
+		String dir=scan.nextLine();
+
+		String s = cod+"-"+tit+"-"+dir+"\n";
+
+		try (FileOutputStream fos = new FileOutputStream(f, true);
+			OutputStreamWriter osw = new OutputStreamWriter(fos);) {
+
+			osw.write(s);
+
+		} catch (IOException e) {
+			e.printStackTrace(System.out);
+		}
+	}
+
+	public static void consulta(File f) {
+
+		String s;
+		StringTokenizer st;
+		Scanner scan = new Scanner(System.in);
+
+		System.out.println("Introduce el código a consultar");
+		int cod=scan.nextInt();
+
+		try (FileInputStream fis = new FileInputStream(f);
+			Scanner sc = new Scanner(fis);) {
+
+			while ((s=sc.nextLine())!=null) {
+				st = new StringTokenizer(s,"-");
+				if (Integer.parseInt(st.nextToken())==cod)
+					System.out.println(s);
+			}
+		} catch (IOException e) {
+			e.printStackTrace(System.out);
+		} catch (NoSuchElementException e) {
+			return;
+		}
+	}
+
+	public static void listar(File f) {
+
+		String s = new String();
+
+		try (FileInputStream fis = new FileInputStream(f);
+			Scanner sc = new Scanner(fis);) {
+
+			while ((s=sc.nextLine())!=null)
+				System.out.println(s);
+		} catch (NoSuchElementException e) {
+			return;
+		} catch (IOException e) {
+			e.printStackTrace(System.out);
+		} 
+	}
+
+	public static void borrar(File f, File faux) {
+
+		Scanner scan = new Scanner(System.in);
+		String s = new String();
+		System.out.print("Elige una película a borrar: ");
+		int x = scan.nextInt();
+
+		StringTokenizer st;
+
+		try (FileInputStream fis = new FileInputStream(f);
+			Scanner sc = new Scanner(fis);
+			FileOutputStream fos = new FileOutputStream(faux, true);
+			OutputStreamWriter osw = new OutputStreamWriter(fos);) {
+
+			while ((s=sc.nextLine())!=null) {	
+
+				st = new StringTokenizer(s,"-");
+
+				if (Integer.parseInt(st.nextToken())==x)
+					continue;
+				else
+					osw.write(s+"\n");
+			}
+
+		} catch (IOException e) {
+			e.printStackTrace(System.out);
+		} catch (NoSuchElementException e) {
+			f.delete();
+			faux.renameTo(f);
+			return;
+		}
+	}
+}

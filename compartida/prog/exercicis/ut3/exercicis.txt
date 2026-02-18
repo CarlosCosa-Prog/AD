@@ -1,0 +1,100 @@
+EXERCICIS ARRAYS:
+
+1. Crear un array d'objectes Futbolista(nom,gols) i ordena l'array (amb el mètode de la bambolla, bubble-sort) perquè aquest siga la taula de màxims golejadors, ordenats de major a menor nombre de gols. El programa acabarà mostrant la classificació.
+
+2. Programa modular, amb pas de paràmetres a main, que s'execute com a:
+
+	java ex2 enterInicial enterFinal
+	
+Amb una funció que accepte els 2 valors enters (inicial i final) retorne un array amb tots els valors enters compressos entre els indicats.
+
+3. Funció que faça la mateixa funcionalitat del toCharArray() de String utilitzant els mètodes length() i charAt() de la classe String. El seu prototip serà:
+
+	public static char[] toCharArray(String s)
+
+4. Funció que admeta, com a paràmetres, 2 arrays numèrics i retorne l'array que concatene tots els valors en un únic array.
+
+5. Crea un programa de gestió de discos de música. Per a això, defineix una classe Disc (o reutilitza la creada en la unitat 2), sabent que per a cada disc volem registrar el títol, grup o artista, preu. Afig a la classe tots els constructors i mètodes que consideres útils o necessaris.
+
+ El programa ha de crear un array per a 10 discos, inicialment buit, i mostrar el següent menú:
+
+	1. Alta de disc
+	2. Mostrar tots els discos
+	3. Modifificar disc existent
+	4. Ordenar per preu
+	0. Eixir 
+
+6. Realitza un programa en Java que faça el següent (solució preferentment modular, tot en una mateixa classe que incloga main i la resta de funcions):
+
+ - genere 100 nombres enters aleatoris, entre 1 i 100, i els carregue en un array de 100 enters
+ - mostre l'array per pantalla
+ - demane a l'usuari un valor (entre 1 i 100 també) i indique si, o no, es troba en l'array (cerca lineal en vector desordenat)
+ - ordene l'array amb el mètode de la bambolla
+ - torne a mostrar l'array
+ - demane un altre valor, entre 1 i 100, a l'usuari
+ - realitze una altra cerca (ara dicotòmica) indicant, igualment, si es troba, o no, en l'array
+ - amb el mateix valor de cerca, finalment realitzarà una cerca lineal indicant quantes vegades ha aparegut el valor en l'array
+ 
+7. Realitza el mateix exercici anterior amb 2 classes: una primera classe per al programa, i una altra classe instanciable que incloga com a atribut l'array i com a mètodes els corresponents a les operacions necessàries (carregar l'array, mostrar per pantalla, ordenar i les diferents cerques ...).
+
+8. Es demana construir una classe anomenada UtilArrays, de l'estil de la classe Math de Java, que incloga mètodes estàtics que retornen, respectivament, el màxim, el mínim, el sumatori, la mitjana aritmètica i el valor sencer més repetit d'un array de valors numèrics enters donat com a paràmetre.
+
+EXERCICIS STRING:
+
+	1. Fer un programa que ingresse una cadena de caracters i determine el nombre de majúscules i el nombre de minúscules.
+
+	2. Escriure un programa que reba com a dades una cadena de caracters i un caracter, i reporta el nombre de vegades que es troba el caracter en la cadena. 
+
+	3. Implemente un programa que indique si una paraula és un palíndrome . Una paraula és palíndrome si es llig igual d'esquerra a dreta que de dreta a esquerra. 
+
+	4. Implemente un programa que reba una cadena S i una lletra X, i col·loque en majúscules cada ocurrència de X en S. (la funció ha de modificar la variable S). 
+
+	5. Fer un programa que reba un String i retorne el mateix String al qual se li hagen eliminat tots els espais.
+	
+	6. Llegir el següent article: https://www.arquitecturajava.com/java-new-string-y-la-creacion-de-objetos/.
+
+EXERCICIS HASHTABLE:
+
+1. Realitza un programa que, mitjançant la classe Hashtable, permeta gestionar pel·lícules d'una videoteca o videoclub. Per a això, s'utilitzaran entrades de tipus <Integer,String> tal que cada pel·lícula tinga un número de pel·lícula i el seu títol.
+
+	El programa permetrà:
+	- introduir pel·lícules des de teclat
+	- llistar totes les pel·lícules
+	- eliminar una pel·lícula a partir del seu número
+	- consultar el títol d'una pel·lícula a partir del seu número
+
+EXERCICI CLASSE VECTOR:
+
+1. Realitza un exercici (preferentment modular ) que permeta emmagatzemar noms (persones o ciutats, ..., la qual cosa preferisques) en un objecte Vector, amb mètodes que permeten carregar els seus valors de teclat, mostrar tots els noms per pantalla, etc. L'objecte Vector serà creat amb una capacitat inicial de 10 i increments de 5 en 5.
+ El programa guardarà tots els noms que vulga introduir l'usuari fins a acabar amb una línia buida, mostrarà tots els noms emmagatzemats, així com la grandària i capacitat del vector, per a acabar demanant un nom que haurà d'eliminar del Vector.
+
+EXERCICI ENUMS:
+
+Donat el següent tipus enum complex:
+
+enum Got {
+ // Tipus de got disponibles. Passen al constructor la seua capacitat en cc (centímetres cúbics).
+ PITXER(500), TUB(250), TERÇ(333), CANYA(200);
+
+ private int cc; // Variable interna on emmagatzemarem la capacitat
+
+ // El nostre constructor ens força a passar paràmetres en definir un nou tipus
+ Got(int cc) {
+ 	this.cc = cc;
+ }
+
+ // Retorna la capacitat del got
+ public int getCentimetresCubics() {
+ 	return cc;
+ }
+}
+
+defineix una classe BegudaCervesa que incloga:
+ - un enum simple MarcaCervesa amb les marques de cervesa disponibles (MAHOU, ESTRELLA, SANMIGUEL, HEINEKEN ...). Per a accedir als seus valors la sintaxi serà BegudaCervesa.MarcaCervesa.MAHOU, per exemple.
+ - un atribut de tipus Got
+ - un atribut de tipus MarcaCervesa
+ - un constructor que inicialitze tots dos atributs
+ - un mètode servir que mostre per pantalla les característiques de la beguda de cervesa a servir (marca i tipus de got amb la seua capacitat).
+ 
+ Crea finalment un programa que cree 2 begudes de cervesa i les servisca.
+

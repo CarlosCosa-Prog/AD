@@ -1,0 +1,69 @@
+D'enunciatsUT1.txt repeteix, amb SOLUCIÓ MODULAR, els marcats amb un asterisc. Després pots continuar amb:
+
+1. Realitzar una funció que reba una variable de tipus caràcter i si és una lletra minúscula la retorne convertida en majúscules. 
+
+2. Realitzar una funció que reba un nombre real (double) i retorne el nombre enter més pròxim.
+
+3. Realitzar una funció que reba una quantitat d'hores, minuts i segons i retorne el total de segons corresponent.
+
+4. Realitzar un programa que demane un número positiu a l'usuari i done la llista dels factorials dels números des del valor introduït fins al 1, indicant quins dels factorials trobats tenen algun dígit igual a 2.
+	S'utilitzarà una funció per al càlcul del factorial de cada número i una altra per a saber si el factorial calculat té o no algun dígit igual a 2.
+	Exemple per al 5:
+
+	5: factorial = 120	SI té 2
+	4: factorial = 24	SI té 2
+	3: factorial = 6	 NO té 2
+	2: factorial = 2	SI té 2
+	1: factorial = 1	NO té 2
+
+5. Indicar quin és el resultat d'executar el següent programa si s'introdueixen com a entrada els números 4,3,2,1 i 0:
+
+/* defineix TU l'objecte Scanner necessari */
+public class ej5
+{
+	public static void main(String args[])
+	{
+		processarNumeros();
+	}
+
+	public static void processarNumeros()
+	{
+		int n;
+
+		System.out.println("Donar un número:");
+		n = ent.nextInt();
+		if (n != 0)
+		{
+			processarNumeros();
+			System.out.println(n);
+		}
+	}
+}
+
+6. Modificar el programa anterior perquè escriga els nombres parells en el mateix ordre en el qual es lligen. És a dir, que si es donen els números 6,4,3,2,1,0 escriga en pantalla 6,4,2.
+
+7. Realitzar un programa que calcule els nombres primers entre 1 i 1000, utilitzant una funció que indique si un número rebut com a paràmetre és o no primer.
+
+8. Realitzar un programa, amb un subprograma recursiu, que donat un nombre enter positiu, done la suma de tots els nombres parells positius menors que ell.
+
+9. Realitzar un programa que escriga en pantalla n línies del triangle de PASCAL utilitzant un subprograma recursiu.
+	En el triangle de PASCAL els números dels costats valen 1 i els del centre es calculen sumant els dos que té immediatament damunt:
+
+					1
+				1		1
+			1		2		1
+		1		3		3		1
+	1		4		6		4		1
+..............................................................................
+
+	S'aconsella utilitzar una funció recursiva que calcule el valor de cada terme donada la seua posició (fila i columna). Per exemple, que calcule que l'element de la fila 5 i columna 3 és un 6.
+
+10. Fer un programa en Java que imprimisca 100 asteriscos en pantalla utilitzant una funció main recursiva.
+
+11. Realitza un programa, amb una funció main RECURSIVA, que mostre tots els enters des d'1 fins a 100.
+
+12. Els números de Fibonacci són els membres d'una seqüència en la qual cada numero és igual a la suma dels dos anteriors. En altres paraules, Fi = *Fi-1 + *Fi-2, on Fi és l'i-*éssim núm. de Fibonacci, i sent F1=F2=1. Per tant:
+	F5 = F4 + F3 = 3 + 2 = 5, i així successivament.
+	Escriure un programa que mostre els n primers números de Fibonacci; n serà un valor introduït per teclat.
+
+El programa haurà de realitzar-se amb càlcul recursiu.

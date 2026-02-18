@@ -1,0 +1,51 @@
+1. Programa que, mitjançant 3 botons ( 0 , 1 i C per a esborrar) permeta compondre un valor numèric en binari que serà mostrat en binari i en decimal amb les corresponents etiquetes.
+
+2. Realitza una aplicació que genere un número aleatori en fer clic sobre un botó. El nombre de dígits que tindrà l'aleatori el prendrà d'un requadre de text (JTextField). Si el requadre té el valor 3, per exemple, generarà aleatoris entre 0 i 999. Mostrarà el valor generat en una etiqueta.
+
+Opcionalment podeu fer que es guarde en fitxer cadascun dels valors generats.
+
+3. Programa que, mitjançant un JFileChooser, afegeisca al fitxer el contingut del text escrit per l'usuari en un requadre de text (JTextField). El programa utilitzarà un botó que llançarà el selector de fitxer i un altre que escriga a fitxer el contingut indicat, després d'haver-lo seleccionat.
+
+4. Programa que, utilitzant 3 components JSlider amb valors de 0 a 255, permeta seleccionar graduació de color per als 3 colors RGB (vermell, verd i blau). El programa mostrarà en un altre component (etiqueta o requadre de text, per exemple) el color resultant per als 3 valors escollits de graduació. També pots afegir 3 components checkBox que permetan seleccionar o deseleccionar cada color per separat. És a dir, si un color no té el checkBox corresponent seleccionat actuarà com si el slider estigués a zero.
+
+5a. Realitza una aplicació gràfica que permeta a un bibliotecari llistar les pel·lícules guardades al fitxer ("films.dat") generat per a l'exercici 11 de la unitat anterior d'entrada/eixida (ut5). Per a mostrar les dades de cada pel·lícula has d'utilitzar components JTextField, de manera que amb cada clic sobre un botó "Següent" vaja mostrant-hi els valors per a cada pel·lícula.
+
+5b. Repeteix l'exercici llegint les dades de les pel·lícules des d'un fitxer de text (films.txt) que incloga cada pel·lícula en una línia i separe els camps de cada pel·lícula per una tabulació.
+
+6. Realitza el següent programa que permeta generar un nombre aleatori entre un mínim i un màxim introduïts per l'usuari en dos requadres de text. El número generat es mostrarà mitjançant una etiqueta en fer clic sobre el botó. 
+
+.. image:: ex6.jpg
+    :height: 300
+    :width: 800
+
+Inclou a la finestra dos panells que continguen:
+- el primer les etiquetes Mínim i Màxim, així com ambdós requadres de text
+- el segon inclourà el botó i etiqueta amb el resultat.
+
+La disposició a utilitzar al primer panell serà FlowLayout i al segon GridLayout d'una columna (recorda que per això pots utilitzar el mètode setLayout).
+
+	OPCIONALMENT POTS FER TAMBÉ:
+	
+7. Modifica l'ex1.java per a usar només una etiqueta, no 2, que mostre el valor en binari o decimal segons l'opció escollida en un menú (un JMenu amb 2 JMenuItems, Binari i Decimal).
+
+8. Programa que demane 2 valors numèrics amb reqüadres de text (JTextField) i, amb JMenu i 4 JMenuItems (per a sumar, restar, multiplicar i dividir) mostre el resultat de operar amb els 2 valors. El resultat el mostrarem amb un JLabel.
+
+.. image:: ex8a.png
+    :height: 300
+    :width: 800
+    
+.. image:: ex8b.png
+    :height: 300
+    :width: 800
+    
+.. image:: ex8c.png
+    :height: 300
+    :width: 800
+    
+.. image:: ex8d.png
+    :height: 300
+    :width: 800
+    
+.. image:: ex8e.png
+    :height: 300
+    :width: 800

@@ -1,0 +1,81 @@
+/* 11. Programa que gestione un videoclub oferint el següent menú:
+
+	1. Alta de pel·lícula
+	2. Consulta d'una pel·lícula a partir del seu codi
+	3. Llistar totes les pel·lícules
+	4. Esborrar una pel·lícula a partir del seu codi
+	0. Eixir del programa
+
+Cada pel·lícula tindrà 3 dades: codi de la pel·lícula (enter), títol (String) i director (String). El programa crearà el fitxer SEQÜENCIAL guardant un registre en ell per a cada pel·lícula. No s'utilitzaran objectes pel·lícula. */
+
+public class ex11
+{
+	public static void main(String args[])
+	{
+		Scanner ent = ...
+//		DataOutputStream dos = new DataOutputStream( ...);
+//		DataInputStream dis = new DataInputSream( ... );
+		
+		System.out.println("	1. Alta de pel·lícula
+	2. Consulta d'una pel·lícula a partir del seu codi
+	3. Llistar totes les pel·lícules
+	4. Esborrar una pel·lícula a partir del seu codi
+	0. Eixir del programa");
+	
+		System.out.println("Trie la opció");
+		int opc = ent.nextInt();
+		switch (opc)
+		{
+			case 1: alta();break;
+			case 2: // demanar pelicula
+			consulta(codPeli); break;
+			case 3: llista();break;
+			case 4: // demanar pelicula;
+				esborra(codPeli);
+		}
+	}
+	
+	... alta()
+	{
+		// demanar valors per teclat 
+		DataOutputStream dos = new DataOutputStream( ...);	// append a true
+		dos.writeInt(codPeli); doswriteUTF(titol); doswriteUTF(director);
+		// AUTOCLOSEABLE
+		
+		
+	}
+	
+	public static void consulta(int cod)
+	{
+		DataInputStream dis = new DataInputSream( ... );
+		int codPeli = dis.readInt();
+		... // llegir també titol i director amb readUTF
+		while ( codPeli != cod)		
+		 	// repetir lectura següent peli
+		// fora del bucle
+		System.out.println(" ...");	// mostre els valors de la peli
+		
+	}
+		 		
+	... llista()
+	{
+		DataInputStream dis = new DataInputSream( ... );
+		int codPeli = dis.readInt();
+		... // llegir també titol i director amb readUTF
+		while ( codPeli != -1)	// o true	
+		{
+			System.out.println(" ...");	// mostre els valors de la peli
+		 	// repetir lectura següent peli
+		 }
+		// fora del bucle	
+	
+	}	 		
+		
+	... esborra(int cod)
+	{
+		DataOutputStream dos = new DataOutputStream( ...);
+		DataInputStream dis = new DataInputSream( ... );
+		...
+	}	
+		
+}	

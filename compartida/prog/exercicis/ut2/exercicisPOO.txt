@@ -1,0 +1,47 @@
+1. Crear una classe Rellotge (hora,minuts,segons) que permeta almenys:
+
+ - crear rellotges amb hora inicial les 12 del migdia
+ - crear rellotges amb hora inicial a triar
+ - canviar només l'hora, només els minuts o només els segons (setters)
+ - obtindre només el valor d'hora, o de minuts o de segons (getters)
+ - obtindre els segons transcorreguts des de les 12 de la mitjanit()
+ - afegir una quantitat de temps expressada en segons (vigila que els minuts o segons no excedisquen de 59, ni les hores de 23).
+ 	Exemple:
+ 	si el rellotge marca les 10.35:24 i se li afigen 1810 segons (mitja hora i 10 segons) quedarà en 11.05:34
+ - ... (altres operacions que se t'ocórreguen útils)
+ 
+ Crea un programa que instàncie rellotges posant a prova tota la classe anterior.
+ 
+2. Crea una classe Music que incloga 2 atributs (nom del músic i instrument, tots dos de tipus String). La classe inclourà també, almenys:
+
+ - un constructor que inicialitze el músic amb un nom i un instrument inicial.
+ - constructor de còpia.
+ - un mètode mostraMusic (o toString()) que mostre les dades del músic per pantalla.
+ - els corresponents mètodes "setters" i "getters" (setNom,setInst,getNom,getInstr) que canvien l'instrument o el nom (mètodes setXxx), o retornen aqueixos mateixos valors (mètodes getXxx).
+
+	Realitza un programa que, utilitzant la classe Music, definisca almenys dos objectes d'aquest tipus, mostre les seues dades, modifique alguna dada de cadascun d'ells i acabe mostrant els seus noms, instruments i el total de músics.
+
+2b. utilitza la classe Music de l'exercici anterior, afegint-li un tercer atribut: nombre de músics (aquest atribut s'incrementarà en una unitat per a cada músic nou que es cree).
+
+3. Crea un programa de gestió de discos de música. Per a això, defineix una classe Disc, sabent que per a cada disc volem registrar el títol (String), grup o music (String), preu (per defecte, 15 euros però algun disc pot estar en oferta, rebaixant-lo un 20%). Afig a la classe els constructors i mètodes que consideres útils o necessaris, entre ells el mètode oferta() que rebaixe el preu el 20% indicat.
+
+ El programa ha de crear 3 discos, amb valors de títols i grups introduïts des de teclat per l'usuari. A més el programa posarà en oferta un únic disc, triat a l'atzar amb Math.random(). Finalment, mostrarà tots els discos amb els seus preus.
+ 
+4. Modifica la classe Disc per a canviar l'atribut music (prèviament de tipus String) per un atribut de tipus Music (classe definida per a l'exercici 2). En mostrar els discos, has d'utilitzar el mètode mostraMusic() o toString.
+
+5. Defineix la classe Dau amb:
+
+	- un atribut "valor" (que variarà entre 1 i 6)
+	- constructor sense paràmetre
+	- constructor general amb valor indicat com a paràmetre
+	- constructor de còpia
+	- setter i getter (setValor i getValor)
+	- un mètode "tirada" que canvia el valor del dau a l'atzar
+	- altre mètode "mostra" que dibuixe el dau en pantalla amb asteriscos
+		
+Realitza a continuació un programa que instàncie al almenys 2 objectes Dau, cadascun amb un constructor diferent, i compte quantes tirades s'han de fer per a generar 3 "6" consecutius.
+
+6. En un aparcament volen registrar les entrades de cotxes al llarg de cada dia. Per a això, has de fer un programa que treballe amb una classe Entrada que continga 2 atributs:
+	- matrícula del cotxe (String)
+	- instant de l'entrada (Rellotge)
+Reutilitza la classe Rellotge de l'exercici 1. Per a poder guardar diferents entrades pots fer ús d'un array estàtic. El programa ha de permitir afegir entrades i mostrar totes les entrades. Le capacitat de l'aparcament estarà limitada: quan estiga complet no admetrà noves entrades.

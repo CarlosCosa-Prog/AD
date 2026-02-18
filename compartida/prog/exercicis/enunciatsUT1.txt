@@ -1,0 +1,117 @@
+Exercicis d'algorismia per resoldre en el llenguatge estudiat (C, Java, Python ...).
+
+
+1. Programa que llegeix des de teclat un enter i el mostra en pantalla (fa un ressò o eco).
+
+2. Programa que demana 2 valors numèrics i mostra el resultat de la seva suma i el seu producte.
+
+3. Programa que accepta un número i mostra els seus valors meitat i doble (per a 4.85, mostrarà 2.425 i 9.7).
+
+4. Programa que demana un valor numèric i indica si és positiu o negatiu.
+
+5. Programa que, a partir d'un sencer introduït des de teclat, mostra tots els sencers, des d'1, menors que ell.
+
+6. Programa que accepta 2 números i, si la seva suma és inferior a 10, demana un tercer valor. A la fi, mostra la suma dels valors introduïts.
+
+7. Programa que imprimeix tots els enters entre 1 i 100.
+
+8. Programa que imprimeix tots els parells entre 1 i 100.
+
+9. Programa que accepta 3 números i els mostra ordenats sense canviar els seus valors.
+
+10*. Programa que mostra les 10 taules de multiplicar (per 1,2,3, ..., 10).
+
+11*. Programa que demana un nombre enter i imprimeix la seva taula de multiplicar.
+
+12*. Programa que demana un nombre més gran que 0 a l'usuari i realitza comprovació de valor de manera que si no és correcte torne a sol·licitar la introducció del valor.
+
+13. Programa que llija una quantitat positiva / negativa de ºC i la passe a graus Farenheit.
+
+14. Programa que intercanvie els valors de dues variables.
+
+15. Realitzar la següent traça:
+
+    INICI
+        llegir a
+        c = 0
+        Mentre c < 10
+            c = c + 2
+            a = a + 3
+            escriure a
+        FiMentre
+    FI
+
+Dades d'entrada: 5
+
+16. Programa que indique el màxim i el mínim d'un conjunt de notes introduïdes des de teclat. La sèrie de notes acabarà amb un valor negatiu. També fer ordinograma.
+
+17. Substituir la següent estructura "per" per una de tipus "mentre":
+
+    x = 1
+    i = 1
+    Per i des de 5 fins a 100 amb increment 5
+        z = x + i
+        x = i
+        i = z
+    FiPer
+
+18. Dissenyar un programa que mostre la suma dels nombres senars (imparells) compresos entre dos valors numèrics enters i positius introduïts per teclat.
+
+19. Programa que accepte números positius o iguals a 0, fins a acabar amb un negatiu, i mostre per pantalla el total de valors vàlids introduïts.
+
+20. Plasmar el següent algorisme en pseudocodi:
+
+    INICI
+        Escriure "Introdueix parelles de nombres:"
+        Llegir n1, n2
+
+        N
+            n2 <> 0
+        S
+        Escriure n1 * n2
+    FI
+
+21. Programa que accepta nombres enters majors o iguals, 0 fins a acabar amb un nombre negatiu, i indique finalment quants han sigut múltiples de 2, quants ho han sigut de 3 i quants ho són de 2 i de 3 al mateix temps (de 6).
+
+22. Algorisme que sol·licita notes introduïdes per teclat acabades amb un nombre negatiu, i imprimeix en pantalla l'aprovat de nota més baixa i el suspens de nota més alta.
+
+23. Algorisme que permet calcular el factorial d'un nombre sencer.
+
+24. Algorisme que llija números des de teclat i finalitze al introduïr un major que la suma dels dos anteriors. Escriure en pantalla el nombre de valors introduïts i els valors que van complir la condició de finalització.
+
+25. Escriure un programa que llija les temperatures obtingudes en 15 observatoris meteorològics i mostre la temperatura mínima i quantesmínimes s'han produït. El programa no ha de mantenir en memòria els 15 valors.
+
+26. Algorisme que indique si un nombre introduït per teclat és primer.
+
+27*. Modificar l'anterior algorisme perquè demane una llista d'enters acabada amb un 0 i indique, per a cada un d'ells, si és primer o no. A més, a la fi ha d'indicar quants primers s'han introduït.
+
+28*. Els nombres de Fibonacci són els membres d'una seqüència en la qual cada número és igual a la suma dels dos anteriors. En altres paraules, Fi = Fi-1 + Fi-2, on Fi és l'i-èsim nombre de Fibonacci, i sent F1 = F2 = 1. Per tant:
+
+    F5 = F4 + F3 = 3 + 2 = 5, i així successivament.
+
+Escriure un programa que mostre els n primers nombres de Fibonacci, sent n un valor introduït per teclat i considerant que els 2 primers valors de la sèrie són 1 i 1.
+
+29. Algorisme que indique si un any, introduït per teclat, és de traspàs (en castellà, bisiesto) o no.
+
+30. Realitzar un programa que llija nombres enters fins a acabar amb un 0 i calcule la suma de tots els seus dígits.
+
+31. Realitzar un programa que llija la data de naixement d'una persona i la data del dia actual i escriga l'edat en anys de la persona.
+Cada data estarà composta per 3 números que indicaran dia, mes i any.
+
+32. Realitzar un programa que demane un nombre des de teclat i escriga en pantalla, en forma de quadrat, la llista de nombres naturals des de l'1 fins al nombre donat, omplint els espais sobrants amb 0. Exemple:
+    Pel número 4:
+
+1 2 3 4
+2 3 4 0
+3 4 0 0
+4 0 0 0
+
+33*. Realitza un programa que llija parells de nombres i escriga tots els números que estan entre els nombres de cada parell (sense incloure els extrems) i que NO siguen ni el quadrat ni el cub de nombres entre l'1 i el 100.
+
+S'acabarà el programa quan algun dels dos nombres llegits sigui zero o negatiu. Si no hi ha cap nombre que complisca la condició entre els donats s'escriurà un 0.
+
+exemple:
+números vaig llegir
+
+introduïts: 3 10, 48 50, 30 25, 0 8
+Resultat: 5 6 7, 0, 26 28 29, fi

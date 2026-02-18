@@ -1,0 +1,12 @@
+1. Prenent com a exemple el codi de "comparaCercles.java" fes que la classe "Rectangle" implemente la interfície "Comparable" de forma que puguem comparar instàncies d'aquesta classe. Considerarem que un rectangle és menor que altre quan ho siga el seu perímetre.
+
+2. Prenent com a exemple el codi de "programaArrayNums.java" fes una classe "equipFutbol" que, internament, continga un array de objectes "Futbolista" i implemente la interfície "Iterable" per a poder utilitzar el foreach (for (Tipus element: ConjuntDades) ) per a mostrar tot el contingut de l'array.
+
+3. Crea un programa que genere un array dinàmic de tipus Vector<Integer>. El programa acceptarà valors, positius i negatius, fins a acabar amb un 0. Mostrará tots els valors guardats i acabarà esborrant tots els negatius del Vector. Per a esborrar-los has d'usar Collection.removeIf.
+
+L'hauràs de resoldre de 3 formes diferents:
+    - instanciant un objecte d'una classe que implemente la interfície Predicate
+    - instanciant una classe anònima que implemente la interfície Predicate
+    - amb una expressió lambda
+
+4. Utilitzant List.replaceAll(UnaryOperator o) substitueix en el Vector de l'exercici anterior cada Integer per un enter resultant de fer la operació mòdul 10. Per exemple, 5467 es quedarà en 7.
