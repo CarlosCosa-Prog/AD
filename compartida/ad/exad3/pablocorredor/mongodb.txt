@@ -1,0 +1,12 @@
+F)Creación de los libros
+db.libros.insertMany([{_id:1, titulo:"Programacion 1", precio:10, autores:["Pepe Luis", "Miguel Folgado"]},{_id:2, titulo:"Ingles 2", precio:25, autores:["Miki Mikenson","Jhon Jhonson"]}])
+
+G)Busqueda por precio
+db.libros.find({$or:[{precio:{$lt:15}}, {precio:{$gt:20}}]},{_id:0})
+
+H)Actualizar id 1 a precio 20
+
+I)
+
+J)Mostrar los libros que incluyan el género novela
+db.libros.find({genero:"novela"})

@@ -1,0 +1,29 @@
+use ex
+
+f)
+
+db.discos.insertMany([{_id: 1,titulo:"Disco1",precio:12,musicos:["musico1","musico2","musico3"]},{_id:2,titulo:"Disco2",precio:18,musicos:["musico3","musico4","musico5"]}])
+
+g) 
+
+db.discos.find({$or:[{precio:{$lt:15}},{precio:{$gt:20}}]},{_id:0})
+
+h) 
+
+db.discos.updateOne({_id:2},{$set:{precio:20}})
+
+i) 
+
+Podemos hacerlo de dos formas:
+
+    - Si queremos cambiar y purgar un array por completo o lo vamos a crear por primera vez, utilizamos:
+
+    db.discos.updateMany({precio:{$lt:15}},{$set:{tipo: ["oferta"]}}) 
+    
+    - También se podría hacer con otra sentencia, que si tuvieramos más elementos en el array tipo, lo añadiría al final, en este caso hace lo mismo y podríamos utilizar el anterior o este:
+    
+    db.discos.updateMany({precio:{$lt:15}},{$push:{tipo: "oferta"}})    
+    
+j)
+
+db.discos.find({tipo: {$in:['oferta']}})

@@ -1,0 +1,6 @@
+f - midb> db.libros.insertMany([{'titulo': 'El Principito'},{'titulo': 'Geronimo'}])
+
+g - midb> db.libros.find({$or:[{'pvp': {$lt: 15}},{'pvp':{$gt: 20}}]}, {_id:0})
+
+h - midb> db.libros.updateOne({$set: {'pvp': 30},{'id': {$eq: 3}})
+

@@ -1,0 +1,7 @@
+f)db.libros.insertMany([{_id:2, titulo:"libro2", precio:25, autores:["Pedro", "Paco"]}],[{_id:3, titulo:"libro3", precio:10, autores:["Lucía","Rocío"]}])
+
+g)db.libros.find({$or:[{precio:{$lt:15}}, {precio:{$gt:20}}]}, {_id:false})
+
+h)db.libros.updateOne({$in:{_id:3}, $set:{precio:30}})
+
+

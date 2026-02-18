@@ -1,0 +1,20 @@
+f-insertar dos discos nuevos:
+mid_examen> db.discos.insertMany([{_id: 1, titulo: "a", precio: 15, musicos: ["j"]}, {_id: 2, titulo: "b", precio: 18, musicos: ["k"]}])
+
+
+g- mostrar sólo los precios inferiores a 15 o superiores a 20:
+mid_examen> db.discos.find({$or: [{precio: {$lt:15}}, {precio: {$gt:20}}]}, {precio: 1, _id:0})
+
+
+h- actualizar el de id 3 a precio 20
+mid_examen> db.discos.updateOne({_id:1}, {$set: {precio: 20}}), (cambio el id 1, porque no he creado id 3)
+
+
+i- añadir a todos los discos de precio inferior a 15 el campo "tipo" con un array con el valor ["oferta"]
+mid_examen> db.discos.updateMany({precio: {$lt:15}}, {$push: {tipo : "oferta"}})
+
+
+j- mostrar los discos que, entre sus tipos incluya "oferta".
+mid_examen> db.discos.find({tipo: "oferta"})
+
+

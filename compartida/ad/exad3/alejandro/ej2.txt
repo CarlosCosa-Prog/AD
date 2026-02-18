@@ -1,0 +1,23 @@
+f- insertar 2 nuevos libros
+
+ex> db.libros.insertMany([{_id: 1, titulo: "Cid",precio: 10,autores: ["Alejandro"]}, {_id: 2, titulo: "Vida",precio: 20,  autores: ["Ricardo"]}])
+
+
+g- mostrar precios sin _id
+
+ex> db.libros.find({$or: [{precio: {$lt: 15}}, {precio: {$gt:20}}]}, {precio: 1, _id: 0})
+
+
+h- actualizar
+
+ex> db.libros.updateOne({_id: 2}, {$set: {precio: 30}})
+
+
+i- añadir
+
+ex> db.libros.updateMany({precio: {$lt: 20}}, {$set: {genero: ["novela"]}})
+
+
+j mostrar libros que tengan novela
+
+ex> db.libros.find({genero: {$in: ["novela"]}})

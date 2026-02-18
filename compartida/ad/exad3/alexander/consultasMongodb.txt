@@ -1,0 +1,51 @@
+// Creación de la base de datos
+use ex;
+
+// Creación de coleccón usando insertMany
+// f - Creacion de varios libros nuevos
+
+db.libros.insertMany([
+    {
+        '_id' : 1,
+        'titulo' : 'a',
+        'precio' : 10,
+        'autores' : [ 'autor a', 'autor b', 'autor c' ]
+    },
+    {
+        '_id' : 2,
+        'titulo' : 'b',
+        'precio' : 18,
+        'autores' : [ 'autor a', 'autor c' ]
+    },
+]);
+
+// g - mostrando precios (proyección) inferiores a 15 o superiores a 20
+
+db.libros.find(
+    {'$or' : [
+        { 'precio' : { '$lt' : 15 }},
+        { 'precio' : { '$gt' : 20 }},
+    ]},
+    { '_id' : 0, 'precio': 1}
+);
+
+
+// h - actualizar el id 3 a precio 30
+
+db.libros.updateOne(
+    { '_id' : 2 },
+    { '$set' : { 'precio' : 30 }}
+);
+
+// i - libros con precio inferor a 20 añadir campo genero : ["novela"]
+
+db.libros.updateMany(
+    { 'precio' : { '$lt' : 20 }},
+    { "$push" : { 'genero' : 'novela' }}
+);
+
+// j - mostrar libros que entre sus géneros incluyan novela
+
+db.libros.find(
+    { 'genero' : { '$in' : ['novela'] }}
+);

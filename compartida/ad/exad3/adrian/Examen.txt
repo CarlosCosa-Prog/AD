@@ -1,0 +1,68 @@
+Adrian Sanchez Mellinas
+
+
+F)
+
+ex> db.libros.insertMany([{_id : "1", titulo:"Anillos Señor", precio:20, autores:[{autor1:"Adrian"},{autor2:"Adolfo"}]}, {_id : "2", titulo:"Harry Potter", precio:10, autores:[{autor1:"Escamez"}, {autor2:"Alejandro"}]}])
+{ acknowledged: true, insertedIds: { '0': '1', '1': '2' } }
+ex> db.libros.find()
+[
+  {
+    _id: '1',
+    titulo: 'Anillos Señor',
+    precio: 20,
+    autores: [ { autor1: 'Adrian' }, { autor2: 'Adolfo' } ]
+  },
+  {
+    _id: '2',
+    titulo: 'Harry Potter',
+    precio: 10,
+    autores: [ { autor1: 'Escamez' }, { autor2: 'Alejandro' } ]
+  }
+]
+
+
+
+G)
+
+ex> db.libros.find({$or:[{precio:{$lt:15}}, {precio:{$gt:20}}]})
+[
+  {
+    _id: '2',
+    titulo: 'Harry Potter',
+    precio: 10,
+    autores: [ { autor1: 'Escamez' }, { autor2: 'Alejandro' } ]
+  }
+]
+
+
+
+H)
+
+ex> db.libros.findOneAndUpdate({},{$set:{precio:30}},{_id:1})
+{
+  _id: '1',
+  titulo: 'Anillos Señor',
+  precio: 10,
+  autores: [ { autor1: 'Adrian' }, { autor2: 'Adolfo' } ]
+}
+ex> db.libros.find()
+[
+  {
+    _id: '1',
+    titulo: 'Anillos Señor',
+    precio: 30,
+    autores: [ { autor1: 'Adrian' }, { autor2: 'Adolfo' } ]
+  },
+  {
+    _id: '2',
+    titulo: 'Harry Potter',
+    precio: 10,
+    autores: [ { autor1: 'Escamez' }, { autor2: 'Alejandro' } ]
+  }
+]
+
+
+
+
+

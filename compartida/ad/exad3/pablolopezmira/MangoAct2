@@ -1,0 +1,19 @@
+//-f INSERTAR DOS LIBROS NUEVOS
+
+db.ex.insertMany([{_id:3,titulo:"Harry Poter",precio:21,autores:["Pablo","Yoel"]},{_id:11,titulo:"Dracula",precio:30,autores:["Oscar","Ramon"]} ])
+
+
+//-g Mostrar precios filtrados sin id
+db.ex.find({$or :[{precio:{$gt:20}},{precio:{$lt:15}}  ]},{_id:0} )
+
+
+//Actulizar el id3 a precio 30
+db.ex.updateOne({_id:3},{$set:{precio:30}})
+
+//Añadir genero
+ex> db.ex.updateOneex> db.ex.updateOne({precio:{$lt:20}},{$set:{genero:["novela"]}})
+
+//Mostrar novela
+db.ex.updateOne> db.ex.find({genero:"novela"})
+
+

@@ -1,0 +1,28 @@
+f- 
+db.discos.insertMany( [ { _id: 1, titulo: "What happened to the heart?", precio: 18, musicos: ["Aurora", "Fatna"] }, { _id: 2, titulo: "Dance Fever", precio: 22, musicos: [ "Florence", "The Machine" ] }] )
+
+{ acknowledged: true, insertedIds: { '0': 1, '1': 2 } }
+
+
+
+g- 
+db.discos.find( { precio: [{"$or": [{ "$lt": 15 }, { "$gt": 20 } ] }] } )
+
+
+
+
+
+h- 
+db.discos.updateOne( { _id: 1 }, { precio: 20 } )
+MongoInvalidArgumentError: Update document requires atomic operators
+db.discos.updateOne( {"$eq": { _id: 1}}, {precio: 20} )
+MongoInvalidArgumentError: Update document requires atomic operators
+
+
+i-
+db.discos.updateMany( { precio: { "$lt": 15 } }, { tipo: "Oferta" } )
+
+
+
+j-
+

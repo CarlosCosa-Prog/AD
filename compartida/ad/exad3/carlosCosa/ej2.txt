@@ -1,0 +1,10 @@
+ejercicio 2 mongodb carlos cosa
+
+f - db.discos.insertMany([{"_id": 1 ,titulo: "disco 1", precio: 15, musicos: ["musico1"," musico2"]},{"_id": 2, titulo: "disco 2", precio: 20, musicos: ["musico1"," musico2"]}])
+g - db.discos.find({$and: [{precio : {$lt:10}, precio: {$gt:14}}]})
+h - db.discos.updateOne({id: 3},{$set: {precio: 20}})
+i - db.discos.update({precio: {$lt: 15}},{$set: {tipo: ["oferta"]}})
+j - db.discos.find({tipos: ["oferta"]})
+
+
+

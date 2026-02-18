@@ -1,0 +1,55 @@
+Cambiamos a la base de datos ex
+
+test> use ex
+switched to db ex
+ex> 
+
+Insertar 2 discos nuevos (insertMany)
+
+db.discos.insertMany([{_id:1,titulo:"Propuesta indecente",precio: 10,musicos:["morat","RomeoSantos"]},{_id:3,titulo:"Was Made For Loving You",precio:19,musicos:["dadadu","kiss"]}])
+
+{ acknowledged: true, insertedIds: { '0': 1, '1': 3 } }
+
+Le he puesto a uno id 3 para hacer el h
+
+MOSTRAR SOLO LOS PRECIOS SIN ID INFERIORES A 15 O SUPERIORES A 20
+
+db.discos.find({$or: [{precio: {$lt: 15}},{precio: {$gt: 20}} ]},{_id:0})
+
+ACTUALIZAR EL DE ID 3 A PRECIO 20
+
+ex1> db.discos.updateOne({_id: 3},{$set:{precio: 20}})
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 1,
+  modifiedCount: 1,
+  upsertedCount: 0
+}
+
+AÑADIR A TODOS LOS DISCOS DE PRECIO INFERIOR A 15 EL CAMPO TIPO CON UN ARRAY CON EL VALOR ["OFERTA"]
+
+db.discos.updateMany({precio: {$lt:15}},{$set: {oferta:["oferta"]}})
+
+Funciona pero al no haber ningun precio mienor que 15 no lo hace pero lo he probado poniendo lte y ha funcionado
+{
+    _id: 1,
+    titulo: 'Propuesta indecente',
+    precio: 15,
+    musicos: [ 'morat', 'RomeoSantos' ],
+    oferta: [ 'oferta' ]
+  },
+
+MOSTRAR LOS DISCOS QUE ENTRE SUS TIPOS INCLUYA OFERTA
+
+ex1> db.discos.find({oferta:['oferta']})
+[
+  {
+    _id: 1,
+    titulo: 'Propuesta indecente',
+    precio: 15,
+    musicos: [ 'morat', 'RomeoSantos' ],
+    oferta: [ 'oferta' ]
+  },
+]
+

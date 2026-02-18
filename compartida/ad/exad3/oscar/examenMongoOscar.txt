@@ -1,0 +1,51 @@
+f--------------------
+
+db.libros.insertMany([{_id: 1 , titulo: "abc", precio:14,autores:["Sr.a","Sr.b"] },{_id:2, titulo:"def", precio : 20 , autores:["Maria"]}]);
+{ acknowledged: true, insertedIds: { '0': 1, '1': 2 } }
+
+
+g---------------------------------------
+db.libros.find({$or: [{precio: {$lt: 15}},{precio: {$gt : 20 }}]},{_id :0, precio: 1});
+[ { precio: 14 } ]
+
+
+h-------------------------------
+
+db.libros.updateOne({_id : 3},{$set : {precio : 30}});
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 1,
+  modifiedCount: 1,
+  upsertedCount: 0
+}
+
+i--------------------------
+
+db.libros.updateMany({precio : {$lt : 15}},{$set:{genero:["novela"]}},{upsert:true});
+{
+  acknowledged: true,
+  insertedId: null,
+  matchedCount: 1,
+  modifiedCount: 1,
+  upsertedCount: 0
+}
+
+
+
+j---------------------------
+
+
+db.libros.find({genero : {$in : ["novela"]}});
+[
+  {
+    _id: 1,
+    titulo: 'abc',
+    precio: 14,
+    autores: [ 'Sr.a', 'Sr.b' ],
+    genero: [ 'novela' ]
+  }
+]
+
+
+

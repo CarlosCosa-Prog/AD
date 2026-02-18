@@ -1,0 +1,22 @@
+2.
+
+f-
+
+    - db.discos.insertMany([{_id: 1, titulo: 'a', precio: 10, musicos: ['Pepe', 'Jorge']}, {_id: 2, titulo: 'b', precio: 20, musicos: ['Miguel', 'Carlos']}])
+
+g-
+
+    -db.discos.find({$or: [{precio: {$lt: 15}}, {precio: {$gt: 20}}]}, {precio: 1, _id: 0})
+
+h-
+
+    -db.discos.updateOne({_id: 2}, {$set: {precio: 20}})
+
+i-
+
+    -db.discos.updateMany({precio: {$lt: 15}}, {$set: {tipo: ['oferta']}})
+
+j-
+
+    -db.discos.find({tipo: ['oferta']})
+

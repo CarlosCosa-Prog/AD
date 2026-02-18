@@ -1,0 +1,27 @@
+f- Insertar 2 lirbos nuevos
+ex> db.libros.insertMany([{"_id": 1, titulo: "Historia de una escalera", precio: 9}, {"_id": 2, titulo: "El Quijote", precio: 25}])
+
+*************************************************************************************************************************************
+
+g- Mostrar solo los precios (sin id) inferiores a 15 o superiores a 20
+ex> db.libros.find({$or: [{precio: {$lt: 15}}, {precio: {$gt: 20}}]}, {"_id": 0, precio: 1})
+
+
+*************************************************************************************************************************************
+
+h- Actualizar el de id 2 a precio 30 
+// IMPORTANTE, EL ENUNCIADO DEL EXAMEN PIDE EL 3, PERO ANTERIORMENTE SOLO PIDE QUE CREEMOS 2, SOLO ACTUALIZARÉ EL ÚLTIMO (EL ID 2)
+ex> db.libros.updateOne({"_id": 2}, {$set: {precio: 30}})
+
+
+*************************************************************************************************************************************
+
+i- Añadir a todos los libros de precio inferior a 20 el campo "genero" con un array con el valor ["novela"]
+ex> db.libros.updateMany({precio: {$lt: 20}}, {$set: {genero: ["novela"]}})
+
+
+*************************************************************************************************************************************
+
+j- Mostrar los libros que, entre sus géneros, incluya "novela"
+ex> db.libros.find({generos: {$in: ["novela"]}})
+
