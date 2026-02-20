@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista de usuarios</title>
+    <style>
+        body { font-family: Arial; margin: 40px; }
+        nav { margin-bottom: 20px; }
+        nav a { margin-right: 15px; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        .container { max-width: 800px; margin: 0 auto; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <nav>
+        <a href="/">Inicio</a>
+        <a href="/about">Sobre nosotros</a>
+        <a href="/usuarios">Usuarios</a>
+    </nav>
+
+    <h1>Lista de usuarios</h1>
+
+    <table>
+        <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Email</th>
+            <th>Edad</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:each="usuario : ${usuarios}">
+            <td th:text="${usuario.nombre}">Nombre</td>
+            <td th:text="${usuario.email}">Email</td>
+            <td th:text="${usuario.edad}">Edad</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

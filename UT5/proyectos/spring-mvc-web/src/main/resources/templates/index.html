@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="${titulo}">Título</title>
+    <style>
+        body { font-family: Arial; margin: 40px; }
+        nav { margin-bottom: 20px; }
+        nav a { margin-right: 15px; }
+        .container { max-width: 800px; margin: 0 auto; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <nav>
+        <a href="/">Inicio</a>
+        <a href="/about">Sobre nosotros</a>
+        <a href="/usuarios">Usuarios</a>
+    </nav>
+
+    <h1 th:text="${titulo}">Título</h1>
+    <p th:text="${mensaje}">Mensaje</p>
+</div>
+</body>
+</html>
