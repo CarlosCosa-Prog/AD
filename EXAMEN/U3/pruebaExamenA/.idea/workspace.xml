@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b9fd0fe-43b2-427f-a380-6783f0bf8e28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../U2/examenA/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenA/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenA/src/main/java/org/cosa/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenA/src/main/java/org/cosa/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenA/src/main/java/org/cosa/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenA/src/test/java/org/cosa/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenB/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenB/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenB/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenB/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenB/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenB/src/main/java/org/cosa/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenB/src/main/java/org/cosa/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenB/src/main/java/org/cosa/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/examenB/src/test/java/org/cosa/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/jdbEj2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/jdbEj2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/jdbEj2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/jdbEj2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/jdbEj2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/jdbEj2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/jdbEj2/src/main/java/org/cosa/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/jdbEj2/src/main/java/org/cosa/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/jdbEj2/src/main/java/org/cosa/SentenciasSQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/jdbEj2/src/main/java/org/cosa/Transacciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../U2/jdbEj2/src/test/java/org/cosa/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/src/main/java/org/cosa/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/src/main/java/org/cosa/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/src/main/java/org/cosa/clases/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/src/main/java/org/cosa/clases/CarnetConducir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/src/main/java/org/cosa/clases/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/src/main/java/org/cosa/clases/Propietario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploExamenA/src/test/java/org/cosa/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploHibernate/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploHibernate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploHibernate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploHibernate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploHibernate/src/main/java/org/cosa/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploHibernate/src/main/java/org/cosa/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploHibernate/src/main/java/org/cosa/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploHibernate/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejemploHibernate/src/test/java/org/cosa/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/src/main/java/clases/Autor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/src/main/java/clases/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/src/main/java/clases/Biografia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/src/main/java/clases/Editorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/src/main/java/clases/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/src/main/java/org/cosa/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/src/main/java/org/cosa/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio1/src/test/java/org/cosa/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cosa/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cosa/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cosa/clases/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cosa/clases/CarnetConducir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cosa/clases/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cosa/clases/Propietario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/cosa/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../compartida/ad/exad2/iker/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/ej1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UT3/ej1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/ej1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UT3/ej1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/ej2relaciones/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UT3/ej2relaciones/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/ej2relaciones/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UT3/ej2relaciones/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../UT3/ej2relaciones/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../UT3/ej2relaciones/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad1/alexander/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad1/alexander/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad1/carlosFuster/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad1/carlosFuster/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad1/iker/ExamenA_Iker/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad1/iker/ExamenA_Iker/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad1/iker/ExamenA_Iker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad1/iker/ExamenA_Iker/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad1/yoel/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad1/yoel/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad1/yoel/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad1/yoel/.idea/libraries/Maven__org_postgresql_postgresql_42_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad1/yoel/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad1/yoel/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad1/yoel/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad1/yoel/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad2/carlosFuster/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad2/carlosFuster/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad2/iker/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad2/iker/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad2/iker/.idea/dataSources/ed9c1e31-241f-4888-8fa2-1417e48ba28a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad2/iker/.idea/dataSources/ed9c1e31-241f-4888-8fa2-1417e48ba28a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad2/iker/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad2/iker/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/exad2/yoel/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/exad2/yoel/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/ut3/ej1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/ut3/ej1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../compartida/ad/ut3/ejerciciosRELACIONES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../compartida/ad/ut3/ejerciciosRELACIONES.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3B07muwzYa887COsXndfpLOlSb7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b9fd0fe-43b2-427f-a380-6783f0bf8e28" name="Changes" comment="" />
+      <created>1773614295491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773614295491</updated>
+      <workItem from="1773614296926" duration="2160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

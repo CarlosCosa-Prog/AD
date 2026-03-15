@@ -9,8 +9,5 @@
         <module name="examen" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="examen" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>

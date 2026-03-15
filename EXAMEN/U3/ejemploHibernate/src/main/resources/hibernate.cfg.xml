@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+      <!-- 1. Escribir el url de postgresql con la base de datos -->
+      <property name="connection.url">jdbc:postgresql://localhost/pruebasHib</property>
+      <!-- 2. Escribir el Driver de postgresql -->
+      <property name="connection.driver_class">org.postgresql.Driver</property>
+      <!-- 3. Escribir el usuario y la contraseña de la BD -->
+      <property name="connection.username">root</property>
+      <property name="connection.password">root</property>
+
+      <!-- 4. Activar el show sql a true para poder por consola las sentencias sql -->
+      <property name="show_sql">true</property>
+
+      <!-- 5. Establecer que quieres que haga Hibernate con las tablas de la bd -->
+      <!-- update para modo desarrollo (mientras estás creando tablas o modificándolas)-->
+      <!-- validate para modo producción (cuando las tablas ya están creadas), comprueba que todo coincida
+      y si no coincide lanza un error y no arranca la aplicación-->
+      <property name="hibernate.hbm2ddl.auto">update</property>
+
+      <!-- Necesario para utilizar el getCurrentSession -->
+      <property name="hibernate.current_session_context_class">thread</property>
+  </session-factory>
+</hibernate-configuration>

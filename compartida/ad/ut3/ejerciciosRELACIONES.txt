@@ -1,8 +1,8 @@
 1. Realiza con Hibernate la aplicación para gestión de bibliotecas "Vinalopó" (con sedes en Elda, Petrer, Novelda, Monóvar, Villena, Sax ...) que genere las tablas, todas, con al menos una instancia, a partir de las siguientes relaciones.
 
-	- relación unidireccional N a N entre Libro y Autor, un libro tiene una lista de autores
-	- relación 1 a 1 entre Autor y Biografía
-	- N a N entre Libro y Biblioteca
+	- relación unidireccional N a N entre Libro y Autor, un libro tiene una lista de autores *
+	- relación 1 a 1 entre Autor y Biografía *
+	- N a N entre Libro y Biblioteca * 
 	- 1 a N entre Editorial y Libro
 	- Generalización entre Artículo, Disco y Libro con estrategia de tabla única y clase base abstracta
 
@@ -33,26 +33,3 @@ Todas las clases tendrán como clave principal un "Long id". El resto de atribut
 	Usuario(nombre, contraseña)
 	Departamento(nombre)
 	Ccoche(matricula, modelo)
-
-3. Sobre el ejercicio 2 realiza las siguientes consultas.
-
-	Sobre coches:
-
-	- obtén y muestra el coche con id 1
-	- muestra todos los coches haciendo uso del método list() de Session para la consulta
-	- igualmente, pero ahora con iterator() recuperando, en cada acceso, 5 elementos
-	- lista sólo los modelos de cada coche
-	- lista los modelos de cada coche cuya clave sea mayor que 1
-	- muestra el modelo del coche con clave 2 (consulta de resultado única)
-	- muestra las matrículas que empiecen por 1
-
-	Sobre departamentos:
-
-	- indica cuántas personas trabajan en cada departamento
-	- igual pero indicando de qué departamento se trata en cada caso
-
-	Consultas con CriteriaQuery:
-
-	- mostrar los empleados con un determinado salario (un valor concreto)
-	- muestra cuántos empleados tienen ese salario
-

@@ -5,35 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28fc6890-caa1-4fe1-be21-010b45a0c3cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../ej1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jdPractica/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jdPractica/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jdPractica/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jdPractica/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jdPractica/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jdPractica/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jdPractica/src/main/java/com/dam2/ejercicio1Conectar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jdPractica/src/main/java/com/dam2/practica1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jdPractica/src/main/java/com/dam2/prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../jdPractica/src/test/java/com/dam2/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/main/java/com/dam2/consulta1Forward.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/main/java/com/dam2/consulta2Scrolleable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/main/java/com/dam2/consulta3Actualizable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/main/java/com/dam2/ejercicio1conexion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/main/java/com/dam2/principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pruabasjcbc/src/test/java/com/dam2/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../UT1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../UT1/ejJAXB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT1/ejJAXB/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../UT2/ejerciciosJDB/ejerciciosJDB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT2/ejerciciosJDB/ejerciciosJDB/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../UT2/ejerciciosJDB/ejerciciosJDB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT2/ejerciciosJDB/ejerciciosJDB/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/ConexionBaseDatos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/ConexionBaseDatos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT2/ejerciciosJDBCSoluciones/target/classes/com/dam2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +41,9 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/ciclosm/Escritorio/AD/UT3/ej1/src/main/java/com/dam2",
+    "last_opened_file_path": "C:/Users/karlo/Music/AD/UT3/ej1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -110,8 +84,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
