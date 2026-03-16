@@ -16,7 +16,6 @@ public class CarnetConducir {
     @JoinColumn(name = "propietario_id")
     private Propietario propietario;
 
-
     public CarnetConducir() {
     }
 

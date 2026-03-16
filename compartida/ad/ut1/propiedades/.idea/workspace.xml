@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8edc67f-1aff-4ad3-a423-3ad59df825e8" name="Changes" comment="" />
+    <list default="true" id="c8edc67f-1aff-4ad3-a423-3ad59df825e8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../EXAMEN/U3/ejemploExamenA/src/main/java/org/cosa/clases/CarnetConducir.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../EXAMEN/U3/ejemploExamenA/src/main/java/org/cosa/clases/CarnetConducir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../UT2/EJERCICIOSJDB/ejerciciosJDB/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ut1Ejemplos/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ut1Ejemplos/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +23,12 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="32jRkwRDlc2z1X1ScNwrE2I3DVm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,9 +36,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/karlo/Music/AD/compartida/ad/ut1/propiedades",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -38,6 +52,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757932141860</updated>
       <workItem from="1757932142847" duration="770000" />
+      <workItem from="1773650839912" duration="44000" />
     </task>
     <servers />
   </component>
