@@ -2,7 +2,7 @@
 
 	- relación unidireccional N a N entre Libro y Autor, un libro tiene una lista de autores *
 	- relación 1 a 1 entre Autor y Biografía *
-	- N a N entre Libro y Biblioteca * 
+	- N a N entre Libro y Biblioteca 
 	- 1 a N entre Editorial y Libro
 	- Generalización entre Artículo, Disco y Libro con estrategia de tabla única y clase base abstracta
 
@@ -23,7 +23,7 @@ Todas las clases tendrán como clave principal un "Long id". El resto de atribut
 	- relación 1 a 1 entre Empleado y Usuario
 	- N a N entre Empleado y Coche
 	- 1 a N entre Departamento y Empleado
-	- Generalización entre Persona, Becario y Empleado con estrategia de tabla única
+	- Herencia entre Persona, Becario y Empleado con estrategia de tabla única
 
 	Persona(id,nom, salario)
 	Becario (horasFormacion)

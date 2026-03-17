@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<discos>
+    <productos>
+        <id>1</id>
+        <precio>15.0</precio>
+        <titulo>disco1</titulo>
+    </productos>
+    <productos>
+        <id>2</id>
+        <precio>20.0</precio>
+        <titulo>disco2</titulo>
+    </productos>
+</discos>

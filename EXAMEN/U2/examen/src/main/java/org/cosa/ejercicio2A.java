@@ -8,29 +8,36 @@ import java.nio.channels.FileChannel;
 import java.util.Arrays;
 import java.util.Random;
 
-/* Programa NIO que genere 100 números de lotería aleatorios (entre 0 y 9999), los guarde en un buffer,
-* muestre el contenido del buffer y lo escriba a un fichero "loteria.dat"*/
+/*Programa NIO que genere 100 números de lotería aleatorios entre 0 y 99999,
+* los guarde en un buffer, muestre el contenido y lo escriba a un fichero
+* "lotería.dat"*/
 public class ejercicio2A {
     public static void main(String[] args) {
-        ByteBuffer buffer = ByteBuffer.allocate(100*Integer.BYTES);
-
-        for(int i = 0; i < 100; i++){
-            int numero = new Random().nextInt(10000);
+        ByteBuffer buffer = ByteBuffer.allocate(100 * Integer.BYTES);
+        Random r = new Random();
+        for (int i = 0 ; i < 100 ; i++){
+            int numero = r.nextInt(100000);
             buffer.putInt(numero);
         }
 
         try(RandomAccessFile raf = new RandomAccessFile("loteria.dat","rw");
             FileChannel fc = raf.getChannel();) {
-            buffer.clear();
-            fc.write(buffer);
+
+            // escribir en el fichero
             buffer.flip();
+            fc.write(buffer);
+
+            fc.position(0); // establece la posición del fileChanel a 0
+
+            buffer.clear();
             fc.read(buffer);
+            buffer.flip();
 
             int numeros[] = new int[100];
-            for(int i = 0; i < 100; i++){
+            for(int i = 0 ; i < 100 ; i++){
                 numeros[i] = buffer.getInt();
             }
-            System.out.println("Numeros de loteria: " + Arrays.toString(numeros));
+            System.out.println("Numeros alatorios: " + Arrays.toString(numeros));
 
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);

@@ -1,7 +1,9 @@
-package com.dam2;
+package org.cosa.clases;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
+
 import java.io.Serializable;
+import java.util.ArrayList;
 import java.util.List;
 
 @Entity
@@ -10,36 +12,29 @@ public class Coche implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private String modelo;
+    @Column
     private String matricula;
-    @ManyToMany(cascade = CascadeType.ALL)
-    @JoinTable(name = "coches_empls",
-            joinColumns={@JoinColumn(name="id_coche")},
-    inverseJoinColumns={@JoinColumn(name="id_empleado")})
+    @Column
+    private String modelo;
+    //Relacion N a N con Empleado
+    @ManyToMany(cascade = CascadeType.PERSIST)
+    @JoinTable(name = "empleado_coche",
+            joinColumns = {@JoinColumn(name = "coche_id")},
+            inverseJoinColumns = {@JoinColumn(name = "empleado_id")})
     private List<Empleado> empleados;
 
     public Coche() {
+        empleados = new ArrayList<>();
     }
 
-    public Coche(String modelo, String matricula) {
-        this.modelo = modelo;
+    public Coche(String matricula, String modelo, List<Empleado> empleados) {
         this.matricula = matricula;
+        this.modelo = modelo;
+        this.empleados = empleados;
     }
 
     public Long getId() {
         return id;
-    }
-
-/*    public void setId(long id) {
-        this.id = id;
-    }*/
-
-    public String getModelo() {
-        return modelo;
-    }
-
-    public void setModelo(String modelo) {
-        this.modelo = modelo;
     }
 
     public String getMatricula() {
@@ -48,6 +43,14 @@ public class Coche implements Serializable {
 
     public void setMatricula(String matricula) {
         this.matricula = matricula;
+    }
+
+    public String getModelo() {
+        return modelo;
+    }
+
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
     }
 
     public List<Empleado> getEmpleados() {
@@ -62,10 +65,9 @@ public class Coche implements Serializable {
     public String toString() {
         return "Coche{" +
                 "id=" + id +
+                ", matricula='" + matricula + '\'' +
                 ", modelo='" + modelo + '\'' +
-                ", matricula='" + matricula + '\'' /*+
-                ", empleados=" + empleados*/ +
+                ", empleados=" + empleados +
                 '}';
     }
 }
-

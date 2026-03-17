@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<discos>
+    <discos>
+        <nombre>disco1</nombre>
+        <precio>25.99</precio>
+    </discos>
+    <discos>
+        <nombre>disco2</nombre>
+        <precio>19.99</precio>
+    </discos>
+</discos>
